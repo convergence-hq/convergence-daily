@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "The options market has absorbed AI infrastructure through NVIDIA at peak-hype convergence while leaving TSMC — the CoWoS packaging node where BIS export-control compounding and HBM supply constraints converge — at minimum scanner attention, with the sector's strongest-sourced corpus claim on the primary risk variable and convergence at 0.25 on the equity.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-06-15",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-15-cross-sector-brief@v1",
+      "falsification": "BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods — decision packet invalidation condition met. TSMC discloses HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes, indicating bottleneck relief rather than continuing tightness. Alternative advanced packaging capacity from Samsung or SK Hynix achieves yield and volume parity with TSMC CoWoS for current-generation accelerator designs, reducing TSMC's chokepoint position structurally. Hyperscaler cluster architectures shift materially toward custom silicon or internal networking that reduces CoWoS attach rates, severing the capex-pull-through-to-foundry chain.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260615crosssectorbrief",
+      "object_slug": "convergence-2026-06-15-cross-sector-brief",
+      "object_title": "The Factory the Chip Trade Forgot",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-15-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "AI infrastructure is the loudest thesis in public markets and the corpus confirms the underlying bottleneck dynamics are real — HBM and advanced packaging constraint, China export-control compounding risk, and hyperscaler capex pull-through visible in secondary-layer vendor IR — but the options scanner shows peak-hype convergence at the headline names and no clean asymmetric expression in the secondary bottleneck-stack names where the information edge actually lives. The decision packet correctly calls this a watchlist, not a trade.",
       "claim_kind": "predictive",
       "confidence": 0.72,

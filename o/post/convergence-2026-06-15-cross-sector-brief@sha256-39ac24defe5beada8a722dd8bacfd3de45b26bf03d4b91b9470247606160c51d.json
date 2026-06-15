@@ -1,0 +1,205 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_convergence20260615crosssectorbrief",
+  "slug": "convergence-2026-06-15-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-15T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Convergence Daily Desk",
+    "created_at": "2026-06-15T00:00:00Z",
+    "modified_at": "2026-06-15T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://convergence-daily/claim/convergence-2026-06-15-cross-sector-brief@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "entity_ids": [
+          "ent_tsmc",
+          "ent_nvidia",
+          "ent_broadcom",
+          "ent_micron",
+          "ent_amd"
+        ],
+        "format": "market_has_not_priced_story",
+        "human_action": "Add TSMC to the AI infrastructure bottleneck watchlist with BIS export-control compounding as the primary tracking variable, distinct from the NVDA/AVGO momentum frame. Monitor CoWoS allocation commentary in the next TSMC quarterly and semiconductor-equipment control scope in BIS rule updates. Do not enter a directional options position until the mechanism — BIS controls translating to CoWoS capacity constraints within an options-capturable timeframe — produces a falsifiable data signal at the quarterly earnings gate.",
+        "legal_disclaimer": "This publication is for informational purposes only and does not constitute investment advice, a solicitation, or an offer to buy or sell any security. Past paper-trading performance does not guarantee future results. All positions described are paper trades unless otherwise noted.",
+        "machine_action": "Track BIS regulatory database for advanced-computing, HBM, and semiconductor-equipment control amendments. Flag TSMC quarterly guidance language referencing China control adjustments or CoWoS lead-time normalization. Update convergence score for TSM on next scanner sweep and cross-reference advanced packaging capacity commentary from Samsung and SK Hynix IR for supply-parity signals.",
+        "methodology_footer": "Corpus claims sourced from BIS regulatory databases and named company IR filings as of 2026-05-15. Scanner data from 2026-04-28 sweep; convergence scores and IV levels carry a seven-week lag from publication date. Decision packet verdict: watchlist_candidate (dp_ai_infra_bottleneck_watchlist). Sector selected by diversity-adjusted convergence score after recency penalty applied to recently published themes.",
+        "position_conflict_disclosure": "No current book exposure to TSM or the AI infrastructure sector. Open positions are concentrated in agricultural commodity and FX expressions (CORN, FXA) around ENSO/IRI data catalysts. No conflict.",
+        "product": "convergence_daily",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-15",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "ths_ai_infra_bottleneck_stack"
+        ],
+        "uncertainty": "The primary uncertainty is whether BIS semiconductor-equipment controls translate to CoWoS capacity constraints at a speed that options market structures can capture. The bottleneck is structural and slow-moving; BIS rule updates are episodic and not calendared. A quarterly earnings miss citing control-related capacity constraints would be the most direct bridge between corpus confidence and market pricing."
+      },
+      "original_issue": {
+        "confidence": "medium",
+        "entity_ids": [
+          "ent_tsmc",
+          "ent_nvidia",
+          "ent_broadcom",
+          "ent_micron",
+          "ent_amd"
+        ],
+        "falsification": "BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods — decision packet invalidation condition met. TSMC discloses HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes, indicating bottleneck relief rather than continuing tightness. Alternative advanced packaging capacity from Samsung or SK Hynix achieves yield and volume parity with TSMC CoWoS for current-generation accelerator designs, reducing TSMC's chokepoint position structurally. Hyperscaler cluster architectures shift materially toward custom silicon or internal networking that reduces CoWoS attach rates, severing the capex-pull-through-to-foundry chain.",
+        "format": "market_has_not_priced_story",
+        "headline": "The Factory the Chip Trade Forgot",
+        "human_action": "Add TSMC to the AI infrastructure bottleneck watchlist with BIS export-control compounding as the primary tracking variable, distinct from the NVDA/AVGO momentum frame. Monitor CoWoS allocation commentary in the next TSMC quarterly and semiconductor-equipment control scope in BIS rule updates. Do not enter a directional options position until the mechanism — BIS controls translating to CoWoS capacity constraints within an options-capturable timeframe — produces a falsifiable data signal at the quarterly earnings gate.",
+        "issue_id": "convergence-2026-06-15-cross-sector-brief",
+        "legal_disclaimer": "This publication is for informational purposes only and does not constitute investment advice, a solicitation, or an offer to buy or sell any security. Past paper-trading performance does not guarantee future results. All positions described are paper trades unless otherwise noted.",
+        "machine_action": "Track BIS regulatory database for advanced-computing, HBM, and semiconductor-equipment control amendments. Flag TSMC quarterly guidance language referencing China control adjustments or CoWoS lead-time normalization. Update convergence score for TSM on next scanner sweep and cross-reference advanced packaging capacity commentary from Samsung and SK Hynix IR for supply-parity signals.",
+        "methodology_footer": "Corpus claims sourced from BIS regulatory databases and named company IR filings as of 2026-05-15. Scanner data from 2026-04-28 sweep; convergence scores and IV levels carry a seven-week lag from publication date. Decision packet verdict: watchlist_candidate (dp_ai_infra_bottleneck_watchlist). Sector selected by diversity-adjusted convergence score after recency penalty applied to recently published themes.",
+        "position_conflict_disclosure": "No current book exposure to TSM or the AI infrastructure sector. Open positions are concentrated in agricultural commodity and FX expressions (CORN, FXA) around ENSO/IRI data catalysts. No conflict.",
+        "product": "convergence_daily",
+        "publication_date": "2026-06-15",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-15",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'id': 'sig-ai-infra-export-controls-china', 'label': 'BIS controls as compounding revenue-risk variable at foundry suppliers', 'strength': 0.86, 'description': 'Advanced-computing, HBM, and semiconductor-equipment controls have compounded across successive product generations into a recurring product-mix and capacity constraint for AI accelerator, memory, and foundry suppliers. TSMC quarterly guidance explicitly accounts for China control adjustments each reporting cycle. Sourced from BIS regulatory databases and named company IR — highest corpus confidence in the sector.'}",
+          "{'id': 'sig-ai-infra-hbm-packaging-bottleneck', 'label': 'TSMC CoWoS as structural shipment chokepoint for current-generation accelerators', 'strength': 0.82, 'description': 'CoWoS allocation windows and HBM packaging lead times remain above normal procurement horizons, documented in TSMC quarterly calls and third-party semiconductor research. Samsung and SK Hynix lag on yield and volume for current-generation workloads. No credible near-term substitute exists for TSMC CoWoS at meaningful scale.'}",
+          "{'id': 'sig-ai-infra-capex-pullthrough', 'label': 'Hyperscaler capex visible in vendor IR ahead of hyperscaler guidance', 'strength': 0.78, 'description': 'Accelerator, server OEM, networking, and power/cooling vendor disclosures capture hyperscaler capex commitments before they appear in hyperscaler earnings guidance. TSMC foundry allocation sits at the terminal end of this pull-through chain, making it a lagging but high-conviction confirmation node.'}",
+          "{'id': 'sig-ai-infra-tsm-scanner-gap', 'label': 'TSM at LOW convergence while corpus carries highest-confidence claim in sector', 'strength': 0.9, 'description': 'TSM convergence score 0.25 (LOW tier), four scanner contracts, asymmetry 2.43–2.98 on 480 and 500 strike calls at 50 and 79 DTE, underlying 393.58, IV 46.8–47.7. NVDA convergence 0.924 (peak hype), 35 contracts. AVGO 0.62 (peak hype), asymmetry 9.15 — a momentum expression on custom-silicon exposure, not a packaging or BIS-risk structure. Scanner data from 2026-04-28; directionally valid, IV levels may have moved.'}"
+        ],
+        "state": "observing",
+        "thesis": "The options market has absorbed AI infrastructure through NVIDIA at peak-hype convergence while leaving TSMC — the CoWoS packaging node where BIS export-control compounding and HBM supply constraints converge — at minimum scanner attention, with the sector's strongest-sourced corpus claim on the primary risk variable and convergence at 0.25 on the equity.",
+        "trend_ids": [
+          "ths_ai_infra_bottleneck_stack"
+        ],
+        "uncertainty": "The primary uncertainty is whether BIS semiconductor-equipment controls translate to CoWoS capacity constraints at a speed that options market structures can capture. The bottleneck is structural and slow-moving; BIS rule updates are episodic and not calendared. A quarterly earnings miss citing control-related capacity constraints would be the most direct bridge between corpus confidence and market pricing."
+      }
+    }
+  },
+  "title": "The Factory the Chip Trade Forgot",
+  "summary": "The options market has absorbed AI infrastructure through NVIDIA at peak-hype convergence while leaving TSMC — the CoWoS packaging node where BIS export-control compounding and HBM supply constraints converge — at minimum scanner attention, with the sector's strongest-sourced corpus claim on the primary risk variable and convergence at 0.25 on the equity.",
+  "authors": [
+    {
+      "name": "Convergence Daily",
+      "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The options market has absorbed AI infrastructure through NVIDIA at peak-hype convergence while leaving TSMC — the CoWoS packaging node where BIS export-control compounding and HBM supply constraints converge — at minimum scanner attention, with the sector's strongest-sourced corpus claim on the primary risk variable and convergence at 0.25 on the equity.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-06-15",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-15-cross-sector-brief@v1",
+      "falsification": "BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods — decision packet invalidation condition met. TSMC discloses HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes, indicating bottleneck relief rather than continuing tightness. Alternative advanced packaging capacity from Samsung or SK Hynix achieves yield and volume parity with TSMC CoWoS for current-generation accelerator designs, reducing TSMC's chokepoint position structurally. Hyperscaler cluster architectures shift materially toward custom silicon or internal networking that reduces CoWoS attach rates, severing the capex-pull-through-to-foundry chain."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Factory the Chip Trade Forgot",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The options market has absorbed AI infrastructure through NVIDIA at peak-hype convergence while leaving TSMC — the CoWoS packaging node where BIS export-control compounding and HBM supply constraints converge — at minimum scanner attention, with the sector's strongest-sourced corpus claim on the primary risk variable and convergence at 0.25 on the equity.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "BIS controls as compounding revenue-risk variable at foundry suppliers: Advanced-computing, HBM, and semiconductor-equipment controls have compounded across successive product generations into a recurring product-mix and capacity constraint for AI accelerator, memory, and foundry suppliers. TSMC quarterly guidance explicitly accounts for China control adjustments each reporting cycle. Sourced from BIS regulatory databases and named company IR — highest corpus confidence in the sector. (strength: 0.86)\n\nTSMC CoWoS as structural shipment chokepoint for current-generation accelerators: CoWoS allocation windows and HBM packaging lead times remain above normal procurement horizons, documented in TSMC quarterly calls and third-party semiconductor research. Samsung and SK Hynix lag on yield and volume for current-generation workloads. No credible near-term substitute exists for TSMC CoWoS at meaningful scale. (strength: 0.82)\n\nHyperscaler capex visible in vendor IR ahead of hyperscaler guidance: Accelerator, server OEM, networking, and power/cooling vendor disclosures capture hyperscaler capex commitments before they appear in hyperscaler earnings guidance. TSMC foundry allocation sits at the terminal end of this pull-through chain, making it a lagging but high-conviction confirmation node. (strength: 0.78)\n\nTSM at LOW convergence while corpus carries highest-confidence claim in sector: TSM convergence score 0.25 (LOW tier), four scanner contracts, asymmetry 2.43–2.98 on 480 and 500 strike calls at 50 and 79 DTE, underlying 393.58, IV 46.8–47.7. NVDA convergence 0.924 (peak hype), 35 contracts. AVGO 0.62 (peak hype), asymmetry 9.15 — a momentum expression on custom-silicon exposure, not a packaging or BIS-risk structure. Scanner data from 2026-04-28; directionally valid, IV levels may have moved. (strength: 0.9)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods — decision packet invalidation condition met. TSMC discloses HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes, indicating bottleneck relief rather than continuing tightness. Alternative advanced packaging capacity from Samsung or SK Hynix achieves yield and volume parity with TSMC CoWoS for current-generation accelerator designs, reducing TSMC's chokepoint position structurally. Hyperscaler cluster architectures shift materially toward custom silicon or internal networking that reduces CoWoS attach rates, severing the capex-pull-through-to-foundry chain.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Convergence Daily. \"The Factory the Chip Trade Forgot.\" Convergence Daily. 2026-06-15. Resolve signal://convergence-daily/claim/convergence-2026-06-15-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-2026-06-15-cross-sector-brief@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-15",
+      "published_at": "2026-06-15T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

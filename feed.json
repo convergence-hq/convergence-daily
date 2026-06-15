@@ -6,6 +6,27 @@
   "description": "Real Convergence Daily episodes published through the dual-native engine.",
   "items": [
     {
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-15-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d.json",
+      "title": "The Factory the Chip Trade Forgot",
+      "summary": "The options market has absorbed AI infrastructure through NVIDIA at peak-hype convergence while leaving TSMC — the CoWoS packaging node where BIS export-control compounding and HBM supply constraints converge — at minimum scanner attention, with the sector's strongest-sourced corpus claim on the primary risk variable and convergence at 0.25 on the equity.",
+      "content_text": "The Factory the Chip Trade Forgot\n\nThesis\nThe options market has absorbed AI infrastructure through NVIDIA at peak-hype convergence while leaving TSMC — the CoWoS packaging node where BIS export-control compounding and HBM supply constraints converge — at minimum scanner attention, with the sector's strongest-sourced corpus claim on the primary risk variable and convergence at 0.25 on the equity.\n\nSignals\nBIS controls as compounding revenue-risk variable at foundry suppliers: Advanced-computing, HBM, and semiconductor-equipment controls have compounded across successive product generations into a recurring product-mix and capacity constraint for AI accelerator, memory, and foundry suppliers. TSMC quarterly guidance explicitly accounts for China control adjustments each reporting cycle. Sourced from BIS regulatory databases and named company IR — highest corpus confidence in the sector. (strength: 0.86)\n\nTSMC CoWoS as structural shipment chokepoint for current-generation accelerators: CoWoS allocation windows and HBM packaging lead times remain above normal procurement horizons, documented in TSMC quarterly calls and third-party semiconductor research. Samsung and SK Hynix lag on yield and volume for current-generation workloads. No credible near-term substitute exists for TSMC CoWoS at meaningful scale. (strength: 0.82)\n\nHyperscaler capex visible in vendor IR ahead of hyperscaler guidance: Accelerator, server OEM, networking, and power/cooling vendor disclosures capture hyperscaler capex commitments before they appear in hyperscaler earnings guidance. TSMC foundry allocation sits at the terminal end of this pull-through chain, making it a lagging but high-conviction confirmation node. (strength: 0.78)\n\nTSM at LOW convergence while corpus carries highest-confidence claim in sector: TSM convergence score 0.25 (LOW tier), four scanner contracts, asymmetry 2.43–2.98 on 480 and 500 strike calls at 50 and 79 DTE, underlying 393.58, IV 46.8–47.7. NVDA convergence 0.924 (peak hype), 35 contracts. AVGO 0.62 (peak hype), asymmetry 9.15 — a momentum expression on custom-silicon exposure, not a packaging or BIS-risk structure. Scanner data from 2026-04-28; directionally valid, IV levels may have moved. (strength: 0.9)\n\nWhat would falsify it\nBIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods — decision packet invalidation condition met. TSMC discloses HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes, indicating bottleneck relief rather than continuing tightness. Alternative advanced packaging capacity from Samsung or SK Hynix achieves yield and volume parity with TSMC CoWoS for current-generation accelerator designs, reducing TSMC's chokepoint position structurally. Hyperscaler cluster architectures shift materially toward custom silicon or internal networking that reduces CoWoS attach rates, severing the capex-pull-through-to-foundry chain.",
+      "date_published": "2026-06-15T00:00:00Z",
+      "authors": [
+        {
+          "name": "Convergence Daily",
+          "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ],
+      "_convergence_access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief@sha256-7747cc6e995f242cb15051d85a69b061e6a304e0d74efbc630022fd0f840e163.json",
       "url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-12-cross-sector-brief/",
       "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief@sha256-7747cc6e995f242cb15051d85a69b061e6a304e0d74efbc630022fd0f840e163.json",

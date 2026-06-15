@@ -39,6 +39,22 @@
       ],
       "item": [
         {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Factory the Chip Trade Forgot latest object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d.json",
+          "type": "application/json",
+          "title": "The Factory the Chip Trade Forgot immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief.json",
           "type": "application/json",
           "title": "All the Bottlenecks, None of the Asymmetry latest object",

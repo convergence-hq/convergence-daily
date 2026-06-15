@@ -7,6 +7,30 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260615crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-06-15-cross-sector-brief",
+      "title": "The Factory the Chip Trade Forgot",
+      "summary": "The options market has absorbed AI infrastructure through NVIDIA at peak-hype convergence while leaving TSMC — the CoWoS packaging node where BIS export-control compounding and HBM supply constraints converge — at minimum scanner attention, with the sector's strongest-sourced corpus claim on the primary risk variable and convergence at 0.25 on the equity.",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-15T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-15T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-15-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "obj_convergence20260612crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-06-12-cross-sector-brief",
