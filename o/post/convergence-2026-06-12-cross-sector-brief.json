@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_convergence20260612crosssectorbrief",
+  "slug": "convergence-2026-06-12-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief@sha256-2df4d82c4f39890f199b97677f4d2fea244a76265244d92be0d70333d8cd84e5.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-12T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "2df4d82c4f39890f199b97677f4d2fea244a76265244d92be0d70333d8cd84e5",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Convergence Daily Desk",
+    "created_at": "2026-06-12T00:00:00Z",
+    "modified_at": "2026-06-12T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://convergence-daily/claim/convergence-2026-06-12-cross-sector-brief@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "entity_ids": [
+          "ent_nvidia",
+          "ent_broadcom",
+          "ent_dell",
+          "ent_vertiv",
+          "ent_arista",
+          "ent_micron",
+          "ent_tsmc",
+          "ent_amd"
+        ],
+        "format": "narrative_loud_trade_bad",
+        "human_action": "Maintain watchlist on secondary bottleneck-stack names — VRT, ANET, MU. No new options expression warranted at current scanner levels. Monitor Q2 earnings pull-through language in Vertiv, Arista, and Micron IR for deceleration before hyperscaler guidance. Request scanner resweep post-Q2 earnings cycle (late July to early August 2026) to assess whether asymmetry has opened in the secondary names.",
+        "machine_action": "Track Vertiv, Arista, and Micron IR releases for pull-through deceleration signals relative to the prior quarter. Monitor BIS regulatory docket for HBM and advanced-computing control amendments. Flag if TSM or MU HBM lead-time commentary normalizes below standard procurement windows in any quarterly disclosure. Update scanner sweep after Q2 earnings cycle completes.",
+        "methodology_footer": "Corpus claims sourced from named primary IR filings and regulatory databases at 0.78–0.86 confidence. Scanner output from 2026-04-28 sweep across 47 tickers; 35 contracts passed for the AI Infrastructure theme across NVDA, AVGO, VRT, ANET, MU, TSM, DELL. Decision packet dp_ai_infra_bottleneck_watchlist verdict: watchlist_candidate, execution_state: human_review_required. Format selected as narrative_loud_trade_bad per selection_metadata recommendation and confirmed by peak-hype convergence scores at headline names alongside absence of asymmetric setups in the secondary bottleneck-stack names.",
+        "position_conflict_disclosure": "No current book exposure in AI infrastructure in paper or live book. No conflict with the watchlist-candidate verdict.",
+        "product": "convergence_daily",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-12",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "ths_ai_infra_bottleneck_stack"
+        ],
+        "uncertainty": "Scanner data is six weeks old (2026-04-28); current IV and open interest may differ materially from scan output, particularly given the AVGO price move implied by the underlying at $399.35 vs. a 480 strike. The bottleneck-stack thesis depends on continued HBM and packaging tightness — any normalization in Micron or TSMC lead-time commentary invalidates the supply-constraint leg. Export-control thesis depends on BIS enforcement posture, which can shift on diplomatic timelines not captured in vendor IR."
+      },
+      "original_issue": {
+        "confidence": "medium_high",
+        "entity_ids": [
+          "ent_nvidia",
+          "ent_broadcom",
+          "ent_dell",
+          "ent_vertiv",
+          "ent_arista",
+          "ent_micron",
+          "ent_tsmc",
+          "ent_amd"
+        ],
+        "falsification": "Microsoft, Alphabet, Amazon, Meta, and Oracle each guide AI infrastructure capex lower for two consecutive reporting cycles while NVDA, AVGO, DELL, ANET, and VRT all report decelerating AI backlog or order commentary — collapses the capex pull-through claim. Micron, Samsung, SK Hynix, or TSMC disclose HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes — deflates the packaging bottleneck thesis. BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods — removes the export-control compounding claim. Hyperscaler cluster architectures shift away from the public-vendor bottleneck stack, with custom silicon, internal networking, or alternative accelerators reducing attach rates for NVDA, AVGO, ANET, MU, or VRT.",
+        "format": "narrative_loud_trade_bad",
+        "headline": "All the Bottlenecks, None of the Asymmetry",
+        "human_action": "Maintain watchlist on secondary bottleneck-stack names — VRT, ANET, MU. No new options expression warranted at current scanner levels. Monitor Q2 earnings pull-through language in Vertiv, Arista, and Micron IR for deceleration before hyperscaler guidance. Request scanner resweep post-Q2 earnings cycle (late July to early August 2026) to assess whether asymmetry has opened in the secondary names.",
+        "issue_id": "convergence-2026-06-12-cross-sector-brief",
+        "machine_action": "Track Vertiv, Arista, and Micron IR releases for pull-through deceleration signals relative to the prior quarter. Monitor BIS regulatory docket for HBM and advanced-computing control amendments. Flag if TSM or MU HBM lead-time commentary normalizes below standard procurement windows in any quarterly disclosure. Update scanner sweep after Q2 earnings cycle completes.",
+        "methodology_footer": "Corpus claims sourced from named primary IR filings and regulatory databases at 0.78–0.86 confidence. Scanner output from 2026-04-28 sweep across 47 tickers; 35 contracts passed for the AI Infrastructure theme across NVDA, AVGO, VRT, ANET, MU, TSM, DELL. Decision packet dp_ai_infra_bottleneck_watchlist verdict: watchlist_candidate, execution_state: human_review_required. Format selected as narrative_loud_trade_bad per selection_metadata recommendation and confirmed by peak-hype convergence scores at headline names alongside absence of asymmetric setups in the secondary bottleneck-stack names.",
+        "position_conflict_disclosure": "No current book exposure in AI infrastructure in paper or live book. No conflict with the watchlist-candidate verdict.",
+        "product": "convergence_daily",
+        "publication_date": "2026-06-12",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-12",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'id': 'sig-ai-infra-capex-pullthrough', 'label': 'Hyperscaler capex pull-through visible in vendor IR ahead of hyperscaler guidance', 'strength': 0.78, 'description': 'Accelerator, custom silicon, AI server OEM, cloud networking, and power/cooling vendor disclosures capture capex commitments before they appear in hyperscaler earnings guidance, making the secondary-layer IR a leading proxy for the infrastructure cycle. Primary sourced from NVDA, AVGO, DELL, and VRT quarterly filings and IR.'}",
+          "{'id': 'sig-ai-infra-export-controls-china', 'label': 'BIS controls as recurring product-mix and revenue-risk variable across successive product generations', 'strength': 0.86, 'description': 'Advanced-computing, HBM, and semiconductor equipment controls make China access a compounding constraint — not a one-time write-down — for accelerator, memory, and foundry suppliers. NVDA, MU, and TSM quarterly guidance routinely includes China-control adjustments. Primary BIS regulatory databases and named company IR.'}",
+          "{'id': 'sig-ai-infra-hbm-packaging-bottleneck', 'label': 'HBM supply and advanced packaging as structural constraint on accelerator shipments', 'strength': 0.82, 'description': 'HBM allocation lead times and CoWoS-equivalent advanced packaging windows remain above standard procurement horizons. Documented in Micron and TSMC quarterly calls and SemiAnalysis primary research. Every leading GPU and custom-silicon design requires dense memory stacks and high-yield package integration.'}",
+          "{'id': 'sig-ai-infra-scanner-peak-hype-gap', 'label': 'Peak-hype convergence at headline names; bottleneck-stack names at LOW convergence or absent', 'strength': 0.9, 'description': 'NVDA convergence 0.80 peak-hype (top tier, 35 contracts across theme). AVGO convergence 0.62 peak-hype, top asymmetry score 9.15 on 480-strike call 20.2% OTM with 30 DTE at $399.35 underlying — deep-OTM momentum expression, not a bottleneck thesis. TSM LOW convergence 0.25, asymmetry 2.43–2.98 across four contracts. VRT MEDIUM (0.50) with no passing contracts. Scan date 2026-04-28 — six-week lag; IV levels may be stale, tier rankings directionally valid.'}"
+        ],
+        "state": "observing",
+        "thesis": "AI infrastructure is the loudest thesis in public markets and the corpus confirms the underlying bottleneck dynamics are real — HBM and advanced packaging constraint, China export-control compounding risk, and hyperscaler capex pull-through visible in secondary-layer vendor IR — but the options scanner shows peak-hype convergence at the headline names and no clean asymmetric expression in the secondary bottleneck-stack names where the information edge actually lives. The decision packet correctly calls this a watchlist, not a trade.",
+        "trend_ids": [
+          "ths_ai_infra_bottleneck_stack"
+        ],
+        "uncertainty": "Scanner data is six weeks old (2026-04-28); current IV and open interest may differ materially from scan output, particularly given the AVGO price move implied by the underlying at $399.35 vs. a 480 strike. The bottleneck-stack thesis depends on continued HBM and packaging tightness — any normalization in Micron or TSMC lead-time commentary invalidates the supply-constraint leg. Export-control thesis depends on BIS enforcement posture, which can shift on diplomatic timelines not captured in vendor IR."
+      }
+    }
+  },
+  "title": "All the Bottlenecks, None of the Asymmetry",
+  "summary": "AI infrastructure is the loudest thesis in public markets and the corpus confirms the underlying bottleneck dynamics are real — HBM and advanced packaging constraint, China export-control compounding risk, and hyperscaler capex pull-through visible in secondary-layer vendor IR — but the options scanner shows peak-hype convergence at the headline names and no clean asymmetric expression in the secondary bottleneck-stack names where the information edge actually lives.",
+  "authors": [
+    {
+      "name": "Convergence Daily",
+      "url": "https://daily.convergence.dev/authors/convergence-daily/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "AI infrastructure is the loudest thesis in public markets and the corpus confirms the underlying bottleneck dynamics are real — HBM and advanced packaging constraint, China export-control compounding risk, and hyperscaler capex pull-through visible in secondary-layer vendor IR — but the options scanner shows peak-hype convergence at the headline names and no clean asymmetric expression in the secondary bottleneck-stack names where the information edge actually lives. The decision packet correctly calls this a watchlist, not a trade.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-12",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-12-cross-sector-brief@v1",
+      "falsification": "Microsoft, Alphabet, Amazon, Meta, and Oracle each guide AI infrastructure capex lower for two consecutive reporting cycles while NVDA, AVGO, DELL, ANET, and VRT all report decelerating AI backlog or order commentary — collapses the capex pull-through claim. Micron, Samsung, SK Hynix, or TSMC disclose HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes — deflates the packaging bottleneck thesis. BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods — removes the export-control compounding claim. Hyperscaler cluster architectures shift away from the public-vendor bottleneck stack, with custom silicon, internal networking, or alternative accelerators reducing attach rates for NVDA, AVGO, ANET, MU, or VRT."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "All the Bottlenecks, None of the Asymmetry",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "AI infrastructure is the loudest thesis in public markets and the corpus confirms the underlying bottleneck dynamics are real — HBM and advanced packaging constraint, China export-control compounding risk, and hyperscaler capex pull-through visible in secondary-layer vendor IR — but the options scanner shows peak-hype convergence at the headline names and no clean asymmetric expression in the secondary bottleneck-stack names where the information edge actually lives. The decision packet correctly calls this a watchlist, not a trade.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "Hyperscaler capex pull-through visible in vendor IR ahead of hyperscaler guidance: Accelerator, custom silicon, AI server OEM, cloud networking, and power/cooling vendor disclosures capture capex commitments before they appear in hyperscaler earnings guidance, making the secondary-layer IR a leading proxy for the infrastructure cycle. Primary sourced from NVDA, AVGO, DELL, and VRT quarterly filings and IR. (strength: 0.78)\n\nBIS controls as recurring product-mix and revenue-risk variable across successive product generations: Advanced-computing, HBM, and semiconductor equipment controls make China access a compounding constraint — not a one-time write-down — for accelerator, memory, and foundry suppliers. NVDA, MU, and TSM quarterly guidance routinely includes China-control adjustments. Primary BIS regulatory databases and named company IR. (strength: 0.86)\n\nHBM supply and advanced packaging as structural constraint on accelerator shipments: HBM allocation lead times and CoWoS-equivalent advanced packaging windows remain above standard procurement horizons. Documented in Micron and TSMC quarterly calls and SemiAnalysis primary research. Every leading GPU and custom-silicon design requires dense memory stacks and high-yield package integration. (strength: 0.82)\n\nPeak-hype convergence at headline names; bottleneck-stack names at LOW convergence or absent: NVDA convergence 0.80 peak-hype (top tier, 35 contracts across theme). AVGO convergence 0.62 peak-hype, top asymmetry score 9.15 on 480-strike call 20.2% OTM with 30 DTE at $399.35 underlying — deep-OTM momentum expression, not a bottleneck thesis. TSM LOW convergence 0.25, asymmetry 2.43–2.98 across four contracts. VRT MEDIUM (0.50) with no passing contracts. Scan date 2026-04-28 — six-week lag; IV levels may be stale, tier rankings directionally valid. (strength: 0.9)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Microsoft, Alphabet, Amazon, Meta, and Oracle each guide AI infrastructure capex lower for two consecutive reporting cycles while NVDA, AVGO, DELL, ANET, and VRT all report decelerating AI backlog or order commentary — collapses the capex pull-through claim. Micron, Samsung, SK Hynix, or TSMC disclose HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes — deflates the packaging bottleneck thesis. BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods — removes the export-control compounding claim. Hyperscaler cluster architectures shift away from the public-vendor bottleneck stack, with custom silicon, internal networking, or alternative accelerators reducing attach rates for NVDA, AVGO, ANET, MU, or VRT.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Convergence Daily. \"All the Bottlenecks, None of the Asymmetry.\" Convergence Daily. 2026-06-12. Resolve signal://convergence-daily/claim/convergence-2026-06-12-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-2026-06-12-cross-sector-brief@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-12",
+      "published_at": "2026-06-12T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

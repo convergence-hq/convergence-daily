@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_convergence20260605crosssectorbrief",
+  "slug": "convergence-2026-06-05-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-4606000133c17039457efaccc2af4395be5edabb95981d0086e344e71f8ab379.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-05T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "4606000133c17039457efaccc2af4395be5edabb95981d0086e344e71f8ab379",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Convergence Daily Desk",
+    "created_at": "2026-06-05T00:00:00Z",
+    "modified_at": "2026-06-05T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://convergence-daily/claim/convergence-2026-06-05-cross-sector-brief@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "entity_ids": [
+          "ent_core_scientific",
+          "ent_hut8",
+          "ent_iren",
+          "ent_bit_digital",
+          "ent_hive",
+          "ent_mara",
+          "ent_riot",
+          "ent_cleanspark",
+          "ent_bitmain",
+          "ent_microbt",
+          "ent_canaan"
+        ],
+        "format": "market_has_not_priced_story",
+        "human_action": "Construct a two-column watchlist. Column one: pure-play names (MARA, RIOT, CLSK) gated by weekly hashprice relative to estimated cash costs and BTC spot, with ASIC delivery and tariff-landed-cost as secondary monitors. Column two: AI/HPC-pivot names (CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR) gated by hyperscaler PPA announcements, lease-duration disclosures, and power pipeline updates from earnings and IR filings. Do not express the infrastructure rerating thesis through MARA or RIOT calls — the scanner correctly reads those names as post_peak BTC-cycle beta at elevated IV. Monitor for options chain development in CORZ, HUT, and IREN; the first scanner result in those names at a thesis-implied/market-implied ratio above 1.5x is the entry signal.",
+        "machine_action": "Track weekly hashprice (dollars per PH per day) against the $40 survivability threshold for pure-play names. Monitor Bitmain and Canaan ASIC delivery cadence and tariff-landed-cost disclosures in public miner filings. Flag any hyperscaler AI/HPC lease or PPA cancellation or delay disclosed by Core Scientific, Hut 8, IREN, TeraWulf, Bit Digital, or Cipher Mining. Alert on Texas ERCOT large-load curtailment events at named miner facilities. Run quarterly scanner passes against CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR option chains; promote to active if any result clears asymmetry threshold above 1.5x.",
+        "methodology_footer": "Corpus claims sourced from public miner Q1-Q2 2026 earnings filings: Core Scientific, Hut 8, IREN, Bit Digital, HIVE, Marathon Digital, Riot Platforms, CleanSpark, Bitmain S21/S21 XP disclosure, Canaan Q2 2025 filings. Regulatory sources: Texas PUC VCM and SB 6 interconnection records, New York GEIS proof-of-work environmental review, IRS Section 6050I digital-asset guidance. Options scanner data from 2026-04-28 sweep across 1,096 contracts fetched, 124 passed, 12 Bitcoin Mining theme contracts identified. Decision packet verdict: watchlist_candidate, execution_state: human_review_required.",
+        "position_conflict_disclosure": "No open positions in bitcoin-mining sector names as of 2026-06-05. Open book positions are three FXA put spread structures (short) tied to NOAA ENSO climate catalyst events in June and August 2026. No conflict with bitcoin mining sector.",
+        "product": "convergence_daily",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported. Scanner data from 2026-04-28; AI-pivot names absent from options surface by market structure, not scan failure.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-05-16",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-16",
+              "notes": "Hashprice time series current through evidence date.",
+              "source_name": "src_bitcoin_mining_hashrate_index_hashprice"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-16",
+              "notes": "Q1 2026 earnings filing read.",
+              "source_name": "src_bitcoin_mining_core_scientific_results"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-16",
+              "notes": "Q1 2026 earnings filing read.",
+              "source_name": "src_bitcoin_mining_hut8_q1_2026"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-16",
+              "notes": "Q1 2026 earnings filing read.",
+              "source_name": "src_bitcoin_mining_mara_q1_2026"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-16",
+              "notes": "Texas PUC large-load and VCM rules current through evidence date.",
+              "source_name": "src_bitcoin_mining_texas_puc_vcm"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-04-28",
+              "notes": "Scanner sweep from 2026-04-28. AI-pivot miner names absent from options surface by market structure.",
+              "source_name": "pft_scanner_2026-04-28"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "ths_bitcoin_mining_hashprice_power_hpc"
+        ],
+        "uncertainty": "The AI/HPC-pivot valuation framework depends on hyperscaler lease and PPA economics that are disclosed selectively in company IR filings and have not been independently verified by analyst consensus at sufficient coverage. Treat the infrastructure rerating as a watching brief rather than a high-conviction expression. The scanner gap is structural — thin options markets on pivot names — not a temporary data deficiency. The pure-play analysis (MARA/RIOT at post_peak, elevated IV) carries higher confidence because the scanner surface exists and corroborates the corpus reading."
+      },
+      "original_issue": {
+        "confidence": "medium_high",
+        "entity_ids": [
+          "ent_core_scientific",
+          "ent_hut8",
+          "ent_iren",
+          "ent_bit_digital",
+          "ent_hive",
+          "ent_mara",
+          "ent_riot",
+          "ent_cleanspark",
+          "ent_bitmain",
+          "ent_microbt",
+          "ent_canaan"
+        ],
+        "falsification": "Hyperscaler AI/HPC lease or PPA cancellations cluster across two or more of Core Scientific, Hut 8, IREN, TeraWulf, Cipher, or Bit Digital in a single quarter, signaling the infrastructure pivot is not delivering contracted margin and collapsing the bifurcation thesis. Hashprice holds below $40 per PH per day for four consecutive weeks, pressing pure-play miner cash-cost survivability and reframing the sector as distress rather than bifurcation. Bitmain ASIC tariffs spike landed cost more than 50% for two consecutive quarters, breaking fleet-upgrade economics for ASIC-dependent pure-plays before the efficiency transition completes. BTC sustains a sub-$30,000 drawdown beyond 12 months, eliminating the BTC treasury optionality that keeps pure-play balance sheets solvent and compressing sector cash flow across both cohorts. Texas ERCOT large-load rules or state-level restrictions force repeated curtailment or delayed interconnection at major public-miner facilities for two consecutive quarters.",
+        "format": "market_has_not_priced_story",
+        "headline": "Petahash Was the Cover Story",
+        "human_action": "Construct a two-column watchlist. Column one: pure-play names (MARA, RIOT, CLSK) gated by weekly hashprice relative to estimated cash costs and BTC spot, with ASIC delivery and tariff-landed-cost as secondary monitors. Column two: AI/HPC-pivot names (CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR) gated by hyperscaler PPA announcements, lease-duration disclosures, and power pipeline updates from earnings and IR filings. Do not express the infrastructure rerating thesis through MARA or RIOT calls — the scanner correctly reads those names as post_peak BTC-cycle beta at elevated IV. Monitor for options chain development in CORZ, HUT, and IREN; the first scanner result in those names at a thesis-implied/market-implied ratio above 1.5x is the entry signal.",
+        "issue_id": "convergence-2026-06-05-cross-sector-brief",
+        "machine_action": "Track weekly hashprice (dollars per PH per day) against the $40 survivability threshold for pure-play names. Monitor Bitmain and Canaan ASIC delivery cadence and tariff-landed-cost disclosures in public miner filings. Flag any hyperscaler AI/HPC lease or PPA cancellation or delay disclosed by Core Scientific, Hut 8, IREN, TeraWulf, Bit Digital, or Cipher Mining. Alert on Texas ERCOT large-load curtailment events at named miner facilities. Run quarterly scanner passes against CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR option chains; promote to active if any result clears asymmetry threshold above 1.5x.",
+        "methodology_footer": "Corpus claims sourced from public miner Q1-Q2 2026 earnings filings: Core Scientific, Hut 8, IREN, Bit Digital, HIVE, Marathon Digital, Riot Platforms, CleanSpark, Bitmain S21/S21 XP disclosure, Canaan Q2 2025 filings. Regulatory sources: Texas PUC VCM and SB 6 interconnection records, New York GEIS proof-of-work environmental review, IRS Section 6050I digital-asset guidance. Options scanner data from 2026-04-28 sweep across 1,096 contracts fetched, 124 passed, 12 Bitcoin Mining theme contracts identified. Decision packet verdict: watchlist_candidate, execution_state: human_review_required.",
+        "position_conflict_disclosure": "No open positions in bitcoin-mining sector names as of 2026-06-05. Open book positions are three FXA put spread structures (short) tied to NOAA ENSO climate catalyst events in June and August 2026. No conflict with bitcoin mining sector.",
+        "product": "convergence_daily",
+        "publication_date": "2026-06-05",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported. Scanner data from 2026-04-28; AI-pivot names absent from options surface by market structure, not scan failure.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-05-16",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-16",
+              "notes": "Hashprice time series current through evidence date.",
+              "source_name": "src_bitcoin_mining_hashrate_index_hashprice"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-16",
+              "notes": "Q1 2026 earnings filing read.",
+              "source_name": "src_bitcoin_mining_core_scientific_results"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-16",
+              "notes": "Q1 2026 earnings filing read.",
+              "source_name": "src_bitcoin_mining_hut8_q1_2026"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-16",
+              "notes": "Q1 2026 earnings filing read.",
+              "source_name": "src_bitcoin_mining_mara_q1_2026"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-16",
+              "notes": "Texas PUC large-load and VCM rules current through evidence date.",
+              "source_name": "src_bitcoin_mining_texas_puc_vcm"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-04-28",
+              "notes": "Scanner sweep from 2026-04-28. AI-pivot miner names absent from options surface by market structure.",
+              "source_name": "pft_scanner_2026-04-28"
+            }
+          ]
+        },
+        "signals": [
+          "{'id': 'sig_btcmining_hpc_split', 'label': 'AI/HPC conversion splits public miner valuation framework', 'strength': 0.82, 'description': 'Core Scientific, Hut 8, IREN, Bit Digital, and HIVE are increasingly valued on lease duration, power pipeline, and hyperscaler customer concentration rather than hashprice. MARA, Riot, and CleanSpark retain direct BTC-cycle beta. Bifurcation is evidenced across Q1-Q2 2026 public miner earnings filings for eight named companies. Corpus confidence 0.82.'}",
+          "{'id': 'sig_btcmining_asic_tariff', 'label': 'ASIC supply and tariff exposure as post-halving fleet-upgrade bottleneck', 'strength': 0.80, 'description': 'Bitmain S21/S21 XP availability, Canaan Avalon shipment cadence, and tariff-driven landed-cost language in CleanSpark and Marathon filings make ASIC supply the binding constraint for pure-play fleet efficiency. Risk is delivery timing, landed cost under current tariff structures, and joules-per-terahash improvement. Corpus confidence 0.80.'}",
+          "{'id': 'sig_btcmining_regulatory_power', 'label': 'Texas SB 6, New York PoW review, and IRS 6050I as realized-hashrate governors', 'strength': 0.83, 'description': 'Texas large-load registration and SB 6 interconnection rules, New York proof-of-work environmental review, and IRS Section 6050I digital-asset compliance reporting are core drivers of realized hashrate and cash cost for U.S. public miners. Interconnection timelines are the binding expansion constraint for infrastructure-pivot names. Corpus confidence 0.83.'}",
+          "{'id': 'sig_btcmining_scanner_gap', 'label': 'Scanner covers pure-play names at post_peak; AI-pivot names return zero contracts', 'strength': 0.90, 'description': 'Scanner returns 5 contracts on MARA (top asymmetry 4.63, IV 89.9%, theme status post_peak, convergence 0.50) and 1 convergence row on RIOT (0.45, post_peak). Zero contracts returned for CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR. The infrastructure rerating story has no derivatives expression in the current scanner output. Scanner data from 2026-04-28.'}"
+        ],
+        "state": "observing",
+        "thesis": "U.S. public bitcoin mining has split into two structurally distinct businesses — pure-play hashprice beta (MARA, RIOT, CLSK) and AI/HPC power-infrastructure platforms (CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR) — at 0.82 corpus confidence sourced from Q1-Q2 2026 public miner filings, while the options scanner covers only the hashprice half at post_peak convergence and returns zero contracts for the infrastructure-pivot cohort. The pricing gap is structural: the market has built a derivatives surface for the BTC-cycle story and nothing for the hyperscaler-PPA rerating story.",
+        "trend_ids": [
+          "ths_bitcoin_mining_hashprice_power_hpc"
+        ],
+        "uncertainty": "The AI/HPC-pivot valuation framework depends on hyperscaler lease and PPA economics that are disclosed selectively in company IR filings and have not been independently verified by analyst consensus at sufficient coverage. Treat the infrastructure rerating as a watching brief rather than a high-conviction expression. The scanner gap is structural — thin options markets on pivot names — not a temporary data deficiency. The pure-play analysis (MARA/RIOT at post_peak, elevated IV) carries higher confidence because the scanner surface exists and corroborates the corpus reading."
+      }
+    }
+  },
+  "title": "Petahash Was the Cover Story",
+  "summary": "U.S.",
+  "authors": [
+    {
+      "name": "Convergence Daily",
+      "url": "https://daily.convergence.dev/authors/convergence-daily/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "U.S. public bitcoin mining has split into two structurally distinct businesses — pure-play hashprice beta (MARA, RIOT, CLSK) and AI/HPC power-infrastructure platforms (CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR) — at 0.82 corpus confidence sourced from Q1-Q2 2026 public miner filings, while the options scanner covers only the hashprice half at post_peak convergence and returns zero contracts for the infrastructure-pivot cohort. The pricing gap is structural: the market has built a derivatives surface for the BTC-cycle story and nothing for the hyperscaler-PPA rerating story.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-05",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-05-cross-sector-brief@v1",
+      "falsification": "Hyperscaler AI/HPC lease or PPA cancellations cluster across two or more of Core Scientific, Hut 8, IREN, TeraWulf, Cipher, or Bit Digital in a single quarter, signaling the infrastructure pivot is not delivering contracted margin and collapsing the bifurcation thesis. Hashprice holds below $40 per PH per day for four consecutive weeks, pressing pure-play miner cash-cost survivability and reframing the sector as distress rather than bifurcation. Bitmain ASIC tariffs spike landed cost more than 50% for two consecutive quarters, breaking fleet-upgrade economics for ASIC-dependent pure-plays before the efficiency transition completes. BTC sustains a sub-$30,000 drawdown beyond 12 months, eliminating the BTC treasury optionality that keeps pure-play balance sheets solvent and compressing sector cash flow across both cohorts. Texas ERCOT large-load rules or state-level restrictions force repeated curtailment or delayed interconnection at major public-miner facilities for two consecutive quarters."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "Petahash Was the Cover Story",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "U.S. public bitcoin mining has split into two structurally distinct businesses — pure-play hashprice beta (MARA, RIOT, CLSK) and AI/HPC power-infrastructure platforms (CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR) — at 0.82 corpus confidence sourced from Q1-Q2 2026 public miner filings, while the options scanner covers only the hashprice half at post_peak convergence and returns zero contracts for the infrastructure-pivot cohort. The pricing gap is structural: the market has built a derivatives surface for the BTC-cycle story and nothing for the hyperscaler-PPA rerating story.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "AI/HPC conversion splits public miner valuation framework: Core Scientific, Hut 8, IREN, Bit Digital, and HIVE are increasingly valued on lease duration, power pipeline, and hyperscaler customer concentration rather than hashprice. MARA, Riot, and CleanSpark retain direct BTC-cycle beta. Bifurcation is evidenced across Q1-Q2 2026 public miner earnings filings for eight named companies. Corpus confidence 0.82. (strength: 0.82)\n\nASIC supply and tariff exposure as post-halving fleet-upgrade bottleneck: Bitmain S21/S21 XP availability, Canaan Avalon shipment cadence, and tariff-driven landed-cost language in CleanSpark and Marathon filings make ASIC supply the binding constraint for pure-play fleet efficiency. Risk is delivery timing, landed cost under current tariff structures, and joules-per-terahash improvement. Corpus confidence 0.80. (strength: 0.8)\n\nTexas SB 6, New York PoW review, and IRS 6050I as realized-hashrate governors: Texas large-load registration and SB 6 interconnection rules, New York proof-of-work environmental review, and IRS Section 6050I digital-asset compliance reporting are core drivers of realized hashrate and cash cost for U.S. public miners. Interconnection timelines are the binding expansion constraint for infrastructure-pivot names. Corpus confidence 0.83. (strength: 0.83)\n\nScanner covers pure-play names at post_peak; AI-pivot names return zero contracts: Scanner returns 5 contracts on MARA (top asymmetry 4.63, IV 89.9%, theme status post_peak, convergence 0.50) and 1 convergence row on RIOT (0.45, post_peak). Zero contracts returned for CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR. The infrastructure rerating story has no derivatives expression in the current scanner output. Scanner data from 2026-04-28. (strength: 0.9)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Hyperscaler AI/HPC lease or PPA cancellations cluster across two or more of Core Scientific, Hut 8, IREN, TeraWulf, Cipher, or Bit Digital in a single quarter, signaling the infrastructure pivot is not delivering contracted margin and collapsing the bifurcation thesis. Hashprice holds below $40 per PH per day for four consecutive weeks, pressing pure-play miner cash-cost survivability and reframing the sector as distress rather than bifurcation. Bitmain ASIC tariffs spike landed cost more than 50% for two consecutive quarters, breaking fleet-upgrade economics for ASIC-dependent pure-plays before the efficiency transition completes. BTC sustains a sub-$30,000 drawdown beyond 12 months, eliminating the BTC treasury optionality that keeps pure-play balance sheets solvent and compressing sector cash flow across both cohorts. Texas ERCOT large-load rules or state-level restrictions force repeated curtailment or delayed interconnection at major public-miner facilities for two consecutive quarters.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Convergence Daily. \"Petahash Was the Cover Story.\" Convergence Daily. 2026-06-05. Resolve signal://convergence-daily/claim/convergence-2026-06-05-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-2026-06-05-cross-sector-brief@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-05",
+      "published_at": "2026-06-05T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

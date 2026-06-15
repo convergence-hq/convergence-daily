@@ -1,0 +1,227 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_convergencedaily20260528crosssectorbrief",
+  "slug": "convergence-daily-2026-05-28-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-c7ebe8cc5e036edd8645be8946fbcfd64a00b1dbfd03da77926536c6ba600953.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-05-28T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "c7ebe8cc5e036edd8645be8946fbcfd64a00b1dbfd03da77926536c6ba600953",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Convergence Daily Desk",
+    "created_at": "2026-05-28T00:00:00Z",
+    "modified_at": "2026-05-28T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://convergence-daily/claim/convergence-daily-2026-05-28-cross-sector-brief@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "entity_ids": [
+          "ent_lumentum",
+          "ent_coherent",
+          "ent_nvidia_cpo",
+          "ent_lightmatter",
+          "ent_ayar_labs",
+          "ent_marvell",
+          "ent_palantir",
+          "ent_anduril",
+          "ent_oklo",
+          "ent_kairos_power",
+          "ent_constellation",
+          "ent_x_energy"
+        ],
+        "format": "quiet_setup",
+        "human_action": "Review equity exposure to photonic computing (LITE, COHR) ahead of next OCS backlog disclosure or NVIDIA commitment burn-rate update; evaluate PLTR calls as the available options expression for the defense-AI Anduril catalyst clock; treat nuclear-SMR (OKLO, SMR) as a narrative-loud setup where options are expensive — position around discrete catalysts (HALEU program timing, next hyperscaler PPA announcement) rather than as directional trend-following premium.",
+        "legal_disclaimer": "Candidate draft for operator review only. Not financial advice. All positions referenced are paper-traded. Past scanner results do not imply future performance.",
+        "machine_action": "Reprice photonic-computing theme status from 'emerging' to 'growing' in scanner given confirmed revenue inflection and anchor investment; populate LITE and COHR in scanner contract universe for next scan cycle; flag PLTR as primary options expression for defense-AI sector; monitor NVIDIA commitment burn-rate disclosures across LITE and COHR earnings filings as primary falsification trigger; add AAOI to scanner watchlist given May 11 single-session +24% rotation signal.",
+        "methodology_footer": "Corpus claims sourced from trend-corpus vendor IR, regulatory, and clinical filings as of May 15-17, 2026. Scanner results dated April 28, 2026 UTC. Convergence scores reflect LLM-weighted cross-model ticker agreement as of scan date. Book data as of May 27, 2026.",
+        "position_conflict_disclosure": "No current book positions in photonic computing, defense AI, or nuclear SMR. Open book exposure is entirely in cicadas/ENSO agricultural theme (FXA x5 contracts, CORN x5, DBA x5, WEAT x3) ahead of June 11 ENSO data release; those positions are mostly underwater (-27% to -72%) and unrelated to this brief's sectors.",
+        "product": "convergence_daily",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-28",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "promote",
+        "trend_ids": [
+          "photonic-computing",
+          "defense-ai",
+          "nuclear-smr",
+          "ai-infrastructure"
+        ],
+        "uncertainty": "Primary structural uncertainty is customer concentration: one anchor (NVIDIA) is doing most of the revaluation work in photonic computing. Private chiplet milestones from Lightmatter and Ayar are sourced from fundraise disclosures rather than audited accounts; treat as directional confirmation, not precise commercial validation. Scanner absence of LITE/COHR contracts may partly reflect genuine liquidity constraints in those names rather than pure under-pricing — confirm available strike and expiry universe before treating absence as mispricing signal."
+      },
+      "original_issue": {
+        "confidence": "medium_high",
+        "entity_ids": [
+          "ent_lumentum",
+          "ent_coherent",
+          "ent_nvidia_cpo",
+          "ent_lightmatter",
+          "ent_ayar_labs",
+          "ent_marvell",
+          "ent_palantir",
+          "ent_anduril",
+          "ent_oklo",
+          "ent_kairos_power",
+          "ent_constellation",
+          "ent_x_energy"
+        ],
+        "falsification": "NVIDIA, Lumentum, or Coherent publicly reduces or restructures the March 2, 2026 $4B commitment in a newsroom release, 8-K, 10-Q, or earnings-call disclosure — this is the single biggest load-bearing support for the photonic revaluation. LITE or COHR misses guidance on hyperscaler optical revenue or OCS backlog conversion by more than 25% in any subsequent quarter, eliminating the revenue-inflection case. A non-photonic interconnect alternative (advanced copper, in-package electrical fabric, or hyperscaler-internal optical engines) wins material design-in slots away from LITE or COHR at OFC 2027 or an equivalent industry disclosure event. Anduril postpones an IPO or primary financing event past end-2026 with no replacement private valuation mark, breaking the defense-AI private-mark catalyst clock the public adjacents revalue against. Hyperscaler nuclear PPA flow falls below 1 GW of newly announced contracted or development-stage capacity for two consecutive quarters, removing demand-visibility anchor for OKLO and SMR.",
+        "format": "quiet_setup",
+        "headline": "Revenue Is Moving in the Dark",
+        "human_action": "Review equity exposure to photonic computing (LITE, COHR) ahead of next OCS backlog disclosure or NVIDIA commitment burn-rate update; evaluate PLTR calls as the available options expression for the defense-AI Anduril catalyst clock; treat nuclear-SMR (OKLO, SMR) as a narrative-loud setup where options are expensive — position around discrete catalysts (HALEU program timing, next hyperscaler PPA announcement) rather than as directional trend-following premium.",
+        "issue_id": "convergence-daily-2026-05-28-cross-sector-brief",
+        "legal_disclaimer": "Candidate draft for operator review only. Not financial advice. All positions referenced are paper-traded. Past scanner results do not imply future performance.",
+        "machine_action": "Reprice photonic-computing theme status from 'emerging' to 'growing' in scanner given confirmed revenue inflection and anchor investment; populate LITE and COHR in scanner contract universe for next scan cycle; flag PLTR as primary options expression for defense-AI sector; monitor NVIDIA commitment burn-rate disclosures across LITE and COHR earnings filings as primary falsification trigger; add AAOI to scanner watchlist given May 11 single-session +24% rotation signal.",
+        "methodology_footer": "Corpus claims sourced from trend-corpus vendor IR, regulatory, and clinical filings as of May 15-17, 2026. Scanner results dated April 28, 2026 UTC. Convergence scores reflect LLM-weighted cross-model ticker agreement as of scan date. Book data as of May 27, 2026.",
+        "position_conflict_disclosure": "No current book positions in photonic computing, defense AI, or nuclear SMR. Open book exposure is entirely in cicadas/ENSO agricultural theme (FXA x5 contracts, CORN x5, DBA x5, WEAT x3) ahead of June 11 ENSO data release; those positions are mostly underwater (-27% to -72%) and unrelated to this brief's sectors.",
+        "product": "convergence_daily",
+        "publication_date": "2026-05-28",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-28",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'id': 'sig_lite_cohr_revenue_inflection', 'description': 'Lumentum fiscal Q3 2026 revenue $808.4M (+90% YoY); Coherent fiscal Q3 2026 revenue $1.806B (+21% YoY); both consistent with AI-datacenter pacing rather than legacy telecom pacing. Lumentum Q2 OCS backlog baseline exceeded $400M.', 'source_quality': 'high', 'sector': 'photonic-computing'}",
+          "{'id': 'sig_nvidia_4b_anchor', 'description': 'NVIDIA March 2, 2026 $4B strategic commitment split equally between Lumentum and Coherent: investment capital, multibillion-dollar purchase commitments, future capacity and access rights, U.S. manufacturing support. Structural, not indicative.', 'source_quality': 'high', 'sector': 'photonic-computing'}",
+          "{'id': 'sig_private_chiplet_validation', 'description': 'Lightmatter $850M total raised at $4.4B valuation, Passage L200/L200x above 200 Tbps; Ayar Labs $870M total raised after March 2026 $500M Series E, HVM target 2028; Marvell-Celestial AI closed February 2026, revenue guide beginning H2 FY2028 toward $1B annualized run rate Q4 FY2029.', 'source_quality': 'medium', 'sector': 'photonic-computing'}",
+          "{'id': 'sig_scanner_absence_lite_cohr', 'description': 'Scanner returns zero options contracts for LITE and COHR. Convergence score 0.4 (MEDIUM, emerging) — below the threshold where retail attention drives options premium. Theme status inconsistent with reported revenue trajectory.', 'source_quality': 'high', 'sector': 'photonic-computing'}",
+          "{'id': 'sig_pltr_defense_asymmetry', 'description': 'PLTR scanner asymmetry 5.36 on $170 June 20 call; convergence 0.6; growing status. 60% IV. Anduril private-mark clock running — each fundraise or program-of-record win sets the public-adjacent revaluation cadence with 1-2 quarter lag.', 'source_quality': 'high', 'sector': 'defense-ai'}",
+          "{'id': 'sig_nuclear_smr_scanner', 'description': 'OKLO scanner asymmetry 2.54-3.41 across June expiries; SMR asymmetry 2.74-3.15; IV above 100% on both. Confirmed hyperscaler PPAs: Microsoft-Constellation, Google-Kairos Power, Amazon-X-energy. Options have partially priced the narrative.', 'source_quality': 'high', 'sector': 'nuclear-smr'}"
+        ],
+        "state": "promote",
+        "thesis": "Photonic computing has crossed a confirmed revenue inflection — Lumentum +90% YoY, Coherent +21% YoY, NVIDIA $4B structural anchor — while the scanner records zero options contracts on both primary names and the convergence scorer still classifies the theme as emerging; the same AI-capex supercycle is visible in nuclear-SMR and defense-AI, but options premiums in those sectors have already partially taxed the expression.",
+        "trend_ids": [
+          "photonic-computing",
+          "defense-ai",
+          "nuclear-smr",
+          "ai-infrastructure"
+        ],
+        "uncertainty": "Primary structural uncertainty is customer concentration: one anchor (NVIDIA) is doing most of the revaluation work in photonic computing. Private chiplet milestones from Lightmatter and Ayar are sourced from fundraise disclosures rather than audited accounts; treat as directional confirmation, not precise commercial validation. Scanner absence of LITE/COHR contracts may partly reflect genuine liquidity constraints in those names rather than pure under-pricing — confirm available strike and expiry universe before treating absence as mispricing signal."
+      }
+    }
+  },
+  "title": "Revenue Is Moving in the Dark",
+  "summary": "Photonic computing has crossed a confirmed revenue inflection — Lumentum +90% YoY, Coherent +21% YoY, NVIDIA $4B structural anchor — while the scanner records zero options contracts on both primary names and the convergence scorer still classifies the theme as emerging; the same AI-capex supercycle is visible in nuclear-SMR and defense-AI, but options premiums in those sectors have already partially taxed the expression.",
+  "authors": [
+    {
+      "name": "Convergence Daily",
+      "url": "https://daily.convergence.dev/authors/convergence-daily/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Photonic computing has crossed a confirmed revenue inflection — Lumentum +90% YoY, Coherent +21% YoY, NVIDIA $4B structural anchor — while the scanner records zero options contracts on both primary names and the convergence scorer still classifies the theme as emerging; the same AI-capex supercycle is visible in nuclear-SMR and defense-AI, but options premiums in those sectors have already partially taxed the expression.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-05-28",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-daily-2026-05-28-cross-sector-brief@v1",
+      "falsification": "NVIDIA, Lumentum, or Coherent publicly reduces or restructures the March 2, 2026 $4B commitment in a newsroom release, 8-K, 10-Q, or earnings-call disclosure — this is the single biggest load-bearing support for the photonic revaluation. LITE or COHR misses guidance on hyperscaler optical revenue or OCS backlog conversion by more than 25% in any subsequent quarter, eliminating the revenue-inflection case. A non-photonic interconnect alternative (advanced copper, in-package electrical fabric, or hyperscaler-internal optical engines) wins material design-in slots away from LITE or COHR at OFC 2027 or an equivalent industry disclosure event. Anduril postpones an IPO or primary financing event past end-2026 with no replacement private valuation mark, breaking the defense-AI private-mark catalyst clock the public adjacents revalue against. Hyperscaler nuclear PPA flow falls below 1 GW of newly announced contracted or development-stage capacity for two consecutive quarters, removing demand-visibility anchor for OKLO and SMR."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "Revenue Is Moving in the Dark",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Photonic computing has crossed a confirmed revenue inflection — Lumentum +90% YoY, Coherent +21% YoY, NVIDIA $4B structural anchor — while the scanner records zero options contracts on both primary names and the convergence scorer still classifies the theme as emerging; the same AI-capex supercycle is visible in nuclear-SMR and defense-AI, but options premiums in those sectors have already partially taxed the expression.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_lite_cohr_revenue_inflection: Lumentum fiscal Q3 2026 revenue $808.4M (+90% YoY); Coherent fiscal Q3 2026 revenue $1.806B (+21% YoY); both consistent with AI-datacenter pacing rather than legacy telecom pacing. Lumentum Q2 OCS backlog baseline exceeded $400M. (sector: photonic-computing; quality: high)\n\nsig_nvidia_4b_anchor: NVIDIA March 2, 2026 $4B strategic commitment split equally between Lumentum and Coherent: investment capital, multibillion-dollar purchase commitments, future capacity and access rights, U.S. manufacturing support. Structural, not indicative. (sector: photonic-computing; quality: high)\n\nsig_private_chiplet_validation: Lightmatter $850M total raised at $4.4B valuation, Passage L200/L200x above 200 Tbps; Ayar Labs $870M total raised after March 2026 $500M Series E, HVM target 2028; Marvell-Celestial AI closed February 2026, revenue guide beginning H2 FY2028 toward $1B annualized run rate Q4 FY2029. (sector: photonic-computing; quality: medium)\n\nsig_scanner_absence_lite_cohr: Scanner returns zero options contracts for LITE and COHR. Convergence score 0.4 (MEDIUM, emerging) — below the threshold where retail attention drives options premium. Theme status inconsistent with reported revenue trajectory. (sector: photonic-computing; quality: high)\n\nsig_pltr_defense_asymmetry: PLTR scanner asymmetry 5.36 on $170 June 20 call; convergence 0.6; growing status. 60% IV. Anduril private-mark clock running — each fundraise or program-of-record win sets the public-adjacent revaluation cadence with 1-2 quarter lag. (sector: defense-ai; quality: high)\n\nsig_nuclear_smr_scanner: OKLO scanner asymmetry 2.54-3.41 across June expiries; SMR asymmetry 2.74-3.15; IV above 100% on both. Confirmed hyperscaler PPAs: Microsoft-Constellation, Google-Kairos Power, Amazon-X-energy. Options have partially priced the narrative. (sector: nuclear-smr; quality: high)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "NVIDIA, Lumentum, or Coherent publicly reduces or restructures the March 2, 2026 $4B commitment in a newsroom release, 8-K, 10-Q, or earnings-call disclosure — this is the single biggest load-bearing support for the photonic revaluation. LITE or COHR misses guidance on hyperscaler optical revenue or OCS backlog conversion by more than 25% in any subsequent quarter, eliminating the revenue-inflection case. A non-photonic interconnect alternative (advanced copper, in-package electrical fabric, or hyperscaler-internal optical engines) wins material design-in slots away from LITE or COHR at OFC 2027 or an equivalent industry disclosure event. Anduril postpones an IPO or primary financing event past end-2026 with no replacement private valuation mark, breaking the defense-AI private-mark catalyst clock the public adjacents revalue against. Hyperscaler nuclear PPA flow falls below 1 GW of newly announced contracted or development-stage capacity for two consecutive quarters, removing demand-visibility anchor for OKLO and SMR.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Convergence Daily. \"Revenue Is Moving in the Dark.\" Convergence Daily. 2026-05-28. Resolve signal://convergence-daily/claim/convergence-daily-2026-05-28-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-daily-2026-05-28-cross-sector-brief@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-05-28",
+      "published_at": "2026-05-28T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

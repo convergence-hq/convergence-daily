@@ -1,0 +1,27 @@
+# Convergence Daily
+
+Real Convergence Daily episodes published through the dual-native engine.
+
+## Machine Surface
+- Trust contract: https://convergence.permanentupperclass.com/o/trust.json
+- Object index: https://convergence.permanentupperclass.com/o/index.json
+- Claim index: https://convergence.permanentupperclass.com/o/claims.json
+- Alias index: https://convergence.permanentupperclass.com/o/aliases.json
+- API catalog: https://convergence.permanentupperclass.com/.well-known/api-catalog
+- Optional live API overlay: https://convergence.permanentupperclass.com/api/
+- Optional MCP overlay: https://convergence.permanentupperclass.com/mcp
+
+## Objects
+- All the Bottlenecks, None of the Asymmetry: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief@sha256-2df4d82c4f39890f199b97677f4d2fea244a76265244d92be0d70333d8cd84e5.json
+- The Clocks Are Not Running at the Same Speed: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-48e020ec7c326e0908967a373172dab6c083f37aa51d3adf91e41ade87e7cadf.json
+- When the Shortage List Gets Resolved: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-06-cross-sector-brief@sha256-3b9331483a9a7327f148f22424f92fd8275dab9b8c6a6db871446528ce375281.json
+- Petahash Was the Cover Story: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-4606000133c17039457efaccc2af4395be5edabb95981d0086e344e71f8ab379.json
+- Five Hundred Patients Before the Market Noticed: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief@sha256-9c73102ac4acf566de79f075f115c9742cb082f2f33f742c812982efb9acd22a.json
+- The Factory Behind the Drug Nobody Can Get: https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-574a6229f223cc70a316ddf989603b69ccecd4afda7fed03fc8293060d07c3da.json
+- The Gearbox Between Demo and Revenue: https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-31-cross-sector-brief@sha256-23443f2957825a744cd7155d0fd4b947c3b35d93dd45c1185a6e8d2a527a39d6.json
+- The Market Is Long the Brand, Short the Molecule: https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-57a3fe265934587a00ab9913991f282169696f773557ef7fdbb46d6cb387fa9d.json
+- The Optical Layer Running Ahead of the Tape: https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief@sha256-94c62df3e487eb4409c189bdde6af871e2326b97a4c7538b3ec3e5a0b2f8a8d6.json
+- Revenue Is Moving in the Dark: https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-c7ebe8cc5e036edd8645be8946fbcfd64a00b1dbfd03da77926536c6ba600953.json
+- The Light Nobody Is Trading: https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-505896768a872688c3f0daf2f38ac957952abef3de51882e3bee20993e255f5f.json
+- The Bandwidth Wall Is Already Photons: https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-47510d29e61c3ac7a506c91f49901e65256dcdb3b5efba05e4ea93b9f0d72a05.json
+

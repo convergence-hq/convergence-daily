@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_convergencedaily20260530crosssectorbrief",
+  "slug": "convergence-daily-2026-05-30-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-57a3fe265934587a00ab9913991f282169696f773557ef7fdbb46d6cb387fa9d.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-05-30T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "57a3fe265934587a00ab9913991f282169696f773557ef7fdbb46d6cb387fa9d",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Convergence Daily Desk",
+    "created_at": "2026-05-30T00:00:00Z",
+    "modified_at": "2026-05-30T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://convergence-daily/claim/convergence-daily-2026-05-30-cross-sector-brief@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "entity_ids": [
+          "ent_lilly",
+          "ent_novo_nordisk",
+          "ent_bachem",
+          "ent_polypeptide_group",
+          "ent_hims"
+        ],
+        "format": "narrative_loud_trade_bad",
+        "human_action": "Do not initiate new LLY or NVO options positions at current IV levels and convergence-score saturation. Begin building a monitoring watchlist of public peptide-API CDMOs — Bachem (BARN.SW), PolyPeptide Group (POLN.SW), and any Western-hemisphere entrant adding dedicated GLP-1 API lines. Track primary IR for capacity expansion announcements, order-book commentary, and customer concentration disclosures. Decision packet dp_peptide_manufacturing_watchlist is at human_review_required — review before any position entry.",
+        "legal_disclaimer": "This issue is for informational purposes only. Nothing herein constitutes investment advice or a recommendation to buy or sell any security. The decision packet referenced is at human_review_required status and has not been promoted to an actionable position.",
+        "machine_action": "Monitor FDA shortage-status databases for GLP-1 analog shortage-list changes. Flag CDMO primary IR announcements disclosing capacity additions or order-book shifts. Rescore dp_peptide_manufacturing_watchlist when FDA shortage status changes or new CDMO capacity data is available. Track LLY and NVO convergence scores for any status change away from peak-hype.",
+        "methodology_footer": "Corpus confidence ratings reflect corroboration across primary IR, regulatory databases, and specialist trade press. Scanner data from 2026-04-28 sweep; convergence scores and IV levels reflect that scan date. Decision packet dp_peptide_manufacturing_watchlist at watchlist-candidate verdict as of 2026-05-15 evidence date. CDMO names (Bachem, PolyPeptide Group) are outside current scanner instrument scope.",
+        "position_conflict_disclosure": "No current open positions in the peptides sector. The book's single open position (FXA put spread, cicadas/ENSO theme, entry 2026-05-19, currently -26.6% P&L) is unrelated. Closed positions in the reviewed period are in synthetic-biology (CRSP call spreads) and agriculture (NTR, CF call spreads) — no overlap with the peptide sector or the CDMO watchlist.",
+        "product": "convergence_daily",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-30",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "peptides",
+          "glp1-obesity",
+          "cdmo-picks-and-shovels"
+        ],
+        "uncertainty": "FDA shortage-status timing is binary and uncertain; resolution dates are not observable in advance. CDMO capacity expansion timelines are subject to regulatory and manufacturing delays. Telehealth compounded-GLP-1 volume is directionally credible but not independently verified at the granularity required for precise position sizing."
+      },
+      "original_issue": {
+        "confidence": "medium_high",
+        "entity_ids": [
+          "ent_lilly",
+          "ent_novo_nordisk",
+          "ent_bachem",
+          "ent_polypeptide_group",
+          "ent_hims"
+        ],
+        "falsification": "Capacity announcements indicate material oversupply within two quarters and CDMO order books soften — removes the supply-constraint underpinning of the picks-and-shovels thesis. Originator pharma vertically integrates peptide-API capacity and reduces external CDMO dependence — eliminates the structural advantage of holding CDMO names. FDA enforcement removes compounded GLP-1 from the market without a compensating originator-supply shock — collapses the downstream volume signal without creating CDMO upside. CDMO names begin trading with sustained originator-pharma franchise correlation — eliminates the diversification benefit that makes the picks-and-shovels reframe distinct from simply owning LLY.",
+        "format": "narrative_loud_trade_bad",
+        "headline": "The Market Is Long the Brand, Short the Molecule",
+        "human_action": "Do not initiate new LLY or NVO options positions at current IV levels and convergence-score saturation. Begin building a monitoring watchlist of public peptide-API CDMOs — Bachem (BARN.SW), PolyPeptide Group (POLN.SW), and any Western-hemisphere entrant adding dedicated GLP-1 API lines. Track primary IR for capacity expansion announcements, order-book commentary, and customer concentration disclosures. Decision packet dp_peptide_manufacturing_watchlist is at human_review_required — review before any position entry.",
+        "issue_id": "convergence-daily-2026-05-30-cross-sector-brief",
+        "legal_disclaimer": "This issue is for informational purposes only. Nothing herein constitutes investment advice or a recommendation to buy or sell any security. The decision packet referenced is at human_review_required status and has not been promoted to an actionable position.",
+        "machine_action": "Monitor FDA shortage-status databases for GLP-1 analog shortage-list changes. Flag CDMO primary IR announcements disclosing capacity additions or order-book shifts. Rescore dp_peptide_manufacturing_watchlist when FDA shortage status changes or new CDMO capacity data is available. Track LLY and NVO convergence scores for any status change away from peak-hype.",
+        "methodology_footer": "Corpus confidence ratings reflect corroboration across primary IR, regulatory databases, and specialist trade press. Scanner data from 2026-04-28 sweep; convergence scores and IV levels reflect that scan date. Decision packet dp_peptide_manufacturing_watchlist at watchlist-candidate verdict as of 2026-05-15 evidence date. CDMO names (Bachem, PolyPeptide Group) are outside current scanner instrument scope.",
+        "position_conflict_disclosure": "No current open positions in the peptides sector. The book's single open position (FXA put spread, cicadas/ENSO theme, entry 2026-05-19, currently -26.6% P&L) is unrelated. Closed positions in the reviewed period are in synthetic-biology (CRSP call spreads) and agriculture (NTR, CF call spreads) — no overlap with the peptide sector or the CDMO watchlist.",
+        "product": "convergence_daily",
+        "publication_date": "2026-05-30",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-30",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'id': 'sig_lly_nvo_peak_hype_scanner', 'description': 'LLY convergence score 0.80, peak-hype status. Top scanner contract: $1,055 strike call, 20.9% OTM on a $872.65 spot, 42.9% IV, asymmetry score 11.5. NVO convergence 0.68, peak-hype, OTM call at 21.5% above spot at 48.5 IV. Narrative and options pricing have converged; remaining asymmetry is thin.', 'source_quality': 'high', 'sector': 'peptides'}",
+          "{'id': 'sig_glp1_manufacturing_bottleneck', 'description': 'Peptide-API manufacturing capacity is a structural supply constraint on GLP-1 originator output. CDMO capex and capacity additions are observable in primary IR filings from Bachem and PolyPeptide Group. Lilly and Novo Nordisk both manage supply ramp explicitly in investor communications. Corpus confidence 0.80.', 'source_quality': 'high', 'sector': 'peptides'}",
+          "{'id': 'sig_fda_compounding_enforcement', 'description': 'FDA drug-shortage list status governs 503A and 503B compounding-pharmacy legal access to GLP-1 analogs. Shortage resolution is a binary regulatory event that collapses downstream compounding volume with no appeal mechanism available to compounders. Corpus confidence 0.85, sourced from FDA drug-shortage and drug-alert databases.', 'source_quality': 'high', 'sector': 'peptides'}",
+          "{'id': 'sig_telehealth_compounded_volume', 'description': 'DTC telehealth platforms have built material compounded-GLP-1 prescription revenues visible in quarterly IR disclosures. Revenue is explicitly contingent on FDA shortage-status. Corpus confidence 0.75; sourcing relies primarily on published IR and trade press rather than independent volume verification.', 'source_quality': 'medium', 'sector': 'peptides'}"
+        ],
+        "state": "observing",
+        "thesis": "The GLP-1 obesity trade is fully priced at the originator level — LLY and NVO sit at peak-hype convergence with elevated IV and deep-OTM options expressing a narrative the market already knows. The corpus thesis is that the structurally durable exposure is upstream: specialized peptide-API CDMO capacity, where the supply bottleneck is observable in primary IR and the names carry lower franchise-headline correlation than the originators. Compounding-pharmacy channels are a contingent second-order beneficiary whose value depends on FDA shortage-status as a binary switch.",
+        "trend_ids": [
+          "peptides",
+          "glp1-obesity",
+          "cdmo-picks-and-shovels"
+        ],
+        "uncertainty": "FDA shortage-status timing is binary and uncertain; resolution dates are not observable in advance. CDMO capacity expansion timelines are subject to regulatory and manufacturing delays. Telehealth compounded-GLP-1 volume is directionally credible but not independently verified at the granularity required for precise position sizing."
+      }
+    }
+  },
+  "title": "The Market Is Long the Brand, Short the Molecule",
+  "summary": "The GLP-1 obesity trade is fully priced at the originator level — LLY and NVO sit at peak-hype convergence with elevated IV and deep-OTM options expressing a narrative the market already knows.",
+  "authors": [
+    {
+      "name": "Convergence Daily",
+      "url": "https://daily.convergence.dev/authors/convergence-daily/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The GLP-1 obesity trade is fully priced at the originator level — LLY and NVO sit at peak-hype convergence with elevated IV and deep-OTM options expressing a narrative the market already knows. The corpus thesis is that the structurally durable exposure is upstream: specialized peptide-API CDMO capacity, where the supply bottleneck is observable in primary IR and the names carry lower franchise-headline correlation than the originators. Compounding-pharmacy channels are a contingent second-order beneficiary whose value depends on FDA shortage-status as a binary switch.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-05-30",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-daily-2026-05-30-cross-sector-brief@v1",
+      "falsification": "Capacity announcements indicate material oversupply within two quarters and CDMO order books soften — removes the supply-constraint underpinning of the picks-and-shovels thesis. Originator pharma vertically integrates peptide-API capacity and reduces external CDMO dependence — eliminates the structural advantage of holding CDMO names. FDA enforcement removes compounded GLP-1 from the market without a compensating originator-supply shock — collapses the downstream volume signal without creating CDMO upside. CDMO names begin trading with sustained originator-pharma franchise correlation — eliminates the diversification benefit that makes the picks-and-shovels reframe distinct from simply owning LLY."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Market Is Long the Brand, Short the Molecule",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The GLP-1 obesity trade is fully priced at the originator level — LLY and NVO sit at peak-hype convergence with elevated IV and deep-OTM options expressing a narrative the market already knows. The corpus thesis is that the structurally durable exposure is upstream: specialized peptide-API CDMO capacity, where the supply bottleneck is observable in primary IR and the names carry lower franchise-headline correlation than the originators. Compounding-pharmacy channels are a contingent second-order beneficiary whose value depends on FDA shortage-status as a binary switch.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_lly_nvo_peak_hype_scanner: LLY convergence score 0.80, peak-hype status. Top scanner contract: $1,055 strike call, 20.9% OTM on a $872.65 spot, 42.9% IV, asymmetry score 11.5. NVO convergence 0.68, peak-hype, OTM call at 21.5% above spot at 48.5 IV. Narrative and options pricing have converged; remaining asymmetry is thin. (sector: peptides; quality: high)\n\nsig_glp1_manufacturing_bottleneck: Peptide-API manufacturing capacity is a structural supply constraint on GLP-1 originator output. CDMO capex and capacity additions are observable in primary IR filings from Bachem and PolyPeptide Group. Lilly and Novo Nordisk both manage supply ramp explicitly in investor communications. Corpus confidence 0.80. (sector: peptides; quality: high)\n\nsig_fda_compounding_enforcement: FDA drug-shortage list status governs 503A and 503B compounding-pharmacy legal access to GLP-1 analogs. Shortage resolution is a binary regulatory event that collapses downstream compounding volume with no appeal mechanism available to compounders. Corpus confidence 0.85, sourced from FDA drug-shortage and drug-alert databases. (sector: peptides; quality: high)\n\nsig_telehealth_compounded_volume: DTC telehealth platforms have built material compounded-GLP-1 prescription revenues visible in quarterly IR disclosures. Revenue is explicitly contingent on FDA shortage-status. Corpus confidence 0.75; sourcing relies primarily on published IR and trade press rather than independent volume verification. (sector: peptides; quality: medium)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Capacity announcements indicate material oversupply within two quarters and CDMO order books soften — removes the supply-constraint underpinning of the picks-and-shovels thesis. Originator pharma vertically integrates peptide-API capacity and reduces external CDMO dependence — eliminates the structural advantage of holding CDMO names. FDA enforcement removes compounded GLP-1 from the market without a compensating originator-supply shock — collapses the downstream volume signal without creating CDMO upside. CDMO names begin trading with sustained originator-pharma franchise correlation — eliminates the diversification benefit that makes the picks-and-shovels reframe distinct from simply owning LLY.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Convergence Daily. \"The Market Is Long the Brand, Short the Molecule.\" Convergence Daily. 2026-05-30. Resolve signal://convergence-daily/claim/convergence-daily-2026-05-30-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-daily-2026-05-30-cross-sector-brief@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-05-30",
+      "published_at": "2026-05-30T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

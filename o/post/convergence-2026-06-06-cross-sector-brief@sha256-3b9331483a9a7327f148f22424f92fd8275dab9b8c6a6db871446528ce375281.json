@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_convergence20260606crosssectorbrief",
+  "slug": "convergence-2026-06-06-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-06-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-06-cross-sector-brief@sha256-3b9331483a9a7327f148f22424f92fd8275dab9b8c6a6db871446528ce375281.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-06T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "3b9331483a9a7327f148f22424f92fd8275dab9b8c6a6db871446528ce375281",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Convergence Daily Desk",
+    "created_at": "2026-06-06T00:00:00Z",
+    "modified_at": "2026-06-06T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://convergence-daily/claim/convergence-2026-06-06-cross-sector-brief@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "entity_ids": [
+          "ent_lilly",
+          "ent_novo_nordisk",
+          "ent_bachem",
+          "ent_polypeptide_group",
+          "ent_hims"
+        ],
+        "format": "narrative_loud_trade_bad",
+        "human_action": "Review for potential put or short positioning on DTC compounding platforms (HIMS) contingent on FDA shortage-list resolution signal. Do not act ahead of a resolution event — timing is not predictable from public data. Monitor FDA shortage list for semaglutide and tirzepatide status changes. Evaluate CDMO names (Bachem, Polypeptide Group) as the cleaner long expression of the same capacity buildout thesis without the regulatory cliff embedded in the revenue structure.",
+        "legal_disclaimer": "This publication is for informational purposes only and does not constitute investment advice. All positions described are paper trading for research and methodology validation. Past performance is not indicative of future results.",
+        "machine_action": "Monitor FDA drug shortage database for semaglutide and tirzepatide shortage-resolved or removed designations. Track HIMS quarterly IR disclosures for explicit compounded GLP-1 revenue proportion and management guidance language around regulatory contingency. Flag any FDA enforcement action or compounding pharmacy shutdown touching GLP-1 analogs. Alert on CDMO order-book softening as a leading indicator that originator supply is closing on demand.",
+        "methodology_footer": "Sector selected by diversity-adjusted convergence scoring with recency penalty applied (peptides recency penalty 8.333, adjusted score 15.192). Peptides covered 2026-06-01 (quiet_setup, CDMO capacity as structural constraint) and 2026-05-30 (narrative_loud_trade_bad, originator overpricing). This issue covers the distinct telehealth compounding cliff angle — regulatory binary at the platform layer — not previously the primary thesis. Decision packet dp_peptide_manufacturing_watchlist verdict: watchlist_candidate.",
+        "position_conflict_disclosure": "No current book exposure to the peptides sector. Open positions are FXA put spreads tied to the ENSO/cicadas theme (June and August 2026 NOAA data-release catalysts). No conflict with this issue's thesis or proposed exposure.",
+        "product": "convergence_daily",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-06",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "peptides",
+          "glp1-obesity",
+          "cdmo-picks-and-shovels"
+        ],
+        "uncertainty": "FDA shortage-list resolution timing is the central unknown and cannot be derived from public market data. The telehealth revenue exposure figure is directionally reliable but not precisely quantified. Treat this as a position-around-the-event setup, not a precision trade with a timing edge."
+      },
+      "original_issue": {
+        "confidence": "medium_high",
+        "entity_ids": [
+          "ent_lilly",
+          "ent_novo_nordisk",
+          "ent_bachem",
+          "ent_polypeptide_group",
+          "ent_hims"
+        ],
+        "falsification": "FDA extends shortage-list status indefinitely due to persistent demand outpacing supply — regulatory clock recedes rather than advances. HIMS materially diversifies revenue away from compounded GLP-1 before shortage resolution, replacing it with brand-name drug access or other therapeutic categories that reach scale. Originator pharma vertically integrates compounding-adjacent distribution channels, converting shortage resolution from a cliff to a managed commercial transition. Capacity announcements indicate material oversupply within two quarters but FDA shortage status remains — supply constraint and regulatory designation decouple, invalidating the shared-driver thesis.",
+        "format": "narrative_loud_trade_bad",
+        "headline": "When the Shortage List Gets Resolved",
+        "human_action": "Review for potential put or short positioning on DTC compounding platforms (HIMS) contingent on FDA shortage-list resolution signal. Do not act ahead of a resolution event — timing is not predictable from public data. Monitor FDA shortage list for semaglutide and tirzepatide status changes. Evaluate CDMO names (Bachem, Polypeptide Group) as the cleaner long expression of the same capacity buildout thesis without the regulatory cliff embedded in the revenue structure.",
+        "issue_id": "convergence-2026-06-06-cross-sector-brief",
+        "legal_disclaimer": "This publication is for informational purposes only and does not constitute investment advice. All positions described are paper trading for research and methodology validation. Past performance is not indicative of future results.",
+        "machine_action": "Monitor FDA drug shortage database for semaglutide and tirzepatide shortage-resolved or removed designations. Track HIMS quarterly IR disclosures for explicit compounded GLP-1 revenue proportion and management guidance language around regulatory contingency. Flag any FDA enforcement action or compounding pharmacy shutdown touching GLP-1 analogs. Alert on CDMO order-book softening as a leading indicator that originator supply is closing on demand.",
+        "methodology_footer": "Sector selected by diversity-adjusted convergence scoring with recency penalty applied (peptides recency penalty 8.333, adjusted score 15.192). Peptides covered 2026-06-01 (quiet_setup, CDMO capacity as structural constraint) and 2026-05-30 (narrative_loud_trade_bad, originator overpricing). This issue covers the distinct telehealth compounding cliff angle — regulatory binary at the platform layer — not previously the primary thesis. Decision packet dp_peptide_manufacturing_watchlist verdict: watchlist_candidate.",
+        "position_conflict_disclosure": "No current book exposure to the peptides sector. Open positions are FXA put spreads tied to the ENSO/cicadas theme (June and August 2026 NOAA data-release catalysts). No conflict with this issue's thesis or proposed exposure.",
+        "product": "convergence_daily",
+        "publication_date": "2026-06-06",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-06",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'id': 'sig-fda-compounding-enforcement', 'label': 'FDA compounding enforcement binary', 'strength': 0.85, 'source_quality': 'high', 'description': 'FDA drug-shortage status is the legal gate for 503A/503B compounding pharmacy access to GLP-1 analogs. Resolution is binary — no appeal, no phase-out. Documented from primary FDA shortage and enforcement-alert databases.'}",
+          "{'id': 'sig-telehealth-compounded-volume', 'label': 'DTC telehealth compounded GLP-1 revenue exposure', 'strength': 0.75, 'source_quality': 'medium', 'description': 'HIMS and comparable DTC platforms show material compounded GLP-1 revenues in quarterly IR disclosures. Revenue explicitly contingent on shortage-list status. Sourced from published IR and trade press — no independent prescription volume verification.'}",
+          "{'id': 'sig-glp1-manufacturing-capacity-buildout', 'label': 'Peptide API capacity buildout accelerates shortage resolution clock', 'strength': 0.8, 'source_quality': 'high', 'description': 'Bachem, Polypeptide Group, Lilly, and Novo Nordisk IR filings document active peptide-API capacity expansion. Growing originator supply is the necessary condition for FDA to resolve the shortage — the CDMO capex trajectory and the compounding regulatory clock share the same driver.'}",
+          "{'id': 'sig-originator-peak-hype-platform-gap', 'label': 'Originator options fully pricing upside; compounding platform cliff unpriced', 'strength': 0.9, 'source_quality': 'high', 'description': 'LLY convergence 0.80 peak-hype, top scanner asymmetry score 11.5 at 42.9% IV. NVO convergence 0.68 peak-hype. HIMS returns zero passing scanner contracts. The options market is expressing GLP-1 through originator upside calls exclusively, with no derivatives expression on the compounding platform binary.'}"
+        ],
+        "state": "observing",
+        "thesis": "DTC telehealth platforms have built material compounded GLP-1 revenues explicitly contingent on FDA shortage-list status — a binary regulatory event that collapses this revenue with no appeal mechanism. The scanner prices only the originator upside (LLY peak-hype convergence 0.80, NVO 0.68) while the platform cliff at the compounding layer goes unpriced: HIMS returns zero scanner contracts. As peptide-API manufacturing capacity grows, the probability of shortage resolution rises, pulling the regulatory clock forward on the same horizon as the CDMO picks-and-shovels thesis. The loud trade — originator calls — is fully taxed. The unpriced event risk sits one layer down.",
+        "trend_ids": [
+          "peptides",
+          "glp1-obesity",
+          "cdmo-picks-and-shovels"
+        ],
+        "uncertainty": "FDA shortage-list resolution timing is the central unknown and cannot be derived from public market data. The telehealth revenue exposure figure is directionally reliable but not precisely quantified. Treat this as a position-around-the-event setup, not a precision trade with a timing edge."
+      }
+    }
+  },
+  "title": "When the Shortage List Gets Resolved",
+  "summary": "DTC telehealth platforms have built material compounded GLP-1 revenues explicitly contingent on FDA shortage-list status — a binary regulatory event that collapses this revenue with no appeal mechanism.",
+  "authors": [
+    {
+      "name": "Convergence Daily",
+      "url": "https://daily.convergence.dev/authors/convergence-daily/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "DTC telehealth platforms have built material compounded GLP-1 revenues explicitly contingent on FDA shortage-list status — a binary regulatory event that collapses this revenue with no appeal mechanism. The scanner prices only the originator upside (LLY peak-hype convergence 0.80, NVO 0.68) while the platform cliff at the compounding layer goes unpriced: HIMS returns zero scanner contracts. As peptide-API manufacturing capacity grows, the probability of shortage resolution rises, pulling the regulatory clock forward on the same horizon as the CDMO picks-and-shovels thesis. The loud trade — originator calls — is fully taxed. The unpriced event risk sits one layer down.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-06",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-06-cross-sector-brief@v1",
+      "falsification": "FDA extends shortage-list status indefinitely due to persistent demand outpacing supply — regulatory clock recedes rather than advances. HIMS materially diversifies revenue away from compounded GLP-1 before shortage resolution, replacing it with brand-name drug access or other therapeutic categories that reach scale. Originator pharma vertically integrates compounding-adjacent distribution channels, converting shortage resolution from a cliff to a managed commercial transition. Capacity announcements indicate material oversupply within two quarters but FDA shortage status remains — supply constraint and regulatory designation decouple, invalidating the shared-driver thesis."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "When the Shortage List Gets Resolved",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "DTC telehealth platforms have built material compounded GLP-1 revenues explicitly contingent on FDA shortage-list status — a binary regulatory event that collapses this revenue with no appeal mechanism. The scanner prices only the originator upside (LLY peak-hype convergence 0.80, NVO 0.68) while the platform cliff at the compounding layer goes unpriced: HIMS returns zero scanner contracts. As peptide-API manufacturing capacity grows, the probability of shortage resolution rises, pulling the regulatory clock forward on the same horizon as the CDMO picks-and-shovels thesis. The loud trade — originator calls — is fully taxed. The unpriced event risk sits one layer down.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "FDA compounding enforcement binary: FDA drug-shortage status is the legal gate for 503A/503B compounding pharmacy access to GLP-1 analogs. Resolution is binary — no appeal, no phase-out. Documented from primary FDA shortage and enforcement-alert databases. (quality: high; strength: 0.85)\n\nDTC telehealth compounded GLP-1 revenue exposure: HIMS and comparable DTC platforms show material compounded GLP-1 revenues in quarterly IR disclosures. Revenue explicitly contingent on shortage-list status. Sourced from published IR and trade press — no independent prescription volume verification. (quality: medium; strength: 0.75)\n\nPeptide API capacity buildout accelerates shortage resolution clock: Bachem, Polypeptide Group, Lilly, and Novo Nordisk IR filings document active peptide-API capacity expansion. Growing originator supply is the necessary condition for FDA to resolve the shortage — the CDMO capex trajectory and the compounding regulatory clock share the same driver. (quality: high; strength: 0.8)\n\nOriginator options fully pricing upside; compounding platform cliff unpriced: LLY convergence 0.80 peak-hype, top scanner asymmetry score 11.5 at 42.9% IV. NVO convergence 0.68 peak-hype. HIMS returns zero passing scanner contracts. The options market is expressing GLP-1 through originator upside calls exclusively, with no derivatives expression on the compounding platform binary. (quality: high; strength: 0.9)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "FDA extends shortage-list status indefinitely due to persistent demand outpacing supply — regulatory clock recedes rather than advances. HIMS materially diversifies revenue away from compounded GLP-1 before shortage resolution, replacing it with brand-name drug access or other therapeutic categories that reach scale. Originator pharma vertically integrates compounding-adjacent distribution channels, converting shortage resolution from a cliff to a managed commercial transition. Capacity announcements indicate material oversupply within two quarters but FDA shortage status remains — supply constraint and regulatory designation decouple, invalidating the shared-driver thesis.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Convergence Daily. \"When the Shortage List Gets Resolved.\" Convergence Daily. 2026-06-06. Resolve signal://convergence-daily/claim/convergence-2026-06-06-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-2026-06-06-cross-sector-brief@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-06",
+      "published_at": "2026-06-06T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

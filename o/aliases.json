@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.0.0",
+  "publication": {
+    "id": "convergence-daily",
+    "name": "Convergence Daily",
+    "base_url": "https://convergence.permanentupperclass.com"
+  },
+  "aliases": {
+    "signal://convergence-daily/claim/convergence-2026-06-03-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief@sha256-9c73102ac4acf566de79f075f115c9742cb082f2f33f742c812982efb9acd22a.json",
+    "signal://convergence-daily/claim/convergence-2026-06-05-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-4606000133c17039457efaccc2af4395be5edabb95981d0086e344e71f8ab379.json",
+    "signal://convergence-daily/claim/convergence-2026-06-06-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-06-cross-sector-brief@sha256-3b9331483a9a7327f148f22424f92fd8275dab9b8c6a6db871446528ce375281.json",
+    "signal://convergence-daily/claim/convergence-2026-06-10-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-48e020ec7c326e0908967a373172dab6c083f37aa51d3adf91e41ade87e7cadf.json",
+    "signal://convergence-daily/claim/convergence-2026-06-12-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief@sha256-2df4d82c4f39890f199b97677f4d2fea244a76265244d92be0d70333d8cd84e5.json",
+    "signal://convergence-daily/claim/convergence-daily-2026-05-26-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-47510d29e61c3ac7a506c91f49901e65256dcdb3b5efba05e4ea93b9f0d72a05.json",
+    "signal://convergence-daily/claim/convergence-daily-2026-05-27-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-505896768a872688c3f0daf2f38ac957952abef3de51882e3bee20993e255f5f.json",
+    "signal://convergence-daily/claim/convergence-daily-2026-05-28-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-c7ebe8cc5e036edd8645be8946fbcfd64a00b1dbfd03da77926536c6ba600953.json",
+    "signal://convergence-daily/claim/convergence-daily-2026-05-29-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief@sha256-94c62df3e487eb4409c189bdde6af871e2326b97a4c7538b3ec3e5a0b2f8a8d6.json",
+    "signal://convergence-daily/claim/convergence-daily-2026-05-30-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-57a3fe265934587a00ab9913991f282169696f773557ef7fdbb46d6cb387fa9d.json",
+    "signal://convergence-daily/claim/convergence-daily-2026-05-31-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-31-cross-sector-brief@sha256-23443f2957825a744cd7155d0fd4b947c3b35d93dd45c1185a6e8d2a527a39d6.json",
+    "signal://convergence-daily/claim/convergence-daily-2026-06-01-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-574a6229f223cc70a316ddf989603b69ccecd4afda7fed03fc8293060d07c3da.json"
+  },
+  "entries": [
+    {
+      "alias": "signal://convergence-daily/claim/convergence-2026-06-03-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief@sha256-9c73102ac4acf566de79f075f115c9742cb082f2f33f742c812982efb9acd22a.json",
+      "object_id": "obj_convergence20260603crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-2026-06-03-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-2026-06-05-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-4606000133c17039457efaccc2af4395be5edabb95981d0086e344e71f8ab379.json",
+      "object_id": "obj_convergence20260605crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-2026-06-05-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-2026-06-06-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-06-cross-sector-brief@sha256-3b9331483a9a7327f148f22424f92fd8275dab9b8c6a6db871446528ce375281.json",
+      "object_id": "obj_convergence20260606crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-2026-06-06-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-2026-06-10-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-48e020ec7c326e0908967a373172dab6c083f37aa51d3adf91e41ade87e7cadf.json",
+      "object_id": "obj_convergence20260610crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-2026-06-10-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-2026-06-12-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief@sha256-2df4d82c4f39890f199b97677f4d2fea244a76265244d92be0d70333d8cd84e5.json",
+      "object_id": "obj_convergence20260612crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-2026-06-12-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-daily-2026-05-26-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-47510d29e61c3ac7a506c91f49901e65256dcdb3b5efba05e4ea93b9f0d72a05.json",
+      "object_id": "obj_convergencedaily20260526crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-daily-2026-05-26-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-daily-2026-05-27-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-505896768a872688c3f0daf2f38ac957952abef3de51882e3bee20993e255f5f.json",
+      "object_id": "obj_convergencedaily20260527crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-daily-2026-05-27-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-daily-2026-05-28-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-c7ebe8cc5e036edd8645be8946fbcfd64a00b1dbfd03da77926536c6ba600953.json",
+      "object_id": "obj_convergencedaily20260528crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-daily-2026-05-28-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-daily-2026-05-29-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief@sha256-94c62df3e487eb4409c189bdde6af871e2326b97a4c7538b3ec3e5a0b2f8a8d6.json",
+      "object_id": "obj_convergencedaily20260529crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-daily-2026-05-29-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-daily-2026-05-30-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-57a3fe265934587a00ab9913991f282169696f773557ef7fdbb46d6cb387fa9d.json",
+      "object_id": "obj_convergencedaily20260530crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-daily-2026-05-30-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-daily-2026-05-31-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-31-cross-sector-brief@sha256-23443f2957825a744cd7155d0fd4b947c3b35d93dd45c1185a6e8d2a527a39d6.json",
+      "object_id": "obj_convergencedaily20260531crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-daily-2026-05-31-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-daily-2026-06-01-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-574a6229f223cc70a316ddf989603b69ccecd4afda7fed03fc8293060d07c3da.json",
+      "object_id": "obj_convergencedaily20260601crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-daily-2026-06-01-cross-sector-brief",
+      "claim_key": "thesis"
+    }
+  ]
+}

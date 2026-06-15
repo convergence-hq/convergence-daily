@@ -1,0 +1,217 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_convergencedaily20260531crosssectorbrief",
+  "slug": "convergence-daily-2026-05-31-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-31-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-31-cross-sector-brief@sha256-23443f2957825a744cd7155d0fd4b947c3b35d93dd45c1185a6e8d2a527a39d6.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-05-31T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "23443f2957825a744cd7155d0fd4b947c3b35d93dd45c1185a6e8d2a527a39d6",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Convergence Daily Desk",
+    "created_at": "2026-05-31T00:00:00Z",
+    "modified_at": "2026-05-31T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://convergence-daily/claim/convergence-daily-2026-05-31-cross-sector-brief@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "catalyst_ids": [
+          "clm_robotics_humanoid_figure_catalyst",
+          "clm_robotics_humanoid_pilot_demand"
+        ],
+        "entity_ids": [
+          "ent_tesla",
+          "ent_figure_ai",
+          "ent_apptronik",
+          "ent_abb",
+          "ent_teradyne",
+          "ent_symbotic",
+          "ent_serve_robotics"
+        ],
+        "format": "market_has_not_priced_story",
+        "human_action": "Monitor Figure AI primary financing announcement or IPO filing and Tesla quarterly Optimus production disclosures as the two triggering conditions that move this from watchlist to promote. When either triggers, evaluate TSLA upside structure (Optimus re-rate lens) and ISRG as a surgical-robotics-to-humanoid-proxy secondary watch. ABB and Teradyne (Universal Robots) offer picks-and-shovels exposure to the actuator and collaborative-robot hardware layer with less narrative premium. Do not enter before a catalyst clarifies timing.",
+        "legal_disclaimer": "This is a research and editorial product for informed operators. It is not investment advice. All positions described are paper-journal entries maintained for research and calibration purposes.",
+        "machine_action": "Watch newswire and IR feeds for: (1) Figure AI financing close or IPO registration statement; (2) Tesla quarterly disclosure of Optimus external production or customer milestone; (3) harmonic-drive or rare-earth supplier lead-time or capacity expansion announcements; (4) any top-ten OEM humanoid pilot cancellation citing unit economics, safety acceptance, or reliability. Re-run scanner on TSLA, ISRG, ABB, and TER when next scan is available to capture updated convergence trajectory and check for new asymmetry entries.",
+        "methodology_footer": "Sector selected by diversity-adjusted convergence scoring with recency penalty applied to recently published themes (photonic-computing covered four of the last five issues; synthetic-biology penalized for existing book exposure; robotics-humanoid selected as highest diversity-adjusted score at 15.41). Format selected as market_has_not_priced_story per sector recommendation and to rotate away from the recent quiet_setup run.",
+        "position_conflict_disclosure": "No current book positions in robotics-humanoid. One open position: FXA put_spread (cicadas/ENSO theme, entry 2026-05-19, mark -26.87% unrealized). No overlap with robotics-humanoid expression.",
+        "product": "convergence_daily",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-31",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "robotics-humanoid"
+        ],
+        "uncertainty": "Figure AI catalyst timing is the primary unknown — private financing is not disclosed until announced, and the IPO window is subject to market conditions. Actuator supply-constraint severity is directionally credible but granular lead-time data comes from manufacturer disclosures rather than independent channel checks. ISRG repricing as a humanoid proxy is speculative; it has not historically traded as a humanoid comparable and the re-rate mechanism depends on a private-to-public event not yet in view."
+      },
+      "original_issue": {
+        "catalyst_ids": [
+          "clm_robotics_humanoid_figure_catalyst",
+          "clm_robotics_humanoid_pilot_demand"
+        ],
+        "confidence": "medium_high",
+        "entity_ids": [
+          "ent_tesla",
+          "ent_figure_ai",
+          "ent_apptronik",
+          "ent_abb",
+          "ent_teradyne",
+          "ent_symbotic",
+          "ent_serve_robotics"
+        ],
+        "falsification": "Figure AI postpones an IPO or primary financing catalyst past Q2 2026 while BMW deployment remains limited to non-revenue pilots — removes the private-to-public catalyst clock. Tesla shelves Optimus production beyond internal-use scope through 2027 or removes Optimus production milestones from quarterly disclosure — removes the highest-visibility public data point. Harmonic-drive, actuator, and rare-earth magnet suppliers disclose broad lead-time normalization while humanoid developers stop citing component cost or supply as a scaling constraint — actuator bottleneck thesis is wrong. BMW, Mercedes-Benz, or another top-ten auto OEM cancels a humanoid pilot citing unit economics, safety acceptance, or reliability as the primary reason — demand-side invalidation.",
+        "format": "market_has_not_priced_story",
+        "headline": "The Gearbox Between Demo and Revenue",
+        "human_action": "Monitor Figure AI primary financing announcement or IPO filing and Tesla quarterly Optimus production disclosures as the two triggering conditions that move this from watchlist to promote. When either triggers, evaluate TSLA upside structure (Optimus re-rate lens) and ISRG as a surgical-robotics-to-humanoid-proxy secondary watch. ABB and Teradyne (Universal Robots) offer picks-and-shovels exposure to the actuator and collaborative-robot hardware layer with less narrative premium. Do not enter before a catalyst clarifies timing.",
+        "issue_id": "convergence-daily-2026-05-31-cross-sector-brief",
+        "legal_disclaimer": "This is a research and editorial product for informed operators. It is not investment advice. All positions described are paper-journal entries maintained for research and calibration purposes.",
+        "machine_action": "Watch newswire and IR feeds for: (1) Figure AI financing close or IPO registration statement; (2) Tesla quarterly disclosure of Optimus external production or customer milestone; (3) harmonic-drive or rare-earth supplier lead-time or capacity expansion announcements; (4) any top-ten OEM humanoid pilot cancellation citing unit economics, safety acceptance, or reliability. Re-run scanner on TSLA, ISRG, ABB, and TER when next scan is available to capture updated convergence trajectory and check for new asymmetry entries.",
+        "methodology_footer": "Sector selected by diversity-adjusted convergence scoring with recency penalty applied to recently published themes (photonic-computing covered four of the last five issues; synthetic-biology penalized for existing book exposure; robotics-humanoid selected as highest diversity-adjusted score at 15.41). Format selected as market_has_not_priced_story per sector recommendation and to rotate away from the recent quiet_setup run.",
+        "position_conflict_disclosure": "No current book positions in robotics-humanoid. One open position: FXA put_spread (cicadas/ENSO theme, entry 2026-05-19, mark -26.87% unrealized). No overlap with robotics-humanoid expression.",
+        "product": "convergence_daily",
+        "publication_date": "2026-05-31",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-05-31",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'id': 'sig_robotics_pilot_demand', 'label': 'Commercial pilot deployment in quarterly IR disclosures', 'confidence': 0.8, 'description': 'Tesla, Figure/BMW, Apptronik/Mercedes-Benz, Symbotic customers, and Serve Robotics are the leading public indicators of embodied robotics moving from demos toward revenue inflection. Pilots now appear in quarterly earnings calls and formal commercial agreements — a transition from press-release theater to falsifiable data.', 'source_ids': ['src_robotics_humanoid_tesla_quarterly', 'src_robotics_humanoid_figure_bmw', 'src_robotics_humanoid_apptronik_mercedes', 'src_robotics_humanoid_symbotic_ir', 'src_robotics_humanoid_serve_ir'], 'claim_id': 'clm_robotics_humanoid_pilot_demand'}",
+          "{'id': 'sig_robotics_figure_catalyst', 'label': 'Figure AI financing or IPO as public comparable reset', 'confidence': 0.82, 'description': \"Figure AI's large private funding round, OpenAI collaboration, BMW commercial agreement, and Figure 02 launch make Figure financing or IPO timing the central catalyst for repricing public humanoid-robotics comparables including TSLA (Optimus lens) and automation incumbents. Private-to-public catalyst clock is running; timing is the unknown.\", 'source_ids': ['src_robotics_humanoid_figure_funding', 'src_robotics_humanoid_figure_bmw', 'src_robotics_humanoid_figure_02'], 'claim_id': 'clm_robotics_humanoid_figure_catalyst'}",
+          "{'id': 'sig_robotics_actuator_supply', 'label': 'Harmonic-drive and rare-earth magnet supply as cost-curve governor', 'confidence': 0.78, 'description': 'Precision actuators, strain-wave gearing, and neodymium magnet availability are practical bottlenecks for humanoid unit cost and production volume. Every major developer publicly cites component cost as a scaling constraint. Normalization or acceleration of the actuator supply curve is the primary unknown in cost-per-unit projections and the variable the options market is not pricing.', 'source_ids': ['src_robotics_humanoid_harmonic_drive', 'src_robotics_humanoid_doe_neodymium_magnets', 'src_robotics_humanoid_teradyne_results'], 'claim_id': 'clm_robotics_humanoid_actuator_supply'}",
+          "{'id': 'sig_robotics_scanner_gap', 'label': 'Options market at MEDIUM/growing — not pricing catalyst sequencing or supply constraint', 'confidence': 0.85, 'description': 'TSLA convergence score 0.50 (MEDIUM/growing), ISRG at 0.40. Scanner records 13 contracts across the full robotics-humanoid theme versus 35 in AI Infrastructure and 28 in GLP-1. Last scanned TSLA structure: 455 strike call, 20.3% OTM, 44.4% IV, asymmetry score 6.13 — reflecting baseline TSLA volatility, not a humanoid-specific catalyst premium. Scanner data from 2026-04-28; specific contract expired May 29.', 'source_ids': [], 'claim_id': None}"
+        ],
+        "state": "observing",
+        "thesis": "Humanoid robotics has crossed from demo to commercial pilot — Tesla/Optimus in quarterly IR, Figure/BMW under formal agreement, Apptronik at Mercedes-Benz — while the options market prices TSLA at MEDIUM/growing convergence (0.50) with no isolation of the actuator supply constraint that governs cost-per-unit and deployment velocity. The Figure AI financing catalyst is the public repricing event that has not been timed.",
+        "trend_ids": [
+          "robotics-humanoid"
+        ],
+        "uncertainty": "Figure AI catalyst timing is the primary unknown — private financing is not disclosed until announced, and the IPO window is subject to market conditions. Actuator supply-constraint severity is directionally credible but granular lead-time data comes from manufacturer disclosures rather than independent channel checks. ISRG repricing as a humanoid proxy is speculative; it has not historically traded as a humanoid comparable and the re-rate mechanism depends on a private-to-public event not yet in view."
+      }
+    }
+  },
+  "title": "The Gearbox Between Demo and Revenue",
+  "summary": "Humanoid robotics has crossed from demo to commercial pilot — Tesla/Optimus in quarterly IR, Figure/BMW under formal agreement, Apptronik at Mercedes-Benz — while the options market prices TSLA at MEDIUM/growing convergence (0.50) with no isolation of the actuator supply constraint that governs cost-per-unit and deployment velocity.",
+  "authors": [
+    {
+      "name": "Convergence Daily",
+      "url": "https://daily.convergence.dev/authors/convergence-daily/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Humanoid robotics has crossed from demo to commercial pilot — Tesla/Optimus in quarterly IR, Figure/BMW under formal agreement, Apptronik at Mercedes-Benz — while the options market prices TSLA at MEDIUM/growing convergence (0.50) with no isolation of the actuator supply constraint that governs cost-per-unit and deployment velocity. The Figure AI financing catalyst is the public repricing event that has not been timed.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-05-31",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-daily-2026-05-31-cross-sector-brief@v1",
+      "falsification": "Figure AI postpones an IPO or primary financing catalyst past Q2 2026 while BMW deployment remains limited to non-revenue pilots — removes the private-to-public catalyst clock. Tesla shelves Optimus production beyond internal-use scope through 2027 or removes Optimus production milestones from quarterly disclosure — removes the highest-visibility public data point. Harmonic-drive, actuator, and rare-earth magnet suppliers disclose broad lead-time normalization while humanoid developers stop citing component cost or supply as a scaling constraint — actuator bottleneck thesis is wrong. BMW, Mercedes-Benz, or another top-ten auto OEM cancels a humanoid pilot citing unit economics, safety acceptance, or reliability as the primary reason — demand-side invalidation."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Gearbox Between Demo and Revenue",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Humanoid robotics has crossed from demo to commercial pilot — Tesla/Optimus in quarterly IR, Figure/BMW under formal agreement, Apptronik at Mercedes-Benz — while the options market prices TSLA at MEDIUM/growing convergence (0.50) with no isolation of the actuator supply constraint that governs cost-per-unit and deployment velocity. The Figure AI financing catalyst is the public repricing event that has not been timed.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "Commercial pilot deployment in quarterly IR disclosures: Tesla, Figure/BMW, Apptronik/Mercedes-Benz, Symbotic customers, and Serve Robotics are the leading public indicators of embodied robotics moving from demos toward revenue inflection. Pilots now appear in quarterly earnings calls and formal commercial agreements — a transition from press-release theater to falsifiable data.\n\nFigure AI financing or IPO as public comparable reset: Figure AI's large private funding round, OpenAI collaboration, BMW commercial agreement, and Figure 02 launch make Figure financing or IPO timing the central catalyst for repricing public humanoid-robotics comparables including TSLA (Optimus lens) and automation incumbents. Private-to-public catalyst clock is running; timing is the unknown.\n\nHarmonic-drive and rare-earth magnet supply as cost-curve governor: Precision actuators, strain-wave gearing, and neodymium magnet availability are practical bottlenecks for humanoid unit cost and production volume. Every major developer publicly cites component cost as a scaling constraint. Normalization or acceleration of the actuator supply curve is the primary unknown in cost-per-unit projections and the variable the options market is not pricing.\n\nOptions market at MEDIUM/growing — not pricing catalyst sequencing or supply constraint: TSLA convergence score 0.50 (MEDIUM/growing), ISRG at 0.40. Scanner records 13 contracts across the full robotics-humanoid theme versus 35 in AI Infrastructure and 28 in GLP-1. Last scanned TSLA structure: 455 strike call, 20.3% OTM, 44.4% IV, asymmetry score 6.13 — reflecting baseline TSLA volatility, not a humanoid-specific catalyst premium. Scanner data from 2026-04-28; specific contract expired May 29.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Figure AI postpones an IPO or primary financing catalyst past Q2 2026 while BMW deployment remains limited to non-revenue pilots — removes the private-to-public catalyst clock. Tesla shelves Optimus production beyond internal-use scope through 2027 or removes Optimus production milestones from quarterly disclosure — removes the highest-visibility public data point. Harmonic-drive, actuator, and rare-earth magnet suppliers disclose broad lead-time normalization while humanoid developers stop citing component cost or supply as a scaling constraint — actuator bottleneck thesis is wrong. BMW, Mercedes-Benz, or another top-ten auto OEM cancels a humanoid pilot citing unit economics, safety acceptance, or reliability as the primary reason — demand-side invalidation.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Convergence Daily. \"The Gearbox Between Demo and Revenue.\" Convergence Daily. 2026-05-31. Resolve signal://convergence-daily/claim/convergence-daily-2026-05-31-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-daily-2026-05-31-cross-sector-brief@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-05-31",
+      "published_at": "2026-05-31T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}
