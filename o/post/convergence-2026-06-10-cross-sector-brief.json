@@ -4,14 +4,14 @@
   "id": "obj_convergence20260610crosssectorbrief",
   "slug": "convergence-2026-06-10-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-6801d814e8b1ff0e93fe24db3f6c325a253cb86d52f2b3ed7218f8d49e5eb0bd.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-6425b637f19723aea301ca0a0f5eb5976fbc570192c46a75ebbf7dfaa0d2a0cc.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-06-10T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "6801d814e8b1ff0e93fe24db3f6c325a253cb86d52f2b3ed7218f8d49e5eb0bd",
+    "value": "6425b637f19723aea301ca0a0f5eb5976fbc570192c46a75ebbf7dfaa0d2a0cc",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -152,38 +152,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Clocks Are Not Running at the Same Speed",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "Bitcoin mining has split into two structurally distinct businesses with different risk clocks — pure-play hashprice names (MARA, RIOT, CLSK) cooling post-peak and AI/HPC infrastructure platforms (CORZ, HUT, IREN, BTBT, HIVE) building lease duration quietly — while the corpus carries 0.80–0.83 confidence on three independent claims and the decision packet sits at watchlist_candidate awaiting a confirming PPA or earnings catalyst before equity entry is warranted.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "AI/HPC conversion splits public miner valuation framework: Q1/Q2 2026 earnings filings for eight public miners document structural bifurcation: CORZ, HUT, IREN, BTBT, HIVE valued on lease duration and hyperscaler PPA; MARA, RIOT, CLSK retain BTC-cycle beta. Corpus confidence 0.82 from primary company filings. (strength: 0.82)\n\nASIC supply and tariff exposure as post-halving fleet bottleneck: Bitmain S21/S21 XP delivery timing and tariff-driven landed costs are the binding efficiency constraint for pure-play fleet upgrades. Risk is joules-per-terahash improvement pace and delivery calendar. Evidenced in CleanSpark and Marathon Q1 2026 filings. (strength: 0.8)\n\nTexas SB 6, NY PoW review, and IRS 6050I as realized hashrate governors: Texas large-load registration and SB 6 interconnection rules are the binding expansion constraint for AI-pivot names. NY proof-of-work environmental review and IRS 6050I digital-asset reporting add compliance overhead. Sourced from Texas PUC docket, SB 6 legislative text, and IRS guidance. (strength: 0.83)\n\nScanner covers pure-play names at post-peak; AI-pivot names return zero contracts: April 2026 sweep returns 5 contracts on MARA (top asymmetry 4.63, IV 89.9%, post_peak, convergence 0.50) and 1 on RIOT (0.45); zero contracts for CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR. Infrastructure rerating story has no current derivatives expression. (strength: 0.9)",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Hashprice stays below $40/PH/day for 4 consecutive weeks, compressing pure-play margins past cash-cost survivability. Bitmain ASIC landed costs spike 50% or more for 2 consecutive quarters, breaking fleet-upgrade economics for U.S. miners. Hyperscaler PPA or lease cancellations cluster across CORZ, HUT, IREN, BTBT, HIVE, WULF, or CIFR, signaling the AI pivot is not delivering promised margin. BTC sustains a sub-$30,000 drawdown past 12 months, collapsing sector cash-flow durability and BTC treasury optionality. Texas ERCOT rules or state mining restrictions force repeated curtailment or delayed interconnection for 2 consecutive quarters at major public-miner facilities.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Clocks Are Not Running at the Same Speed Thesis Bitcoin mining has split into two structurally distinct businesses with different risk clocks — pure-play hashprice names (MARA, RIOT, CLSK) cooling post-peak and AI/HPC infrastructure platforms (CORZ, HUT, IREN, BTBT, HIVE) building lease duration quietly — while the corpus carries 0.80–0.83 confidence on three independent claims and the decision packet"
     }
   ],
   "license": {
@@ -209,5 +178,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }

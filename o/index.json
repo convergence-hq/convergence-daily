@@ -25,7 +25,10 @@
         "published_at": "2026-06-12T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-12-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-12-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
     },
     {
       "id": "obj_convergence20260610crosssectorbrief",
@@ -34,10 +37,10 @@
       "title": "The Clocks Are Not Running at the Same Speed",
       "summary": "Bitcoin mining has split into two structurally distinct businesses with different risk clocks — pure-play hashprice names (MARA, RIOT, CLSK) cooling post-peak and AI/HPC infrastructure platforms (CORZ, HUT, IREN, BTBT, HIVE) building lease duration quietly — while the corpus carries 0.80–0.83 confidence on three independent claims and the decision packet sits at watchlist_candidate awaiting a confirming PPA or earnings catalyst before equity entry is warranted.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-6801d814e8b1ff0e93fe24db3f6c325a253cb86d52f2b3ed7218f8d49e5eb0bd.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-6425b637f19723aea301ca0a0f5eb5976fbc570192c46a75ebbf7dfaa0d2a0cc.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "6801d814e8b1ff0e93fe24db3f6c325a253cb86d52f2b3ed7218f8d49e5eb0bd",
+        "value": "6425b637f19723aea301ca0a0f5eb5976fbc570192c46a75ebbf7dfaa0d2a0cc",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-06-10T00:00:00Z",
@@ -46,7 +49,11 @@
         "published_at": "2026-06-10T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-10-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-10-cross-sector-brief/",
+      "access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "id": "obj_convergence20260606crosssectorbrief",
@@ -67,7 +74,10 @@
         "published_at": "2026-06-06T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-06-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-06-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
     },
     {
       "id": "obj_convergence20260605crosssectorbrief",
@@ -76,10 +86,10 @@
       "title": "Petahash Was the Cover Story",
       "summary": "U.S.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-fe7c3903f2107735e2a0ebfe6980d36b9fb9f2fdbd95583fbb180b804a2b16e5.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-223e61fecb706e2da13e5e7322b0b508c944135c4f8255a4260f5cc03ab64385.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "fe7c3903f2107735e2a0ebfe6980d36b9fb9f2fdbd95583fbb180b804a2b16e5",
+        "value": "223e61fecb706e2da13e5e7322b0b508c944135c4f8255a4260f5cc03ab64385",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-06-05T00:00:00Z",
@@ -88,7 +98,11 @@
         "published_at": "2026-06-05T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-05-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-05-cross-sector-brief/",
+      "access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "id": "obj_convergence20260603crosssectorbrief",
@@ -97,10 +111,10 @@
       "title": "Five Hundred Patients Before the Market Noticed",
       "summary": "CRISPR Therapeutics has cleared the first commercial-compounding threshold in public gene editing — $43M Q1 2026 Casgevy revenue, 500-plus patient initiations, $2.44B cash — while the scanner returns one passing contract across the entire synthetic biology theme and equities have not re-rated from clinical-stage to commercial-compounder multiples.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief@sha256-432995295db90182cdc197adfe1cff1ae773c4f4b8c343f5d4a6fcdb2628fe20.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief@sha256-a2d46ea47ee968b01f4d140cb497e85605112754bea161102801e13da7b6f478.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "432995295db90182cdc197adfe1cff1ae773c4f4b8c343f5d4a6fcdb2628fe20",
+        "value": "a2d46ea47ee968b01f4d140cb497e85605112754bea161102801e13da7b6f478",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-06-03T00:00:00Z",
@@ -109,7 +123,11 @@
         "published_at": "2026-06-03T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-03-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-03-cross-sector-brief/",
+      "access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "id": "obj_convergencedaily20260601crosssectorbrief",
@@ -118,10 +136,10 @@
       "title": "The Factory Behind the Drug Nobody Can Get",
       "summary": "Peptide API manufacturing capacity is the structural constraint on GLP-1 supply — observable in primary CDMO investor filings at 0.80 corpus confidence — while originator names trade at peak-hype convergence and the manufacturing layer sits entirely outside option flow.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-87db6dc347491e93a2f60ede9612c5ad27d54dd0c3e503edb494317a8a7ade68.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-455b56cfe45ac37e72109aaeabb66431ad6fe03ca9f1dcb1fa938011a5b2208d.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "87db6dc347491e93a2f60ede9612c5ad27d54dd0c3e503edb494317a8a7ade68",
+        "value": "455b56cfe45ac37e72109aaeabb66431ad6fe03ca9f1dcb1fa938011a5b2208d",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-06-01T00:00:00Z",
@@ -130,7 +148,11 @@
         "published_at": "2026-06-01T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-06-01-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-06-01-cross-sector-brief/",
+      "access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "id": "obj_convergencedaily20260531crosssectorbrief",
@@ -151,7 +173,10 @@
         "published_at": "2026-05-31T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-31-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-31-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
     },
     {
       "id": "obj_convergencedaily20260530crosssectorbrief",
@@ -160,10 +185,10 @@
       "title": "The Market Is Long the Brand, Short the Molecule",
       "summary": "The GLP-1 obesity trade is fully priced at the originator level — LLY and NVO sit at peak-hype convergence with elevated IV and deep-OTM options expressing a narrative the market already knows.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-64bf063a7fc41c15111c24947a26659dcbdd1c3155167696c6d7c0b824a485a1.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-9ef3dff9710dda24d57b2bbb59e8f3a3bd2426eceff5103b8d48b7cf3bb8e7bb.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "64bf063a7fc41c15111c24947a26659dcbdd1c3155167696c6d7c0b824a485a1",
+        "value": "9ef3dff9710dda24d57b2bbb59e8f3a3bd2426eceff5103b8d48b7cf3bb8e7bb",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-05-30T00:00:00Z",
@@ -172,7 +197,11 @@
         "published_at": "2026-05-30T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-30-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-30-cross-sector-brief/",
+      "access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "id": "obj_convergencedaily20260529crosssectorbrief",
@@ -181,10 +210,10 @@
       "title": "The Optical Layer Running Ahead of the Tape",
       "summary": "Photonic computing has cleared three simultaneous conditions for a quiet setup: NVIDIA-anchored revenue inflection at 0.88 corpus confidence, private chiplet validation at multi-billion-dollar marks, and zero passing options contracts on LITE or COHR.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief@sha256-ab26729892dd397602913da3bf72b3eb4c3dbee67bdd238156315a3c1471b43e.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief@sha256-99f77926274d04fa0156ecea7fc79b8cd26cd482dde2591d7fe04fd0d2c1e116.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "ab26729892dd397602913da3bf72b3eb4c3dbee67bdd238156315a3c1471b43e",
+        "value": "99f77926274d04fa0156ecea7fc79b8cd26cd482dde2591d7fe04fd0d2c1e116",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-05-29T00:00:00Z",
@@ -193,7 +222,11 @@
         "published_at": "2026-05-29T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-29-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-29-cross-sector-brief/",
+      "access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "id": "obj_convergencedaily20260528crosssectorbrief",
@@ -202,10 +235,10 @@
       "title": "Revenue Is Moving in the Dark",
       "summary": "Photonic computing has crossed a confirmed revenue inflection — Lumentum +90% YoY, Coherent +21% YoY, NVIDIA $4B structural anchor — while the scanner records zero options contracts on both primary names and the convergence scorer still classifies the theme as emerging; the same AI-capex supercycle is visible in nuclear-SMR and defense-AI, but options premiums in those sectors have already partially taxed the expression.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-412ba03bd96c0d2ebddd1432127e4cf334b38a50e07625b36ff34dad65ad50da.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-7f8e28cbbb11a49cf180e1e9a77b6cc6b5d0099d2df27c52bb7d8f7c70d0bdae.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "412ba03bd96c0d2ebddd1432127e4cf334b38a50e07625b36ff34dad65ad50da",
+        "value": "7f8e28cbbb11a49cf180e1e9a77b6cc6b5d0099d2df27c52bb7d8f7c70d0bdae",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-05-28T00:00:00Z",
@@ -214,7 +247,11 @@
         "published_at": "2026-05-28T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-28-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-28-cross-sector-brief/",
+      "access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "id": "obj_convergencedaily20260527crosssectorbrief",
@@ -223,10 +260,10 @@
       "title": "The Light Nobody Is Trading",
       "summary": "Silicon photonics is generating the real revenue inflection inside AI infrastructure while options flow concentrates in peak-hype names one layer up the stack.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-4858c76a1c107887e4f33a718b76c1538add92f733f15cebfef1e6f72f578c11.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-f2b3ca9a21ebe6975be343f40eada0cd36cd7934e980372996079a0b300e3553.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "4858c76a1c107887e4f33a718b76c1538add92f733f15cebfef1e6f72f578c11",
+        "value": "f2b3ca9a21ebe6975be343f40eada0cd36cd7934e980372996079a0b300e3553",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-05-27T00:00:00Z",
@@ -235,7 +272,11 @@
         "published_at": "2026-05-27T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-27-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-27-cross-sector-brief/",
+      "access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "id": "obj_convergencedaily20260526crosssectorbrief",
@@ -244,10 +285,10 @@
       "title": "The Bandwidth Wall Is Already Photons",
       "summary": "Optical interconnect has crossed from research to production revenue inside the hyperscaler AI buildout, anchored by NVIDIA's March 2026 $4B dual commitment to Lumentum and Coherent, yet the options scanner finds zero qualifying structures for either name while private chiplet marks at Lightmatter ($4.4B) and Ayar Labs ($3.75B) signal the same 12-to-24-month private-leads-public revaluation pattern visible across five other sectors in this corpus.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-b7d1c3998316348a8f8564f270a9ff08574719415a1dd08dd58145d00a3cb46e.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-a2e059fa18eef65205856875846e73c6462b70095bd083eb76190ea5c22ebe74.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "b7d1c3998316348a8f8564f270a9ff08574719415a1dd08dd58145d00a3cb46e",
+        "value": "a2e059fa18eef65205856875846e73c6462b70095bd083eb76190ea5c22ebe74",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-05-26T00:00:00Z",
@@ -256,7 +297,11 @@
         "published_at": "2026-05-26T00:00:00Z"
       },
       "claim_count": 1,
-      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-26-cross-sector-brief/"
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-26-cross-sector-brief/",
+      "access": {
+        "tier": "paid",
+        "teaser": true
+      }
     }
   ]
 }

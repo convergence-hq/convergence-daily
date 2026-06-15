@@ -4,14 +4,14 @@
   "id": "obj_convergencedaily20260526crosssectorbrief",
   "slug": "convergence-daily-2026-05-26-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-b7d1c3998316348a8f8564f270a9ff08574719415a1dd08dd58145d00a3cb46e.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-a2e059fa18eef65205856875846e73c6462b70095bd083eb76190ea5c22ebe74.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-05-26T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "b7d1c3998316348a8f8564f270a9ff08574719415a1dd08dd58145d00a3cb46e",
+    "value": "a2e059fa18eef65205856875846e73c6462b70095bd083eb76190ea5c22ebe74",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -164,38 +164,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Bandwidth Wall Is Already Photons",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "Optical interconnect has crossed from research to production revenue inside the hyperscaler AI buildout, anchored by NVIDIA's March 2026 $4B dual commitment to Lumentum and Coherent, yet the options scanner finds zero qualifying structures for either name while private chiplet marks at Lightmatter ($4.4B) and Ayar Labs ($3.75B) signal the same 12-to-24-month private-leads-public revaluation pattern visible across five other sectors in this corpus.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: Lumentum fiscal Q3 2026 revenue $808.4M, up 90% year over year; OCS backlog baseline exceeded $400M as of Q2\n\nsig_2: Coherent fiscal Q3 2026 revenue $1.806B, up approximately 21% year over year\n\nsig_3: NVIDIA March 2 2026 $4B strategic commitment: $2B equity investment each to LITE and COHR plus multibillion purchase commitments and future capacity rights\n\nsig_4: Lightmatter $850M total raised at $4.4B valuation; Passage L200/L200x above 200 Tbps total bandwidth, 8x training-time claim for advanced AI models\n\nsig_5: Ayar Labs $870M total raised after $500M Series E in March 2026 at $3.75B valuation; targeting high-volume manufacturing by 2028\n\nsig_6: Marvell acquired Celestial AI February 2026; guiding $500M ARR in Q4 FY2028 from Celestial Photonic Fabric revenue stream\n\nsig_7: Scanner finds zero qualifying options contracts for LITE or COHR under current filter configuration\n\nsig_8: Convergence score for LITE sits at 0.4 despite three independent corpus claims rated 0.85-0.88 confidence",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "NVIDIA, Lumentum, or Coherent publicly reduces or restructures the March 2 2026 $4B commitment in an 8-K, 10-Q, or earnings-call disclosure LITE or COHR misses one quarter of hyperscaler optical revenue or OCS backlog conversion guidance by more than 25% A non-photonic interconnect alternative — advanced copper, in-package electrical fabric, or internally built hyperscaler optical engines — wins material design-in slots at a 2026-2027 OFC equivalent TSMC or a named ecosystem partner discloses a slip in COUPE or CoWoS-class silicon-photonic CPO qualification milestones",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Bandwidth Wall Is Already Photons Thesis Optical interconnect has crossed from research to production revenue inside the hyperscaler AI buildout, anchored by NVIDIA's March 2026 $4B dual commitment to Lumentum and Coherent, yet the options scanner finds zero qualifying structures for either name while private chiplet marks at Lightmatter ($4.4B) and Ayar Labs ($3.75B) signal the same 12-to-24-month private-leads-public"
     }
   ],
   "license": {
@@ -221,5 +190,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }

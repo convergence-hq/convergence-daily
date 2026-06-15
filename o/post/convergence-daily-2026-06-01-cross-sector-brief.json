@@ -4,14 +4,14 @@
   "id": "obj_convergencedaily20260601crosssectorbrief",
   "slug": "convergence-daily-2026-06-01-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-87db6dc347491e93a2f60ede9612c5ad27d54dd0c3e503edb494317a8a7ade68.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-455b56cfe45ac37e72109aaeabb66431ad6fe03ca9f1dcb1fa938011a5b2208d.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-06-01T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "87db6dc347491e93a2f60ede9612c5ad27d54dd0c3e503edb494317a8a7ade68",
+    "value": "455b56cfe45ac37e72109aaeabb66431ad6fe03ca9f1dcb1fa938011a5b2208d",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -146,38 +146,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Factory Behind the Drug Nobody Can Get",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "Peptide API manufacturing capacity is the structural constraint on GLP-1 supply — observable in primary CDMO investor filings at 0.80 corpus confidence — while originator names trade at peak-hype convergence and the manufacturing layer sits entirely outside option flow. The picks-and-shovels CDMO expression carries lower franchise-headline risk and has not been priced by the narrative wave that has taxed LLY and NVO.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "Peptide-API manufacturing capacity is the binding constraint on GLP-1 originator output: {'id': 'sig_glp1_manufacturing_bottleneck', 'label': 'Peptide-API manufacturing capacity is the binding constraint on GLP-1 originator output', 'confidence': 0.8, 'source_ids': ['src_bachem_news', 'src_polypeptide_news', 'src_lilly_ir', 'src_novo_ir']}\n\nFDA drug-shortage status is a binary regulatory gate on 503A/503B compounding pharmacy access — shortage resolution terminates compounding with no appeal mechanism: {'id': 'sig_fda_compounding_enforcement', 'label': 'FDA drug-shortage status is a binary regulatory gate on 503A/503B compounding pharmacy access — shortage resolution terminates compounding with no appeal mechanism', 'confidence': 0.85, 'source_ids': ['src_fda_drug_shortages', 'src_fda_drug_alerts', 'src_endpoints_obesity']}\n\nDTC telehealth platforms hold material compounded-GLP-1 revenues explicitly contingent on shortage-list status: {'id': 'sig_telehealth_compounded_volume', 'label': 'DTC telehealth platforms hold material compounded-GLP-1 revenues explicitly contingent on shortage-list status', 'confidence': 0.75, 'source_ids': ['src_hims_ir', 'src_statnews_obesity', 'src_fiercepharma_rss']}\n\nLLY convergence 0.80 peak-hype, asymmetry 11.5, IV 42.9%; NVO convergence 0.68 peak-hype, asymmetry 5.99 — originator options fully pricing the narrative: {'id': 'sig_lly_nvo_peak_hype_scanner', 'label': 'LLY convergence 0.80 peak-hype, asymmetry 11.5, IV 42.9%; NVO convergence 0.68 peak-hype, asymmetry 5.99 — originator options fully pricing the narrative', 'confidence': 0.9, 'source_ids': []}",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Capacity announcements indicate material oversupply within two quarters and CDMO order books soften on guidance calls Lilly or Novo Nordisk announces vertical integration into peptide-API capacity, reducing external CDMO dependence FDA enforcement removes compounded-GLP-1 from the market in a way that collapses downstream telehealth volume without a compensating originator-supply shock Bachem and PolyPeptide Group begin trading with sustained correlation to LLY/NVO franchise headlines, eliminating the picks-and-shovels diversification premise",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Factory Behind the Drug Nobody Can Get Thesis Peptide API manufacturing capacity is the structural constraint on GLP-1 supply — observable in primary CDMO investor filings at 0.80 corpus confidence — while originator names trade at peak-hype convergence and the manufacturing layer sits entirely outside option flow. The picks-and-shovels CDMO expression carries lower franchise-headline risk and has not been"
     }
   ],
   "license": {
@@ -203,5 +172,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }

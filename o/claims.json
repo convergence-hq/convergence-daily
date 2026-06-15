@@ -26,7 +26,10 @@
         "value": "7747cc6e995f242cb15051d85a69b061e6a304e0d74efbc630022fd0f840e163",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-12-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-12-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
     },
     {
       "key": "thesis",
@@ -42,13 +45,17 @@
       "object_id": "obj_convergence20260610crosssectorbrief",
       "object_slug": "convergence-2026-06-10-cross-sector-brief",
       "object_title": "The Clocks Are Not Running at the Same Speed",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-6801d814e8b1ff0e93fe24db3f6c325a253cb86d52f2b3ed7218f8d49e5eb0bd.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-6425b637f19723aea301ca0a0f5eb5976fbc570192c46a75ebbf7dfaa0d2a0cc.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "6801d814e8b1ff0e93fe24db3f6c325a253cb86d52f2b3ed7218f8d49e5eb0bd",
+        "value": "6425b637f19723aea301ca0a0f5eb5976fbc570192c46a75ebbf7dfaa0d2a0cc",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-10-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-10-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "key": "thesis",
@@ -70,7 +77,10 @@
         "value": "d022812a3f36b75cacf3d93167891b513bb1fe3fd338e0332449cce0d328c23c",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-06-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-06-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
     },
     {
       "key": "thesis",
@@ -86,13 +96,17 @@
       "object_id": "obj_convergence20260605crosssectorbrief",
       "object_slug": "convergence-2026-06-05-cross-sector-brief",
       "object_title": "Petahash Was the Cover Story",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-fe7c3903f2107735e2a0ebfe6980d36b9fb9f2fdbd95583fbb180b804a2b16e5.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-223e61fecb706e2da13e5e7322b0b508c944135c4f8255a4260f5cc03ab64385.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "fe7c3903f2107735e2a0ebfe6980d36b9fb9f2fdbd95583fbb180b804a2b16e5",
+        "value": "223e61fecb706e2da13e5e7322b0b508c944135c4f8255a4260f5cc03ab64385",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-05-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-05-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "key": "thesis",
@@ -108,13 +122,17 @@
       "object_id": "obj_convergence20260603crosssectorbrief",
       "object_slug": "convergence-2026-06-03-cross-sector-brief",
       "object_title": "Five Hundred Patients Before the Market Noticed",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief@sha256-432995295db90182cdc197adfe1cff1ae773c4f4b8c343f5d4a6fcdb2628fe20.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief@sha256-a2d46ea47ee968b01f4d140cb497e85605112754bea161102801e13da7b6f478.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "432995295db90182cdc197adfe1cff1ae773c4f4b8c343f5d4a6fcdb2628fe20",
+        "value": "a2d46ea47ee968b01f4d140cb497e85605112754bea161102801e13da7b6f478",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-03-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-03-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "key": "thesis",
@@ -130,13 +148,17 @@
       "object_id": "obj_convergencedaily20260601crosssectorbrief",
       "object_slug": "convergence-daily-2026-06-01-cross-sector-brief",
       "object_title": "The Factory Behind the Drug Nobody Can Get",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-87db6dc347491e93a2f60ede9612c5ad27d54dd0c3e503edb494317a8a7ade68.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-455b56cfe45ac37e72109aaeabb66431ad6fe03ca9f1dcb1fa938011a5b2208d.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "87db6dc347491e93a2f60ede9612c5ad27d54dd0c3e503edb494317a8a7ade68",
+        "value": "455b56cfe45ac37e72109aaeabb66431ad6fe03ca9f1dcb1fa938011a5b2208d",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-06-01-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-06-01-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "key": "thesis",
@@ -158,7 +180,10 @@
         "value": "31e168e3940ce3dfa0d6aa5ef1a53b0e94e3db4cceb79eef9f68436df021ae48",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-31-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-31-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
     },
     {
       "key": "thesis",
@@ -174,13 +199,17 @@
       "object_id": "obj_convergencedaily20260530crosssectorbrief",
       "object_slug": "convergence-daily-2026-05-30-cross-sector-brief",
       "object_title": "The Market Is Long the Brand, Short the Molecule",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-64bf063a7fc41c15111c24947a26659dcbdd1c3155167696c6d7c0b824a485a1.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-9ef3dff9710dda24d57b2bbb59e8f3a3bd2426eceff5103b8d48b7cf3bb8e7bb.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "64bf063a7fc41c15111c24947a26659dcbdd1c3155167696c6d7c0b824a485a1",
+        "value": "9ef3dff9710dda24d57b2bbb59e8f3a3bd2426eceff5103b8d48b7cf3bb8e7bb",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-30-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-30-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "key": "thesis",
@@ -196,13 +225,17 @@
       "object_id": "obj_convergencedaily20260529crosssectorbrief",
       "object_slug": "convergence-daily-2026-05-29-cross-sector-brief",
       "object_title": "The Optical Layer Running Ahead of the Tape",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief@sha256-ab26729892dd397602913da3bf72b3eb4c3dbee67bdd238156315a3c1471b43e.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief@sha256-99f77926274d04fa0156ecea7fc79b8cd26cd482dde2591d7fe04fd0d2c1e116.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "ab26729892dd397602913da3bf72b3eb4c3dbee67bdd238156315a3c1471b43e",
+        "value": "99f77926274d04fa0156ecea7fc79b8cd26cd482dde2591d7fe04fd0d2c1e116",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-29-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-29-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "key": "thesis",
@@ -218,13 +251,17 @@
       "object_id": "obj_convergencedaily20260528crosssectorbrief",
       "object_slug": "convergence-daily-2026-05-28-cross-sector-brief",
       "object_title": "Revenue Is Moving in the Dark",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-412ba03bd96c0d2ebddd1432127e4cf334b38a50e07625b36ff34dad65ad50da.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-7f8e28cbbb11a49cf180e1e9a77b6cc6b5d0099d2df27c52bb7d8f7c70d0bdae.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "412ba03bd96c0d2ebddd1432127e4cf334b38a50e07625b36ff34dad65ad50da",
+        "value": "7f8e28cbbb11a49cf180e1e9a77b6cc6b5d0099d2df27c52bb7d8f7c70d0bdae",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-28-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-28-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "key": "thesis",
@@ -240,13 +277,17 @@
       "object_id": "obj_convergencedaily20260527crosssectorbrief",
       "object_slug": "convergence-daily-2026-05-27-cross-sector-brief",
       "object_title": "The Light Nobody Is Trading",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-4858c76a1c107887e4f33a718b76c1538add92f733f15cebfef1e6f72f578c11.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-f2b3ca9a21ebe6975be343f40eada0cd36cd7934e980372996079a0b300e3553.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "4858c76a1c107887e4f33a718b76c1538add92f733f15cebfef1e6f72f578c11",
+        "value": "f2b3ca9a21ebe6975be343f40eada0cd36cd7934e980372996079a0b300e3553",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-27-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-27-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "paid",
+        "teaser": true
+      }
     },
     {
       "key": "thesis",
@@ -262,13 +303,17 @@
       "object_id": "obj_convergencedaily20260526crosssectorbrief",
       "object_slug": "convergence-daily-2026-05-26-cross-sector-brief",
       "object_title": "The Bandwidth Wall Is Already Photons",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-b7d1c3998316348a8f8564f270a9ff08574719415a1dd08dd58145d00a3cb46e.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-a2e059fa18eef65205856875846e73c6462b70095bd083eb76190ea5c22ebe74.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "b7d1c3998316348a8f8564f270a9ff08574719415a1dd08dd58145d00a3cb46e",
+        "value": "a2e059fa18eef65205856875846e73c6462b70095bd083eb76190ea5c22ebe74",
         "canonicalization": "RFC8785-JCS"
       },
-      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-26-cross-sector-brief/#claim=thesis"
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-daily-2026-05-26-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "paid",
+        "teaser": true
+      }
     }
   ]
 }

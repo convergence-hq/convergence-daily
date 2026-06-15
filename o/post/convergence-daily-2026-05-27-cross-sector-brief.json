@@ -4,14 +4,14 @@
   "id": "obj_convergencedaily20260527crosssectorbrief",
   "slug": "convergence-daily-2026-05-27-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-4858c76a1c107887e4f33a718b76c1538add92f733f15cebfef1e6f72f578c11.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-f2b3ca9a21ebe6975be343f40eada0cd36cd7934e980372996079a0b300e3553.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-05-27T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "4858c76a1c107887e4f33a718b76c1538add92f733f15cebfef1e6f72f578c11",
+    "value": "f2b3ca9a21ebe6975be343f40eada0cd36cd7934e980372996079a0b300e3553",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -156,38 +156,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Light Nobody Is Trading",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "Silicon photonics is generating the real revenue inflection inside AI infrastructure while options flow concentrates in peak-hype names one layer up the stack. NVIDIA's $4B anchor commitment in March 2026, combined with 90% and 21% year-over-year revenue growth at Lumentum and Coherent respectively, and a validated private chiplet layer (Lightmatter, Ayar Labs, Marvell-Celestial), constitutes the strongest customer-anchored demand signal in any AI hardware subsector. The scanner found zero contracts against the photonic computing theme. LITE carries a convergence score of 0.4 while NVDA sits at 0.8. The market is pricing the AI buildout through the GPU and networking layer and has not yet routed flow into the optics bottleneck beneath it.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: LITE fiscal Q3 2026 revenue $808.4M, +90% YoY; prior quarter OCS backlog baseline above $400M\n\nsig_2: COHR fiscal Q3 2026 revenue $1.806B, +21% YoY\n\nsig_3: NVIDIA March 2 2026 $4B commitment split equally between LITE and COHR: investment, multibillion purchase commitments, future capacity/access rights, U.S. manufacturing support\n\nsig_4: Lightmatter $850M total raised, $4.4B valuation, Passage L200/L200x optical I/O >200 Tbps\n\nsig_5: Ayar Labs $500M Series E March 2026, $870M total raised, $3.75B valuation, CPO toward HVM 2028\n\nsig_6: Marvell Celestial AI acquisition closed February 2026; $500M annualized Celestial-derived revenue guided Q4 FY2028\n\nsig_7: AAOI +24% single session May 11 2026 on optics rotation — market can re-rate fast when narrative arrives\n\nsig_8: Scanner sweep: 0 contracts against Photonic Computing theme (LITE, COHR absent); LITE convergence score 0.4 MEDIUM/emerging\n\nsig_9: NVDA convergence 0.8 peak_hype, AVGO 0.62 peak_hype; AVGO asymmetry score 9.15 with 832 contracts — loud and priced\n\nsig_10: clm_pc_nvidia_anchor_investment and clm_pc_revenue_inflection both at 0.88 corpus confidence, sourced from primary IR",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "NVIDIA, Lumentum, or Coherent publicly reduces or restructures the March 2 2026 $4B commitment in a newsroom release, 8-K, 10-Q, or earnings-call disclosure — this is the single load-bearing demand anchor for the thesis LITE or COHR misses one quarter of hyperscaler optical revenue or OCS backlog conversion by more than 25%, eliminating the revenue-inflection case A non-photonic interconnect alternative — advanced copper, in-package electrical fabric, or hyperscaler-built optical engines — wins material design-in slots at the 2026-2027 OFC equivalent away from LITE, COHR, AAOI, Lightmatter, or Ayar TSMC reports in earnings materials that CoWoS-class advanced-packaging capacity is no longer tight for AI/HPC customers, removing the supply-ramp pricing-power premise for co-packaged optics Scanner coverage gap confirmed: LITE and COHR options chains fail to generate any qualifying contracts even after expanded sweep parameters, indicating the options market is genuinely absent and the thesis must be expressed in equity not derivatives",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Light Nobody Is Trading Thesis Silicon photonics is generating the real revenue inflection inside AI infrastructure while options flow concentrates in peak-hype names one layer up the stack. NVIDIA's $4B anchor commitment in March 2026, combined with 90% and 21% year-over-year revenue growth at Lumentum and Coherent respectively, and a validated private chiplet layer (Lightmatter, Ayar Labs, Marvell-Celestial), constitutes"
     }
   ],
   "license": {
@@ -213,5 +182,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }

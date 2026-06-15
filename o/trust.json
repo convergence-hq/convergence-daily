@@ -6,6 +6,17 @@
     "base_url": "https://convergence.permanentupperclass.com"
   },
   "generated_by": "@convergence/build@0.1.0",
+  "access": {
+    "status": "visibility-gate",
+    "read_only": true,
+    "policy": "latest_per_iso_week",
+    "teaser_words": 60,
+    "paid_objects": "Paid objects are served, digested, and signed in teaser form pending an external payment overlay.",
+    "cta": {
+      "text": "Subscribe to read the full brief",
+      "url": "https://convergence.permanentupperclass.com/subscribe"
+    }
+  },
   "schemas": {
     "object": {
       "id": "https://schemas.convergence-hq.org/object/v1.json",

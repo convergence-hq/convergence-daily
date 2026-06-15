@@ -4,14 +4,14 @@
   "id": "obj_convergencedaily20260530crosssectorbrief",
   "slug": "convergence-daily-2026-05-30-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-64bf063a7fc41c15111c24947a26659dcbdd1c3155167696c6d7c0b824a485a1.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-9ef3dff9710dda24d57b2bbb59e8f3a3bd2426eceff5103b8d48b7cf3bb8e7bb.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-05-30T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "64bf063a7fc41c15111c24947a26659dcbdd1c3155167696c6d7c0b824a485a1",
+    "value": "9ef3dff9710dda24d57b2bbb59e8f3a3bd2426eceff5103b8d48b7cf3bb8e7bb",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -148,38 +148,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Market Is Long the Brand, Short the Molecule",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "The GLP-1 obesity trade is fully priced at the originator level — LLY and NVO sit at peak-hype convergence with elevated IV and deep-OTM options expressing a narrative the market already knows. The corpus thesis is that the structurally durable exposure is upstream: specialized peptide-API CDMO capacity, where the supply bottleneck is observable in primary IR and the names carry lower franchise-headline correlation than the originators. Compounding-pharmacy channels are a contingent second-order beneficiary whose value depends on FDA shortage-status as a binary switch.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_lly_nvo_peak_hype_scanner: LLY convergence score 0.80, peak-hype status. Top scanner contract: $1,055 strike call, 20.9% OTM on a $872.65 spot, 42.9% IV, asymmetry score 11.5. NVO convergence 0.68, peak-hype, OTM call at 21.5% above spot at 48.5 IV. Narrative and options pricing have converged; remaining asymmetry is thin. (sector: peptides; quality: high)\n\nsig_glp1_manufacturing_bottleneck: Peptide-API manufacturing capacity is a structural supply constraint on GLP-1 originator output. CDMO capex and capacity additions are observable in primary IR filings from Bachem and PolyPeptide Group. Lilly and Novo Nordisk both manage supply ramp explicitly in investor communications. Corpus confidence 0.80. (sector: peptides; quality: high)\n\nsig_fda_compounding_enforcement: FDA drug-shortage list status governs 503A and 503B compounding-pharmacy legal access to GLP-1 analogs. Shortage resolution is a binary regulatory event that collapses downstream compounding volume with no appeal mechanism available to compounders. Corpus confidence 0.85, sourced from FDA drug-shortage and drug-alert databases. (sector: peptides; quality: high)\n\nsig_telehealth_compounded_volume: DTC telehealth platforms have built material compounded-GLP-1 prescription revenues visible in quarterly IR disclosures. Revenue is explicitly contingent on FDA shortage-status. Corpus confidence 0.75; sourcing relies primarily on published IR and trade press rather than independent volume verification. (sector: peptides; quality: medium)",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Capacity announcements indicate material oversupply within two quarters and CDMO order books soften — removes the supply-constraint underpinning of the picks-and-shovels thesis. Originator pharma vertically integrates peptide-API capacity and reduces external CDMO dependence — eliminates the structural advantage of holding CDMO names. FDA enforcement removes compounded GLP-1 from the market without a compensating originator-supply shock — collapses the downstream volume signal without creating CDMO upside. CDMO names begin trading with sustained originator-pharma franchise correlation — eliminates the diversification benefit that makes the picks-and-shovels reframe distinct from simply owning LLY.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Market Is Long the Brand, Short the Molecule Thesis The GLP-1 obesity trade is fully priced at the originator level — LLY and NVO sit at peak-hype convergence with elevated IV and deep-OTM options expressing a narrative the market already knows. The corpus thesis is that the structurally durable exposure is upstream: specialized peptide-API CDMO capacity, where the supply"
     }
   ],
   "license": {
@@ -205,5 +174,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }

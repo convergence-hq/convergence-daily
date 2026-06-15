@@ -4,14 +4,14 @@
   "id": "obj_convergence20260605crosssectorbrief",
   "slug": "convergence-2026-06-05-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-fe7c3903f2107735e2a0ebfe6980d36b9fb9f2fdbd95583fbb180b804a2b16e5.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-223e61fecb706e2da13e5e7322b0b508c944135c4f8255a4260f5cc03ab64385.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-06-05T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "fe7c3903f2107735e2a0ebfe6980d36b9fb9f2fdbd95583fbb180b804a2b16e5",
+    "value": "223e61fecb706e2da13e5e7322b0b508c944135c4f8255a4260f5cc03ab64385",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -234,38 +234,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "Petahash Was the Cover Story",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "U.S. public bitcoin mining has split into two structurally distinct businesses — pure-play hashprice beta (MARA, RIOT, CLSK) and AI/HPC power-infrastructure platforms (CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR) — at 0.82 corpus confidence sourced from Q1-Q2 2026 public miner filings, while the options scanner covers only the hashprice half at post_peak convergence and returns zero contracts for the infrastructure-pivot cohort. The pricing gap is structural: the market has built a derivatives surface for the BTC-cycle story and nothing for the hyperscaler-PPA rerating story.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "AI/HPC conversion splits public miner valuation framework: Core Scientific, Hut 8, IREN, Bit Digital, and HIVE are increasingly valued on lease duration, power pipeline, and hyperscaler customer concentration rather than hashprice. MARA, Riot, and CleanSpark retain direct BTC-cycle beta. Bifurcation is evidenced across Q1-Q2 2026 public miner earnings filings for eight named companies. Corpus confidence 0.82. (strength: 0.82)\n\nASIC supply and tariff exposure as post-halving fleet-upgrade bottleneck: Bitmain S21/S21 XP availability, Canaan Avalon shipment cadence, and tariff-driven landed-cost language in CleanSpark and Marathon filings make ASIC supply the binding constraint for pure-play fleet efficiency. Risk is delivery timing, landed cost under current tariff structures, and joules-per-terahash improvement. Corpus confidence 0.80. (strength: 0.8)\n\nTexas SB 6, New York PoW review, and IRS 6050I as realized-hashrate governors: Texas large-load registration and SB 6 interconnection rules, New York proof-of-work environmental review, and IRS Section 6050I digital-asset compliance reporting are core drivers of realized hashrate and cash cost for U.S. public miners. Interconnection timelines are the binding expansion constraint for infrastructure-pivot names. Corpus confidence 0.83. (strength: 0.83)\n\nScanner covers pure-play names at post_peak; AI-pivot names return zero contracts: Scanner returns 5 contracts on MARA (top asymmetry 4.63, IV 89.9%, theme status post_peak, convergence 0.50) and 1 convergence row on RIOT (0.45, post_peak). Zero contracts returned for CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR. The infrastructure rerating story has no derivatives expression in the current scanner output. Scanner data from 2026-04-28. (strength: 0.9)",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Hyperscaler AI/HPC lease or PPA cancellations cluster across two or more of Core Scientific, Hut 8, IREN, TeraWulf, Cipher, or Bit Digital in a single quarter, signaling the infrastructure pivot is not delivering contracted margin and collapsing the bifurcation thesis. Hashprice holds below $40 per PH per day for four consecutive weeks, pressing pure-play miner cash-cost survivability and reframing the sector as distress rather than bifurcation. Bitmain ASIC tariffs spike landed cost more than 50% for two consecutive quarters, breaking fleet-upgrade economics for ASIC-dependent pure-plays before the efficiency transition completes. BTC sustains a sub-$30,000 drawdown beyond 12 months, eliminating the BTC treasury optionality that keeps pure-play balance sheets solvent and compressing sector cash flow across both cohorts. Texas ERCOT large-load rules or state-level restrictions force repeated curtailment or delayed interconnection at major public-miner facilities for two consecutive quarters.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "Petahash Was the Cover Story Thesis U.S. public bitcoin mining has split into two structurally distinct businesses — pure-play hashprice beta (MARA, RIOT, CLSK) and AI/HPC power-infrastructure platforms (CORZ, HUT, IREN, BTBT, HIVE, WULF, BITF, CIFR) — at 0.82 corpus confidence sourced from Q1-Q2 2026 public miner filings, while the options scanner covers only the hashprice half at post_peak convergence"
     }
   ],
   "license": {
@@ -291,5 +260,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }

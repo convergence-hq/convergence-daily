@@ -2,6 +2,12 @@
   "linkset": [
     {
       "anchor": "https://convergence.permanentupperclass.com",
+      "access": {
+        "status": "visibility-gate",
+        "read_only": true,
+        "policy": "latest_per_iso_week",
+        "paid_objects": "served as signed teaser canonical objects"
+      },
       "describedby": [
         {
           "href": "https://convergence.permanentupperclass.com/o/trust.json",
@@ -35,122 +41,212 @@
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief.json",
           "type": "application/json",
-          "title": "All the Bottlenecks, None of the Asymmetry latest object"
+          "title": "All the Bottlenecks, None of the Asymmetry latest object",
+          "access": {
+            "tier": "free"
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief@sha256-7747cc6e995f242cb15051d85a69b061e6a304e0d74efbc630022fd0f840e163.json",
           "type": "application/json",
-          "title": "All the Bottlenecks, None of the Asymmetry immutable object"
+          "title": "All the Bottlenecks, None of the Asymmetry immutable object",
+          "access": {
+            "tier": "free"
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Clocks Are Not Running at the Same Speed latest object"
+          "title": "The Clocks Are Not Running at the Same Speed latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-6801d814e8b1ff0e93fe24db3f6c325a253cb86d52f2b3ed7218f8d49e5eb0bd.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-6425b637f19723aea301ca0a0f5eb5976fbc570192c46a75ebbf7dfaa0d2a0cc.json",
           "type": "application/json",
-          "title": "The Clocks Are Not Running at the Same Speed immutable object"
+          "title": "The Clocks Are Not Running at the Same Speed immutable object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-06-cross-sector-brief.json",
           "type": "application/json",
-          "title": "When the Shortage List Gets Resolved latest object"
+          "title": "When the Shortage List Gets Resolved latest object",
+          "access": {
+            "tier": "free"
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-06-cross-sector-brief@sha256-d022812a3f36b75cacf3d93167891b513bb1fe3fd338e0332449cce0d328c23c.json",
           "type": "application/json",
-          "title": "When the Shortage List Gets Resolved immutable object"
+          "title": "When the Shortage List Gets Resolved immutable object",
+          "access": {
+            "tier": "free"
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief.json",
           "type": "application/json",
-          "title": "Petahash Was the Cover Story latest object"
+          "title": "Petahash Was the Cover Story latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-fe7c3903f2107735e2a0ebfe6980d36b9fb9f2fdbd95583fbb180b804a2b16e5.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-05-cross-sector-brief@sha256-223e61fecb706e2da13e5e7322b0b508c944135c4f8255a4260f5cc03ab64385.json",
           "type": "application/json",
-          "title": "Petahash Was the Cover Story immutable object"
+          "title": "Petahash Was the Cover Story immutable object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief.json",
           "type": "application/json",
-          "title": "Five Hundred Patients Before the Market Noticed latest object"
+          "title": "Five Hundred Patients Before the Market Noticed latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief@sha256-432995295db90182cdc197adfe1cff1ae773c4f4b8c343f5d4a6fcdb2628fe20.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-03-cross-sector-brief@sha256-a2d46ea47ee968b01f4d140cb497e85605112754bea161102801e13da7b6f478.json",
           "type": "application/json",
-          "title": "Five Hundred Patients Before the Market Noticed immutable object"
+          "title": "Five Hundred Patients Before the Market Noticed immutable object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Factory Behind the Drug Nobody Can Get latest object"
+          "title": "The Factory Behind the Drug Nobody Can Get latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-87db6dc347491e93a2f60ede9612c5ad27d54dd0c3e503edb494317a8a7ade68.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-06-01-cross-sector-brief@sha256-455b56cfe45ac37e72109aaeabb66431ad6fe03ca9f1dcb1fa938011a5b2208d.json",
           "type": "application/json",
-          "title": "The Factory Behind the Drug Nobody Can Get immutable object"
+          "title": "The Factory Behind the Drug Nobody Can Get immutable object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-31-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Gearbox Between Demo and Revenue latest object"
+          "title": "The Gearbox Between Demo and Revenue latest object",
+          "access": {
+            "tier": "free"
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-31-cross-sector-brief@sha256-31e168e3940ce3dfa0d6aa5ef1a53b0e94e3db4cceb79eef9f68436df021ae48.json",
           "type": "application/json",
-          "title": "The Gearbox Between Demo and Revenue immutable object"
+          "title": "The Gearbox Between Demo and Revenue immutable object",
+          "access": {
+            "tier": "free"
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Market Is Long the Brand, Short the Molecule latest object"
+          "title": "The Market Is Long the Brand, Short the Molecule latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-64bf063a7fc41c15111c24947a26659dcbdd1c3155167696c6d7c0b824a485a1.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-30-cross-sector-brief@sha256-9ef3dff9710dda24d57b2bbb59e8f3a3bd2426eceff5103b8d48b7cf3bb8e7bb.json",
           "type": "application/json",
-          "title": "The Market Is Long the Brand, Short the Molecule immutable object"
+          "title": "The Market Is Long the Brand, Short the Molecule immutable object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Optical Layer Running Ahead of the Tape latest object"
+          "title": "The Optical Layer Running Ahead of the Tape latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief@sha256-ab26729892dd397602913da3bf72b3eb4c3dbee67bdd238156315a3c1471b43e.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-29-cross-sector-brief@sha256-99f77926274d04fa0156ecea7fc79b8cd26cd482dde2591d7fe04fd0d2c1e116.json",
           "type": "application/json",
-          "title": "The Optical Layer Running Ahead of the Tape immutable object"
+          "title": "The Optical Layer Running Ahead of the Tape immutable object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief.json",
           "type": "application/json",
-          "title": "Revenue Is Moving in the Dark latest object"
+          "title": "Revenue Is Moving in the Dark latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-412ba03bd96c0d2ebddd1432127e4cf334b38a50e07625b36ff34dad65ad50da.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-7f8e28cbbb11a49cf180e1e9a77b6cc6b5d0099d2df27c52bb7d8f7c70d0bdae.json",
           "type": "application/json",
-          "title": "Revenue Is Moving in the Dark immutable object"
+          "title": "Revenue Is Moving in the Dark immutable object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Light Nobody Is Trading latest object"
+          "title": "The Light Nobody Is Trading latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-4858c76a1c107887e4f33a718b76c1538add92f733f15cebfef1e6f72f578c11.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-f2b3ca9a21ebe6975be343f40eada0cd36cd7934e980372996079a0b300e3553.json",
           "type": "application/json",
-          "title": "The Light Nobody Is Trading immutable object"
+          "title": "The Light Nobody Is Trading immutable object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Bandwidth Wall Is Already Photons latest object"
+          "title": "The Bandwidth Wall Is Already Photons latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-b7d1c3998316348a8f8564f270a9ff08574719415a1dd08dd58145d00a3cb46e.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-a2e059fa18eef65205856875846e73c6462b70095bd083eb76190ea5c22ebe74.json",
           "type": "application/json",
-          "title": "The Bandwidth Wall Is Already Photons immutable object"
+          "title": "The Bandwidth Wall Is Already Photons immutable object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
         },
         {
           "href": "https://convergence.permanentupperclass.com/o/claims.json",
