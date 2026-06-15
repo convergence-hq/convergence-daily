@@ -4,14 +4,14 @@
   "id": "obj_convergencedaily20260528crosssectorbrief",
   "slug": "convergence-daily-2026-05-28-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-c7ebe8cc5e036edd8645be8946fbcfd64a00b1dbfd03da77926536c6ba600953.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-412ba03bd96c0d2ebddd1432127e4cf334b38a50e07625b36ff34dad65ad50da.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-05-28T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "c7ebe8cc5e036edd8645be8946fbcfd64a00b1dbfd03da77926536c6ba600953",
+    "value": "412ba03bd96c0d2ebddd1432127e4cf334b38a50e07625b36ff34dad65ad50da",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -146,7 +146,7 @@
   "authors": [
     {
       "name": "Convergence Daily",
-      "url": "https://daily.convergence.dev/authors/convergence-daily/"
+      "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
     }
   ],
   "claims": [
