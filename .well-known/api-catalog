@@ -39,19 +39,37 @@
       ],
       "item": [
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Factory the Chip Trade Forgot latest object",
+          "title": "peptides: The Scanner Versus the Corpus latest object",
           "access": {
             "tier": "free"
           }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief@sha256-e9130f5a382bb52ad11d8a1d62b170172f88cf8752a1fc18877bbd8a2cc7be20.json",
+          "type": "application/json",
+          "title": "peptides: The Scanner Versus the Corpus immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Factory the Chip Trade Forgot latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-b80d8b045783d0b21d3a0f1cacb498f4917ebe331d2a5510052eb813c4093a6d.json",
           "type": "application/json",
           "title": "The Factory the Chip Trade Forgot immutable object",
           "access": {
-            "tier": "free"
+            "tier": "paid",
+            "teaser": true
           }
         },
         {

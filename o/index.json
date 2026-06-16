@@ -7,16 +7,40 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260616crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-06-16-cross-sector-brief",
+      "title": "peptides: The Scanner Versus the Corpus",
+      "summary": "The sector corpus now has 1 decision packets and 1 theses pointing at peptides, cicadas, and synthetic biology, while the scanner highlights LLY and NVO and the paper book already tracks 7 open and 59 closed rows.",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief@sha256-e9130f5a382bb52ad11d8a1d62b170172f88cf8752a1fc18877bbd8a2cc7be20.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "e9130f5a382bb52ad11d8a1d62b170172f88cf8752a1fc18877bbd8a2cc7be20",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-16T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-16T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-16-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "obj_convergence20260615crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-06-15-cross-sector-brief",
       "title": "The Factory the Chip Trade Forgot",
       "summary": "The options market has absorbed AI infrastructure through NVIDIA at peak-hype convergence while leaving TSMC — the CoWoS packaging node where BIS export-control compounding and HBM supply constraints converge — at minimum scanner attention, with the sector's strongest-sourced corpus claim on the primary risk variable and convergence at 0.25 on the equity.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-b80d8b045783d0b21d3a0f1cacb498f4917ebe331d2a5510052eb813c4093a6d.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d",
+        "value": "b80d8b045783d0b21d3a0f1cacb498f4917ebe331d2a5510052eb813c4093a6d",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-06-15T00:00:00Z",
@@ -27,7 +51,8 @@
       "claim_count": 1,
       "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-15-cross-sector-brief/",
       "access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

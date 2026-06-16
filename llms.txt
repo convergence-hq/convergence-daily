@@ -16,7 +16,8 @@ Real Convergence Daily episodes published through the dual-native engine.
 - Paid objects are signed and served as teaser canonical objects.
 
 ## Objects
-- [free] The Factory the Chip Trade Forgot: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-39ac24defe5beada8a722dd8bacfd3de45b26bf03d4b91b9470247606160c51d.json
+- [free] peptides: The Scanner Versus the Corpus: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief@sha256-e9130f5a382bb52ad11d8a1d62b170172f88cf8752a1fc18877bbd8a2cc7be20.json
+- [paid] The Factory the Chip Trade Forgot: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-b80d8b045783d0b21d3a0f1cacb498f4917ebe331d2a5510052eb813c4093a6d.json
 - [free] All the Bottlenecks, None of the Asymmetry: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-12-cross-sector-brief@sha256-7747cc6e995f242cb15051d85a69b061e6a304e0d74efbc630022fd0f840e163.json
 - [paid] The Clocks Are Not Running at the Same Speed: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-10-cross-sector-brief@sha256-6425b637f19723aea301ca0a0f5eb5976fbc570192c46a75ebbf7dfaa0d2a0cc.json
 - [free] When the Shortage List Gets Resolved: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-06-cross-sector-brief@sha256-d022812a3f36b75cacf3d93167891b513bb1fe3fd338e0332449cce0d328c23c.json
