@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "The sector corpus now has 1 decision packets and 1 theses pointing at AI infrastructure, cicadas, and synthetic biology, while the scanner highlights AVGO and TSM and the paper book already tracks 7 open and 59 closed rows.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-17",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-17-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260617crosssectorbrief",
+      "object_slug": "convergence-2026-06-17-cross-sector-brief",
+      "object_title": "AI infrastructure: The Scanner Versus the Corpus",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-17-cross-sector-brief@sha256-af89d6b98cfc6e21ec4d28bf3d98563bbef0bc13d918dd52e7a456efb41ace01.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "af89d6b98cfc6e21ec4d28bf3d98563bbef0bc13d918dd52e7a456efb41ace01",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-17-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "The sector corpus now has 1 decision packets and 1 theses pointing at peptides, cicadas, and synthetic biology, while the scanner highlights LLY and NVO and the paper book already tracks 7 open and 59 closed rows.",
       "claim_kind": "predictive",
       "confidence": 0.72,
@@ -20,15 +45,16 @@
       "object_id": "obj_convergence20260616crosssectorbrief",
       "object_slug": "convergence-2026-06-16-cross-sector-brief",
       "object_title": "peptides: The Scanner Versus the Corpus",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief@sha256-e9130f5a382bb52ad11d8a1d62b170172f88cf8752a1fc18877bbd8a2cc7be20.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief@sha256-b97ebb52017392a9005fc6c95ff9b9cd4dd753dad78e107d6a3c4862d328f907.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "e9130f5a382bb52ad11d8a1d62b170172f88cf8752a1fc18877bbd8a2cc7be20",
+        "value": "b97ebb52017392a9005fc6c95ff9b9cd4dd753dad78e107d6a3c4862d328f907",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-16-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

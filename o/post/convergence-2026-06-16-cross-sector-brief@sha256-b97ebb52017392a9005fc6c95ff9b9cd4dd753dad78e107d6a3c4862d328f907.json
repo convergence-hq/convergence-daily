@@ -4,14 +4,14 @@
   "id": "obj_convergence20260616crosssectorbrief",
   "slug": "convergence-2026-06-16-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief@sha256-e9130f5a382bb52ad11d8a1d62b170172f88cf8752a1fc18877bbd8a2cc7be20.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief@sha256-b97ebb52017392a9005fc6c95ff9b9cd4dd753dad78e107d6a3c4862d328f907.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-06-16T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "e9130f5a382bb52ad11d8a1d62b170172f88cf8752a1fc18877bbd8a2cc7be20",
+    "value": "b97ebb52017392a9005fc6c95ff9b9cd4dd753dad78e107d6a3c4862d328f907",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -509,38 +509,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "peptides: The Scanner Versus the Corpus",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "The sector corpus now has 1 decision packets and 1 theses pointing at peptides, cicadas, and synthetic biology, while the scanner highlights LLY and NVO and the paper book already tracks 7 open and 59 closed rows.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: peptides\n\nsig_6: cicadas\n\nsig_7: synthetic-biology",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "peptides: The Scanner Versus the Corpus Thesis The sector corpus now has 1 decision packets and 1 theses pointing at peptides, cicadas, and synthetic biology, while the scanner highlights LLY and NVO and the paper book already tracks 7 open and 59 closed rows. Signals sig_1: sector_corpus sig_2: decision_packets sig_3: options_scanner sig_4: mispricing_book sig_5: peptides sig_6: cicadas sig_7: synthetic-biology What"
     }
   ],
   "license": {
@@ -566,5 +535,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }
