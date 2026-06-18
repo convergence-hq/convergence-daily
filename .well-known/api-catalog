@@ -39,19 +39,37 @@
       ],
       "item": [
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-17-cross-sector-brief.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief.json",
           "type": "application/json",
-          "title": "AI infrastructure: The Scanner Versus the Corpus latest object",
+          "title": "bitcoin mining: The Scanner Versus the Corpus latest object",
           "access": {
             "tier": "free"
           }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-17-cross-sector-brief@sha256-af89d6b98cfc6e21ec4d28bf3d98563bbef0bc13d918dd52e7a456efb41ace01.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief@sha256-150c4b5ce0cd5e9c417b5e8f9a98f131ada61956721c0b5b0bd2413c83de6d2d.json",
+          "type": "application/json",
+          "title": "bitcoin mining: The Scanner Versus the Corpus immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-17-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "AI infrastructure: The Scanner Versus the Corpus latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-17-cross-sector-brief@sha256-c6cb065e3d11c8592286c3fd10135d401938894f3dc940e25bd834367cb4c5cc.json",
           "type": "application/json",
           "title": "AI infrastructure: The Scanner Versus the Corpus immutable object",
           "access": {
-            "tier": "free"
+            "tier": "paid",
+            "teaser": true
           }
         },
         {
