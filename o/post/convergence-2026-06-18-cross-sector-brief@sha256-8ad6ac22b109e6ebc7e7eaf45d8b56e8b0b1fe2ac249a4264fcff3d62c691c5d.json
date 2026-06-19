@@ -4,14 +4,14 @@
   "id": "obj_convergence20260618crosssectorbrief",
   "slug": "convergence-2026-06-18-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief@sha256-150c4b5ce0cd5e9c417b5e8f9a98f131ada61956721c0b5b0bd2413c83de6d2d.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief@sha256-8ad6ac22b109e6ebc7e7eaf45d8b56e8b0b1fe2ac249a4264fcff3d62c691c5d.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-06-18T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "150c4b5ce0cd5e9c417b5e8f9a98f131ada61956721c0b5b0bd2413c83de6d2d",
+    "value": "8ad6ac22b109e6ebc7e7eaf45d8b56e8b0b1fe2ac249a4264fcff3d62c691c5d",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -531,38 +531,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "bitcoin mining: The Scanner Versus the Corpus",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "The sector corpus now has 1 decision packets and 1 theses pointing at bitcoin mining, cicadas, and synthetic biology, while the scanner highlights MARA and the paper book already tracks 7 open and 59 closed rows.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: bitcoin-mining\n\nsig_6: cicadas\n\nsig_7: synthetic-biology",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "bitcoin mining: The Scanner Versus the Corpus Thesis The sector corpus now has 1 decision packets and 1 theses pointing at bitcoin mining, cicadas, and synthetic biology, while the scanner highlights MARA and the paper book already tracks 7 open and 59 closed rows. Signals sig_1: sector_corpus sig_2: decision_packets sig_3: options_scanner sig_4: mispricing_book sig_5: bitcoin-mining sig_6: cicadas sig_7: synthetic-biology What"
     }
   ],
   "license": {
@@ -588,5 +557,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }

@@ -39,19 +39,37 @@
       ],
       "item": [
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-19-cross-sector-brief.json",
           "type": "application/json",
-          "title": "bitcoin mining: The Scanner Versus the Corpus latest object",
+          "title": "The Robot Has Left the Lab; the Market Has Not latest object",
           "access": {
             "tier": "free"
           }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief@sha256-150c4b5ce0cd5e9c417b5e8f9a98f131ada61956721c0b5b0bd2413c83de6d2d.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-19-cross-sector-brief@sha256-3c0b2744767c759d9dc4339e77ef63c95ec3e84cdc59e4a8499cbaf3676f66ff.json",
+          "type": "application/json",
+          "title": "The Robot Has Left the Lab; the Market Has Not immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "bitcoin mining: The Scanner Versus the Corpus latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief@sha256-8ad6ac22b109e6ebc7e7eaf45d8b56e8b0b1fe2ac249a4264fcff3d62c691c5d.json",
           "type": "application/json",
           "title": "bitcoin mining: The Scanner Versus the Corpus immutable object",
           "access": {
-            "tier": "free"
+            "tier": "paid",
+            "teaser": true
           }
         },
         {

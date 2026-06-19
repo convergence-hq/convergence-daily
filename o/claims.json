@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Humanoid robotics has moved from demos into commercial pilots at BMW, Mercedes-Benz, Tesla, Symbotic, and Serve Robotics, but the options scanner returns one deep-OTM TSLA contract at MEDIUM convergence — the corpus is ahead of market pricing, the revaluation catalyst is Figure AI's financing or IPO timing, and that trigger has not moved.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-19",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-19-cross-sector-brief@v1",
+      "falsification": "Figure AI postpones financing catalyst past Q2 2026 while BMW deployment remains a non-revenue pilot — watchlist conviction degrades, sector drops from primary candidates. Tesla removes Optimus production milestones from quarterly disclosure or shelves production beyond internal-use scope through 2027. Harmonic-drive, actuator, or rare-earth magnet suppliers disclose broad lead-time normalization while humanoid developers stop citing component cost or supply as a scaling constraint. BMW, Mercedes-Benz, or another top-ten auto OEM cancels a humanoid pilot citing unit economics, safety acceptance, or reliability as the primary reason.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260619crosssectorbrief",
+      "object_slug": "convergence-2026-06-19-cross-sector-brief",
+      "object_title": "The Robot Has Left the Lab; the Market Has Not",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-19-cross-sector-brief@sha256-3c0b2744767c759d9dc4339e77ef63c95ec3e84cdc59e4a8499cbaf3676f66ff.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "3c0b2744767c759d9dc4339e77ef63c95ec3e84cdc59e4a8499cbaf3676f66ff",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-19-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "The sector corpus now has 1 decision packets and 1 theses pointing at bitcoin mining, cicadas, and synthetic biology, while the scanner highlights MARA and the paper book already tracks 7 open and 59 closed rows.",
       "claim_kind": "predictive",
       "confidence": 0.72,
@@ -20,15 +45,16 @@
       "object_id": "obj_convergence20260618crosssectorbrief",
       "object_slug": "convergence-2026-06-18-cross-sector-brief",
       "object_title": "bitcoin mining: The Scanner Versus the Corpus",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief@sha256-150c4b5ce0cd5e9c417b5e8f9a98f131ada61956721c0b5b0bd2413c83de6d2d.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief@sha256-8ad6ac22b109e6ebc7e7eaf45d8b56e8b0b1fe2ac249a4264fcff3d62c691c5d.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "150c4b5ce0cd5e9c417b5e8f9a98f131ada61956721c0b5b0bd2413c83de6d2d",
+        "value": "8ad6ac22b109e6ebc7e7eaf45d8b56e8b0b1fe2ac249a4264fcff3d62c691c5d",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-18-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

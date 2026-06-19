@@ -16,7 +16,8 @@ Real Convergence Daily episodes published through the dual-native engine.
 - Paid objects are signed and served as teaser canonical objects.
 
 ## Objects
-- [free] bitcoin mining: The Scanner Versus the Corpus: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief@sha256-150c4b5ce0cd5e9c417b5e8f9a98f131ada61956721c0b5b0bd2413c83de6d2d.json
+- [free] The Robot Has Left the Lab; the Market Has Not: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-19-cross-sector-brief@sha256-3c0b2744767c759d9dc4339e77ef63c95ec3e84cdc59e4a8499cbaf3676f66ff.json
+- [paid] bitcoin mining: The Scanner Versus the Corpus: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-18-cross-sector-brief@sha256-8ad6ac22b109e6ebc7e7eaf45d8b56e8b0b1fe2ac249a4264fcff3d62c691c5d.json
 - [paid] AI infrastructure: The Scanner Versus the Corpus: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-17-cross-sector-brief@sha256-c6cb065e3d11c8592286c3fd10135d401938894f3dc940e25bd834367cb4c5cc.json
 - [paid] peptides: The Scanner Versus the Corpus: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-16-cross-sector-brief@sha256-b97ebb52017392a9005fc6c95ff9b9cd4dd753dad78e107d6a3c4862d328f907.json
 - [paid] The Factory the Chip Trade Forgot: https://convergence.permanentupperclass.com/o/post/convergence-2026-06-15-cross-sector-brief@sha256-b80d8b045783d0b21d3a0f1cacb498f4917ebe331d2a5510052eb813c4093a6d.json
