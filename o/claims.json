@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "The GLP-1 options market has converged on deep out-of-the-money originator calls at peak hype pricing while the picks-and-shovels CDMO manufacturing layer — where the corpus locates the durable structural exposure — has no US derivatives expression; the decision packet verdict is watchlist_candidate because the expression vehicle does not yet exist in the accessible universe.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-20",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-20-cross-sector-brief@v1",
+      "falsification": "Bachem or Polypeptide Group IR discloses order-book softening or capex deferral, indicating manufacturing constraint is resolving faster than the thesis assumes without the compensating originator supply signal. Lilly or Novo Nordisk announces vertical integration of peptide API capacity sufficient to materially reduce external CDMO dependence, collapsing the picks-and-shovels diversification thesis. FDA resolves the GLP-1 shortage in a way that collapses compounding-pharmacy volume without the originator supply growth that would validate the capacity-buildout thesis — breaking the shared-driver logic chain. CDMO names, once accessible via US-listed instruments, trade with sustained correlation to originator franchise risk, eliminating the diversification benefit the picks-and-shovels framing requires.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260620crosssectorbrief",
+      "object_slug": "convergence-2026-06-20-cross-sector-brief",
+      "object_title": "Everyone Priced the Drug; No One Priced the Factory",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-20-cross-sector-brief@sha256-e8a900b36e947973f79a33ba1b4a9f0b990c4b53ed49ce0e22a1fb85c841990d.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "e8a900b36e947973f79a33ba1b4a9f0b990c4b53ed49ce0e22a1fb85c841990d",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-20-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "Humanoid robotics has moved from demos into commercial pilots at BMW, Mercedes-Benz, Tesla, Symbotic, and Serve Robotics, but the options scanner returns one deep-OTM TSLA contract at MEDIUM convergence — the corpus is ahead of market pricing, the revaluation catalyst is Figure AI's financing or IPO timing, and that trigger has not moved.",
       "claim_kind": "predictive",
       "confidence": 0.72,
@@ -20,15 +45,16 @@
       "object_id": "obj_convergence20260619crosssectorbrief",
       "object_slug": "convergence-2026-06-19-cross-sector-brief",
       "object_title": "The Robot Has Left the Lab; the Market Has Not",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-19-cross-sector-brief@sha256-3c0b2744767c759d9dc4339e77ef63c95ec3e84cdc59e4a8499cbaf3676f66ff.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-19-cross-sector-brief@sha256-bc6d05e22632006294a95c4fce074a1554977f974dcd03e67cb7da4657c0fb19.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "3c0b2744767c759d9dc4339e77ef63c95ec3e84cdc59e4a8499cbaf3676f66ff",
+        "value": "bc6d05e22632006294a95c4fce074a1554977f974dcd03e67cb7da4657c0fb19",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-19-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

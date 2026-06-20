@@ -39,19 +39,37 @@
       ],
       "item": [
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-19-cross-sector-brief.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-20-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Robot Has Left the Lab; the Market Has Not latest object",
+          "title": "Everyone Priced the Drug; No One Priced the Factory latest object",
           "access": {
             "tier": "free"
           }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-19-cross-sector-brief@sha256-3c0b2744767c759d9dc4339e77ef63c95ec3e84cdc59e4a8499cbaf3676f66ff.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-20-cross-sector-brief@sha256-e8a900b36e947973f79a33ba1b4a9f0b990c4b53ed49ce0e22a1fb85c841990d.json",
+          "type": "application/json",
+          "title": "Everyone Priced the Drug; No One Priced the Factory immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-19-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Robot Has Left the Lab; the Market Has Not latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-19-cross-sector-brief@sha256-bc6d05e22632006294a95c4fce074a1554977f974dcd03e67cb7da4657c0fb19.json",
           "type": "application/json",
           "title": "The Robot Has Left the Lab; the Market Has Not immutable object",
           "access": {
-            "tier": "free"
+            "tier": "paid",
+            "teaser": true
           }
         },
         {
