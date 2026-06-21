@@ -1,0 +1,586 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_convergence20260621crosssectorbrief",
+  "slug": "convergence-2026-06-21-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-21-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-21-cross-sector-brief@sha256-ad31f1aa75e932c20424e7461b0a3f39aaf8161db844dae9a02cfd4f74972f5f.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-06-21T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "ad31f1aa75e932c20424e7461b0a3f39aaf8161db844dae9a02cfd4f74972f5f",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Convergence Daily Desk",
+    "created_at": "2026-06-21T00:00:00Z",
+    "modified_at": "2026-06-21T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://convergence-daily/claim/convergence-2026-06-21-cross-sector-brief@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "catalyst_ids": [
+          "dp_ai_infra_bottleneck_watchlist",
+          "cat_noaa_enso_2026_08",
+          "cat_noaa_enso_2026_06",
+          "cat_iri_plume_2026_06",
+          "cat_crsp_q2_2026_earnings",
+          "cat_noaa_enso_2026_07"
+        ],
+        "entity_ids": [
+          "AVGO",
+          "TSM",
+          "FXA",
+          "CORN",
+          "CRSP",
+          "NTR",
+          "CF",
+          "ent_nvidia",
+          "ent_broadcom",
+          "ent_dell",
+          "ent_vertiv",
+          "ent_arista",
+          "ent_amd",
+          "ent_micron",
+          "ent_tsmc"
+        ],
+        "evidence_map": [
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "watchlist_candidate: Should the metalayer maintain a watchlist of AI infrastructure beneficiaries tied to hyperscaler capex, HBM and advanced-packaging supply, and export-control changes? Microsoft, Alphabet, Amazon, Meta, and Oracle each guide AI infrastructure capex lower for two consecutive repor",
+            "interpretation": "Decision-packet verdict and invalidation conditions anchor the editorial read.",
+            "signal": "dp_ai_infra_bottleneck_watchlist",
+            "source_type": "sector_decision_packet",
+            "source_url": "/home/ubuntu/trend-corpus/trends/ai-infrastructure/decision-packets/dp_ai_infra_bottleneck_watchlist.yaml"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "AI infrastructure is already a peak-hype theme, so the useful public signal is not whether AI demand exists but where bottlenecks move next. Export controls constrain geography, HBM and advanced packaging constrain accelerator supply, and hyperscaler capex pull-through shows up across accelerator, c",
+            "interpretation": "Corpus thesis supplies the cross-sector belief state behind the candidate.",
+            "signal": "ths_ai_infra_bottleneck_stack",
+            "source_type": "sector_thesis",
+            "source_url": "/home/ubuntu/trend-corpus/trends/ai-infrastructure/theses/ths_ai_infra_bottleneck_stack.yaml"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "AVGO in AI Infrastructure: tier HIGH, asymmetry 9.15, expiry 20260529.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "AVGO AI Infrastructure",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "TSM in AI Infrastructure: tier LOW, asymmetry 2.98, expiry 20260717.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "TSM AI Infrastructure",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "TSM in AI Infrastructure: tier LOW, asymmetry 2.95, expiry 20260717.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "TSM AI Infrastructure",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "TSM in AI Infrastructure: tier LOW, asymmetry 2.89, expiry 20260618.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "TSM AI Infrastructure",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "TSM in AI Infrastructure: tier LOW, asymmetry 2.43, expiry 20260618.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "TSM AI Infrastructure",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.064 (ratio 1.72); data_release in 75d on 2026-08-14",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "FXA cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.034 (ratio 3.19); data_release in 0d on 2026-06-11",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "FXA cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.136 vs market-implied 0.087 (ratio 1.57); data_release in 0d on 2026-06-11",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "CORN cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.063 (ratio 1.75); data_release in 0d on 2026-06-20",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "FXA cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.136 vs market-implied 0.081 (ratio 1.68); data_release in 0d on 2026-06-20",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "CORN cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.050 (ratio 2.19); earnings in 80d on 2026-08-06",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "CRSP synthetic-biology",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.084 vs market-implied 0.033 (ratio 2.54); data_release in 52d on 2026-07-10",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "NTR cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.119 vs market-implied 0.053 (ratio 2.24); data_release in 52d on 2026-07-10",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "CF cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          }
+        ],
+        "format": "narrative_loud_trade_bad",
+        "human_action": "Review the cross-sector read, confirm the scanner rows, and decide whether the expression belongs in the morning drop.",
+        "legal_disclaimer": "Convergence Daily is published for informational and educational purposes only. Nothing in this issue is a recommendation to buy, sell, or hold any security. Consult a licensed financial advisor before acting on any information herein.",
+        "machine_action": "Refresh the corpus artifacts, scanner snapshot, and paper book before publication.",
+        "methodology_footer": "Convergence combines sector corpus theses, decision-packet invalidations, scanner pricing, and the mispricing book under operator review.",
+        "position_conflict_disclosure": "Scanner and paper-book rows may overlap with tracked paper positions. This candidate is operator-review material, not a live recommendation.",
+        "product": "convergence_daily",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded Convergence source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-21",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-21",
+              "notes": "Sector corpus read for Convergence synthesis.",
+              "source_name": "sector corpus"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-21",
+              "notes": "Scanner read for current pricing and book state.",
+              "source_name": "options scanner"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-21",
+              "notes": "Read during candidate rendering.",
+              "source_name": "mispricing book"
+            }
+          ]
+        },
+        "source_objects": [
+          {
+            "label": "dp_ai_infra_bottleneck_watchlist (ai-infrastructure)",
+            "last_error": null,
+            "last_fetched_at": "2026-06-21",
+            "source_type": "sector_decision_packet",
+            "url": "/home/ubuntu/trend-corpus/trends/ai-infrastructure/decision-packets/dp_ai_infra_bottleneck_watchlist.yaml"
+          },
+          {
+            "label": "ths_ai_infra_bottleneck_stack (ai-infrastructure)",
+            "last_error": null,
+            "last_fetched_at": "2026-06-21",
+            "source_type": "sector_thesis",
+            "url": "/home/ubuntu/trend-corpus/trends/ai-infrastructure/theses/ths_ai_infra_bottleneck_stack.yaml"
+          },
+          {
+            "label": "Options scanner snapshot",
+            "last_error": null,
+            "last_fetched_at": "2026-06-21",
+            "source_type": "options_scanner",
+            "url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "label": "Paper mispricing book",
+            "last_error": null,
+            "last_fetched_at": "2026-06-21",
+            "source_type": "mispricing_book",
+            "url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          }
+        ],
+        "state": "observing",
+        "trend_ids": [
+          "ths_ai_infra_bottleneck_stack",
+          "ai-infrastructure",
+          "cicadas",
+          "synthetic-biology"
+        ],
+        "uncertainty": "The brief is strongest where corpus packets, scanner asymmetry, and paper-book rows overlap; missing or stale inputs lower the read quality."
+      },
+      "original_issue": {
+        "catalyst_ids": [
+          "dp_ai_infra_bottleneck_watchlist",
+          "cat_noaa_enso_2026_08",
+          "cat_noaa_enso_2026_06",
+          "cat_iri_plume_2026_06",
+          "cat_crsp_q2_2026_earnings",
+          "cat_noaa_enso_2026_07"
+        ],
+        "confidence": "medium_high",
+        "entity_ids": [
+          "AVGO",
+          "TSM",
+          "FXA",
+          "CORN",
+          "CRSP",
+          "NTR",
+          "CF",
+          "ent_nvidia",
+          "ent_broadcom",
+          "ent_dell",
+          "ent_vertiv",
+          "ent_arista",
+          "ent_amd",
+          "ent_micron",
+          "ent_tsmc"
+        ],
+        "evidence_map": [
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "watchlist_candidate: Should the metalayer maintain a watchlist of AI infrastructure beneficiaries tied to hyperscaler capex, HBM and advanced-packaging supply, and export-control changes? Microsoft, Alphabet, Amazon, Meta, and Oracle each guide AI infrastructure capex lower for two consecutive repor",
+            "interpretation": "Decision-packet verdict and invalidation conditions anchor the editorial read.",
+            "signal": "dp_ai_infra_bottleneck_watchlist",
+            "source_type": "sector_decision_packet",
+            "source_url": "/home/ubuntu/trend-corpus/trends/ai-infrastructure/decision-packets/dp_ai_infra_bottleneck_watchlist.yaml"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "AI infrastructure is already a peak-hype theme, so the useful public signal is not whether AI demand exists but where bottlenecks move next. Export controls constrain geography, HBM and advanced packaging constrain accelerator supply, and hyperscaler capex pull-through shows up across accelerator, c",
+            "interpretation": "Corpus thesis supplies the cross-sector belief state behind the candidate.",
+            "signal": "ths_ai_infra_bottleneck_stack",
+            "source_type": "sector_thesis",
+            "source_url": "/home/ubuntu/trend-corpus/trends/ai-infrastructure/theses/ths_ai_infra_bottleneck_stack.yaml"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "AVGO in AI Infrastructure: tier HIGH, asymmetry 9.15, expiry 20260529.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "AVGO AI Infrastructure",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "TSM in AI Infrastructure: tier LOW, asymmetry 2.98, expiry 20260717.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "TSM AI Infrastructure",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "TSM in AI Infrastructure: tier LOW, asymmetry 2.95, expiry 20260717.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "TSM AI Infrastructure",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "TSM in AI Infrastructure: tier LOW, asymmetry 2.89, expiry 20260618.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "TSM AI Infrastructure",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "TSM in AI Infrastructure: tier LOW, asymmetry 2.43, expiry 20260618.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "TSM AI Infrastructure",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.064 (ratio 1.72); data_release in 75d on 2026-08-14",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "FXA cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.034 (ratio 3.19); data_release in 0d on 2026-06-11",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "FXA cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.136 vs market-implied 0.087 (ratio 1.57); data_release in 0d on 2026-06-11",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "CORN cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.063 (ratio 1.75); data_release in 0d on 2026-06-20",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "FXA cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.136 vs market-implied 0.081 (ratio 1.68); data_release in 0d on 2026-06-20",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "CORN cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.050 (ratio 2.19); earnings in 80d on 2026-08-06",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "CRSP synthetic-biology",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.084 vs market-implied 0.033 (ratio 2.54); data_release in 52d on 2026-07-10",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "NTR cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-06-21",
+            "evidence_quote": "thesis-implied move 0.119 vs market-implied 0.053 (ratio 2.24); data_release in 52d on 2026-07-10",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "CF cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          }
+        ],
+        "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+        "format": "narrative_loud_trade_bad",
+        "headline": "AI infrastructure: The Scanner Versus the Corpus",
+        "human_action": "Review the cross-sector read, confirm the scanner rows, and decide whether the expression belongs in the morning drop.",
+        "issue_id": "convergence-2026-06-21-cross-sector-brief",
+        "legal_disclaimer": "Convergence Daily is published for informational and educational purposes only. Nothing in this issue is a recommendation to buy, sell, or hold any security. Consult a licensed financial advisor before acting on any information herein.",
+        "machine_action": "Refresh the corpus artifacts, scanner snapshot, and paper book before publication.",
+        "methodology_footer": "Convergence combines sector corpus theses, decision-packet invalidations, scanner pricing, and the mispricing book under operator review.",
+        "position_conflict_disclosure": "Scanner and paper-book rows may overlap with tracked paper positions. This candidate is operator-review material, not a live recommendation.",
+        "product": "convergence_daily",
+        "publication_date": "2026-06-21",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded Convergence source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": "2026-06-21",
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-21",
+              "notes": "Sector corpus read for Convergence synthesis.",
+              "source_name": "sector corpus"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-21",
+              "notes": "Scanner read for current pricing and book state.",
+              "source_name": "options scanner"
+            },
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-06-21",
+              "notes": "Read during candidate rendering.",
+              "source_name": "mispricing book"
+            }
+          ]
+        },
+        "signals": [
+          "sector_corpus",
+          "decision_packets",
+          "options_scanner",
+          "mispricing_book",
+          "ai-infrastructure",
+          "cicadas",
+          "synthetic-biology"
+        ],
+        "source_objects": [
+          {
+            "label": "dp_ai_infra_bottleneck_watchlist (ai-infrastructure)",
+            "last_error": null,
+            "last_fetched_at": "2026-06-21",
+            "source_type": "sector_decision_packet",
+            "url": "/home/ubuntu/trend-corpus/trends/ai-infrastructure/decision-packets/dp_ai_infra_bottleneck_watchlist.yaml"
+          },
+          {
+            "label": "ths_ai_infra_bottleneck_stack (ai-infrastructure)",
+            "last_error": null,
+            "last_fetched_at": "2026-06-21",
+            "source_type": "sector_thesis",
+            "url": "/home/ubuntu/trend-corpus/trends/ai-infrastructure/theses/ths_ai_infra_bottleneck_stack.yaml"
+          },
+          {
+            "label": "Options scanner snapshot",
+            "last_error": null,
+            "last_fetched_at": "2026-06-21",
+            "source_type": "options_scanner",
+            "url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "label": "Paper mispricing book",
+            "last_error": null,
+            "last_fetched_at": "2026-06-21",
+            "source_type": "mispricing_book",
+            "url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          }
+        ],
+        "state": "observing",
+        "thesis": "The sector corpus now has 1 decision packets and 1 theses pointing at AI infrastructure, cicadas, and synthetic biology, while the scanner highlights AVGO and TSM and the paper book already tracks 6 open and 62 closed rows.",
+        "trend_ids": [
+          "ths_ai_infra_bottleneck_stack",
+          "ai-infrastructure",
+          "cicadas",
+          "synthetic-biology"
+        ],
+        "uncertainty": "The brief is strongest where corpus packets, scanner asymmetry, and paper-book rows overlap; missing or stale inputs lower the read quality."
+      }
+    }
+  },
+  "title": "AI infrastructure: The Scanner Versus the Corpus",
+  "summary": "The sector corpus now has 1 decision packets and 1 theses pointing at AI infrastructure, cicadas, and synthetic biology, while the scanner highlights AVGO and TSM and the paper book already tracks 6 open and 62 closed rows.",
+  "authors": [
+    {
+      "name": "Convergence Daily",
+      "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "The sector corpus now has 1 decision packets and 1 theses pointing at AI infrastructure, cicadas, and synthetic biology, while the scanner highlights AVGO and TSM and the paper book already tracks 6 open and 62 closed rows.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-21",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-21-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "AI infrastructure: The Scanner Versus the Corpus",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "The sector corpus now has 1 decision packets and 1 theses pointing at AI infrastructure, cicadas, and synthetic biology, while the scanner highlights AVGO and TSM and the paper book already tracks 6 open and 62 closed rows.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: ai-infrastructure\n\nsig_6: cicadas\n\nsig_7: synthetic-biology",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Convergence Daily. \"AI infrastructure: The Scanner Versus the Corpus.\" Convergence Daily. 2026-06-21. Resolve signal://convergence-daily/claim/convergence-2026-06-21-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-2026-06-21-cross-sector-brief@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-06-21",
+      "published_at": "2026-06-21T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

@@ -6,13 +6,13 @@
   "description": "Real Convergence Daily episodes published through the dual-native engine.",
   "items": [
     {
-      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-20-cross-sector-brief@sha256-e8a900b36e947973f79a33ba1b4a9f0b990c4b53ed49ce0e22a1fb85c841990d.json",
-      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-20-cross-sector-brief/",
-      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-20-cross-sector-brief@sha256-e8a900b36e947973f79a33ba1b4a9f0b990c4b53ed49ce0e22a1fb85c841990d.json",
-      "title": "Everyone Priced the Drug; No One Priced the Factory",
-      "summary": "The GLP-1 options market has converged on deep out-of-the-money originator calls at peak hype pricing while the picks-and-shovels CDMO manufacturing layer — where the corpus locates the durable structural exposure — has no US derivatives expression; the decision packet verdict is watchlist_candidate because the expression vehicle does not yet exist in the accessible universe.",
-      "content_text": "Everyone Priced the Drug; No One Priced the Factory\n\nThesis\nThe GLP-1 options market has converged on deep out-of-the-money originator calls at peak hype pricing while the picks-and-shovels CDMO manufacturing layer — where the corpus locates the durable structural exposure — has no US derivatives expression; the decision packet verdict is watchlist_candidate because the expression vehicle does not yet exist in the accessible universe.\n\nSignals\nLLY and NVO options at peak hype convergence on deep OTM strikes: April 28 scanner sweep returned five passing contracts in peptides, all on LLY. Top asymmetry score in the full scanner — 11.5 — on a $1,055 call with underlying at $872.65, 20.9% OTM, IV 42.9%, convergence 0.80 (peak hype). Next four rows are $1,050-$1,080 strikes, 30-50 DTE, IV 41-43%. NVO clears one row at 0.68 convergence. Hims and Hers returns zero passing contracts despite explicit compounded GLP-1 revenue disclosure in quarterly IR. Asymmetry score reflects mechanical leverage of the structure, not a mispricing gap. (strength: 0.9)\n\nPeptide API CDMO capex as leading indicator of shortage-resolution clock: Bachem and Polypeptide Group quarterly IR document active capacity expansion. CDMO capex timeline is the same variable that governs FDA shortage-list resolution pace. Originator internal expansion adds capacity, but external CDMO layer sets the earliest ramp window. Both names are EU-listed with no US options expression. Primary IR sourced from Bachem, Polypeptide Group, Lilly, and Novo Nordisk filings. (strength: 0.8)\n\nFDA shortage-list status as binary gate for 503A and 503B compounding channel: Shortage-list resolution is binary — no appeal, no phase-out — and governs whether compounding pharmacies may legally dispense GLP-1 analogs. Originator capacity buildout is the necessary condition for resolution. Documented from primary FDA shortage and enforcement alert databases. High source quality. (strength: 0.85)\n\nDTC telehealth compounded GLP-1 revenue contingent on shortage status, zero options expression: Hims and comparable DTC platforms disclose material compounded GLP-1 revenues in quarterly IR with explicit contingency language tied to shortage-list status. Zero passing scanner contracts for any DTC telehealth name. Medium source quality — IR disclosures only, no independent prescription volume verification. Treat as a monitor signal rather than a high-conviction expression. (strength: 0.75)\n\nWhat would falsify it\nBachem or Polypeptide Group IR discloses order-book softening or capex deferral, indicating manufacturing constraint is resolving faster than the thesis assumes without the compensating originator supply signal. Lilly or Novo Nordisk announces vertical integration of peptide API capacity sufficient to materially reduce external CDMO dependence, collapsing the picks-and-shovels diversification thesis. FDA resolves the GLP-1 shortage in a way that collapses compounding-pharmacy volume without the originator supply growth that would validate the capacity-buildout thesis — breaking the shared-driver logic chain. CDMO names, once accessible via US-listed instruments, trade with sustained correlation to originator franchise risk, eliminating the diversification benefit the picks-and-shovels framing requires.",
-      "date_published": "2026-06-20T00:00:00Z",
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-21-cross-sector-brief@sha256-ad31f1aa75e932c20424e7461b0a3f39aaf8161db844dae9a02cfd4f74972f5f.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-21-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-21-cross-sector-brief@sha256-ad31f1aa75e932c20424e7461b0a3f39aaf8161db844dae9a02cfd4f74972f5f.json",
+      "title": "AI infrastructure: The Scanner Versus the Corpus",
+      "summary": "The sector corpus now has 1 decision packets and 1 theses pointing at AI infrastructure, cicadas, and synthetic biology, while the scanner highlights AVGO and TSM and the paper book already tracks 6 open and 62 closed rows.",
+      "content_text": "AI infrastructure: The Scanner Versus the Corpus\n\nThesis\nThe sector corpus now has 1 decision packets and 1 theses pointing at AI infrastructure, cicadas, and synthetic biology, while the scanner highlights AVGO and TSM and the paper book already tracks 6 open and 62 closed rows.\n\nSignals\nsig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: ai-infrastructure\n\nsig_6: cicadas\n\nsig_7: synthetic-biology\n\nWhat would falsify it\nReject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "date_published": "2026-06-21T00:00:00Z",
       "authors": [
         {
           "name": "Convergence Daily",
@@ -24,6 +24,28 @@
       ],
       "_convergence_access": {
         "tier": "free"
+      }
+    },
+    {
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-20-cross-sector-brief@sha256-6f1898e4047bcbbc39a4793f5a87eaa57e717240b8b49145f54d10824b320066.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-20-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-20-cross-sector-brief@sha256-6f1898e4047bcbbc39a4793f5a87eaa57e717240b8b49145f54d10824b320066.json",
+      "title": "Everyone Priced the Drug; No One Priced the Factory",
+      "summary": "The GLP-1 options market has converged on deep out-of-the-money originator calls at peak hype pricing while the picks-and-shovels CDMO manufacturing layer — where the corpus locates the durable structural exposure — has no US derivatives expression; the decision packet verdict is watchlist_candidate because the expression vehicle does not yet exist in the accessible universe.",
+      "content_text": "Everyone Priced the Drug; No One Priced the Factory Thesis The GLP-1 options market has converged on deep out-of-the-money originator calls at peak hype pricing while the picks-and-shovels CDMO manufacturing layer — where the corpus locates the durable structural exposure — has no US derivatives expression; the decision packet verdict is watchlist_candidate because the expression vehicle does not yet exist",
+      "date_published": "2026-06-20T00:00:00Z",
+      "authors": [
+        {
+          "name": "Convergence Daily",
+          "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ],
+      "_convergence_access": {
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

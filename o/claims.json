@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "The sector corpus now has 1 decision packets and 1 theses pointing at AI infrastructure, cicadas, and synthetic biology, while the scanner highlights AVGO and TSM and the paper book already tracks 6 open and 62 closed rows.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-21",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-21-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260621crosssectorbrief",
+      "object_slug": "convergence-2026-06-21-cross-sector-brief",
+      "object_title": "AI infrastructure: The Scanner Versus the Corpus",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-21-cross-sector-brief@sha256-ad31f1aa75e932c20424e7461b0a3f39aaf8161db844dae9a02cfd4f74972f5f.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "ad31f1aa75e932c20424e7461b0a3f39aaf8161db844dae9a02cfd4f74972f5f",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-21-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "The GLP-1 options market has converged on deep out-of-the-money originator calls at peak hype pricing while the picks-and-shovels CDMO manufacturing layer — where the corpus locates the durable structural exposure — has no US derivatives expression; the decision packet verdict is watchlist_candidate because the expression vehicle does not yet exist in the accessible universe.",
       "claim_kind": "predictive",
       "confidence": 0.72,
@@ -20,15 +45,16 @@
       "object_id": "obj_convergence20260620crosssectorbrief",
       "object_slug": "convergence-2026-06-20-cross-sector-brief",
       "object_title": "Everyone Priced the Drug; No One Priced the Factory",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-20-cross-sector-brief@sha256-e8a900b36e947973f79a33ba1b4a9f0b990c4b53ed49ce0e22a1fb85c841990d.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-20-cross-sector-brief@sha256-6f1898e4047bcbbc39a4793f5a87eaa57e717240b8b49145f54d10824b320066.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "e8a900b36e947973f79a33ba1b4a9f0b990c4b53ed49ce0e22a1fb85c841990d",
+        "value": "6f1898e4047bcbbc39a4793f5a87eaa57e717240b8b49145f54d10824b320066",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-20-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
