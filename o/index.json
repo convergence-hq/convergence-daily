@@ -7,6 +7,30 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260622crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-06-22-cross-sector-brief",
+      "title": "defense AI: The Scanner Versus the Corpus",
+      "summary": "The sector corpus now has 1 decision packets and 1 theses pointing at defense AI, cicadas, and synthetic biology, while the scanner highlights PLTR and the paper book already tracks 6 open and 62 closed rows.",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief@sha256-9dbfce42e072fb2247a2b22fe99bf669dd1707e12a142f25e617c134a0d3da42.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "9dbfce42e072fb2247a2b22fe99bf669dd1707e12a142f25e617c134a0d3da42",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-22T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-22T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-22-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "obj_convergence20260621crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-06-21-cross-sector-brief",

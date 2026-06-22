@@ -39,6 +39,22 @@
       ],
       "item": [
         {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "defense AI: The Scanner Versus the Corpus latest object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief@sha256-9dbfce42e072fb2247a2b22fe99bf669dd1707e12a142f25e617c134a0d3da42.json",
+          "type": "application/json",
+          "title": "defense AI: The Scanner Versus the Corpus immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-21-cross-sector-brief.json",
           "type": "application/json",
           "title": "AI infrastructure: The Scanner Versus the Corpus latest object",

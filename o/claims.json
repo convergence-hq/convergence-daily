@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "The sector corpus now has 1 decision packets and 1 theses pointing at defense AI, cicadas, and synthetic biology, while the scanner highlights PLTR and the paper book already tracks 6 open and 62 closed rows.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-06-22",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-22-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260622crosssectorbrief",
+      "object_slug": "convergence-2026-06-22-cross-sector-brief",
+      "object_title": "defense AI: The Scanner Versus the Corpus",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief@sha256-9dbfce42e072fb2247a2b22fe99bf669dd1707e12a142f25e617c134a0d3da42.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "9dbfce42e072fb2247a2b22fe99bf669dd1707e12a142f25e617c134a0d3da42",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-22-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "The sector corpus now has 1 decision packets and 1 theses pointing at AI infrastructure, cicadas, and synthetic biology, while the scanner highlights AVGO and TSM and the paper book already tracks 6 open and 62 closed rows.",
       "claim_kind": "predictive",
       "confidence": 0.72,
