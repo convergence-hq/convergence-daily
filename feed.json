@@ -6,13 +6,13 @@
   "description": "Real Convergence Daily episodes published through the dual-native engine.",
   "items": [
     {
-      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief@sha256-9dbfce42e072fb2247a2b22fe99bf669dd1707e12a142f25e617c134a0d3da42.json",
-      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-22-cross-sector-brief/",
-      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief@sha256-9dbfce42e072fb2247a2b22fe99bf669dd1707e12a142f25e617c134a0d3da42.json",
-      "title": "defense AI: The Scanner Versus the Corpus",
-      "summary": "The sector corpus now has 1 decision packets and 1 theses pointing at defense AI, cicadas, and synthetic biology, while the scanner highlights PLTR and the paper book already tracks 6 open and 62 closed rows.",
-      "content_text": "defense AI: The Scanner Versus the Corpus\n\nThesis\nThe sector corpus now has 1 decision packets and 1 theses pointing at defense AI, cicadas, and synthetic biology, while the scanner highlights PLTR and the paper book already tracks 6 open and 62 closed rows.\n\nSignals\nsig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: defense-ai\n\nsig_6: cicadas\n\nsig_7: synthetic-biology\n\nWhat would falsify it\nReject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
-      "date_published": "2026-06-22T00:00:00Z",
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-23-cross-sector-brief@sha256-8fdae0c4fbef38d9003421d7b9624067c41a2283905d849529f98c8c658e5a3b.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-23-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-23-cross-sector-brief@sha256-8fdae0c4fbef38d9003421d7b9624067c41a2283905d849529f98c8c658e5a3b.json",
+      "title": "peptides: The Bottleneck the Market Hasn't Priced",
+      "summary": "The same bottleneck logic is appearing across peptides, cicadas, and synthetic biology at the same time, and the market is still pricing each piece on its own.",
+      "content_text": "peptides: The Bottleneck the Market Hasn't Priced\n\nThesis\nThe same bottleneck logic is appearing across peptides, cicadas, and synthetic biology at the same time, and the market is still pricing each piece on its own. LLY and NVO is where that asymmetry is most visible today — not as a clean macro call, but as a cross-sector pattern worth watching before it has a name.\n\nSignals\nsig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: peptides\n\nsig_6: cicadas\n\nsig_7: synthetic-biology\n\nWhat would falsify it\nReject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "date_published": "2026-06-23T00:00:00Z",
       "authors": [
         {
           "name": "Convergence Daily",
@@ -24,6 +24,28 @@
       ],
       "_convergence_access": {
         "tier": "free"
+      }
+    },
+    {
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief@sha256-eb7c7da0f63785ece53e63973987699f78e7252b8d9aa7af90e7cb4189b3d3dc.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-22-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief@sha256-eb7c7da0f63785ece53e63973987699f78e7252b8d9aa7af90e7cb4189b3d3dc.json",
+      "title": "defense AI: The Scanner Versus the Corpus",
+      "summary": "The sector corpus now has 1 decision packets and 1 theses pointing at defense AI, cicadas, and synthetic biology, while the scanner highlights PLTR and the paper book already tracks 6 open and 62 closed rows.",
+      "content_text": "defense AI: The Scanner Versus the Corpus Thesis The sector corpus now has 1 decision packets and 1 theses pointing at defense AI, cicadas, and synthetic biology, while the scanner highlights PLTR and the paper book already tracks 6 open and 62 closed rows. Signals sig_1: sector_corpus sig_2: decision_packets sig_3: options_scanner sig_4: mispricing_book sig_5: defense-ai sig_6: cicadas sig_7: synthetic-biology What",
+      "date_published": "2026-06-22T00:00:00Z",
+      "authors": [
+        {
+          "name": "Convergence Daily",
+          "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ],
+      "_convergence_access": {
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

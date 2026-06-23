@@ -7,16 +7,40 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260623crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-06-23-cross-sector-brief",
+      "title": "peptides: The Bottleneck the Market Hasn't Priced",
+      "summary": "The same bottleneck logic is appearing across peptides, cicadas, and synthetic biology at the same time, and the market is still pricing each piece on its own.",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-23-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-23-cross-sector-brief@sha256-8fdae0c4fbef38d9003421d7b9624067c41a2283905d849529f98c8c658e5a3b.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "8fdae0c4fbef38d9003421d7b9624067c41a2283905d849529f98c8c658e5a3b",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-23T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-23T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-23-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "obj_convergence20260622crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-06-22-cross-sector-brief",
       "title": "defense AI: The Scanner Versus the Corpus",
       "summary": "The sector corpus now has 1 decision packets and 1 theses pointing at defense AI, cicadas, and synthetic biology, while the scanner highlights PLTR and the paper book already tracks 6 open and 62 closed rows.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief@sha256-9dbfce42e072fb2247a2b22fe99bf669dd1707e12a142f25e617c134a0d3da42.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-22-cross-sector-brief@sha256-eb7c7da0f63785ece53e63973987699f78e7252b8d9aa7af90e7cb4189b3d3dc.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "9dbfce42e072fb2247a2b22fe99bf669dd1707e12a142f25e617c134a0d3da42",
+        "value": "eb7c7da0f63785ece53e63973987699f78e7252b8d9aa7af90e7cb4189b3d3dc",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-06-22T00:00:00Z",
@@ -27,7 +51,8 @@
       "claim_count": 1,
       "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-22-cross-sector-brief/",
       "access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
