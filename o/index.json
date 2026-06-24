@@ -7,16 +7,40 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260624crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-06-24-cross-sector-brief",
+      "title": "The Box Nobody Priced",
+      "summary": "The thing that reprices the world never looks like a breakthrough.",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief@sha256-8dce5f8be853bf494efdcbf9e2dea42741e1275fe175d932ffc5774ef9748212.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "8dce5f8be853bf494efdcbf9e2dea42741e1275fe175d932ffc5774ef9748212",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-06-24T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-06-24T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-24-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "obj_convergence20260623crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-06-23-cross-sector-brief",
-      "title": "peptides: The Bottleneck the Market Hasn't Priced",
-      "summary": "The same bottleneck logic is appearing across peptides, cicadas, and synthetic biology at the same time, and the market is still pricing each piece on its own.",
+      "title": "The Box Nobody Priced",
+      "summary": "The thing that reprices the world never looks like a breakthrough.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-23-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-23-cross-sector-brief@sha256-8fdae0c4fbef38d9003421d7b9624067c41a2283905d849529f98c8c658e5a3b.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-23-cross-sector-brief@sha256-b26b79bea5de756cf20dd0bc7d7a8589d199e07580eab14314efab561b1308a1.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "8fdae0c4fbef38d9003421d7b9624067c41a2283905d849529f98c8c658e5a3b",
+        "value": "b26b79bea5de756cf20dd0bc7d7a8589d199e07580eab14314efab561b1308a1",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-06-23T00:00:00Z",
@@ -27,7 +51,8 @@
       "claim_count": 1,
       "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-23-cross-sector-brief/",
       "access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

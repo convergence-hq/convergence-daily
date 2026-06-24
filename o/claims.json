@@ -8,10 +8,31 @@
   "claims": [
     {
       "key": "thesis",
-      "statement": "The same bottleneck logic is appearing across peptides, cicadas, and synthetic biology at the same time, and the market is still pricing each piece on its own. LLY and NVO is where that asymmetry is most visible today — not as a clean macro call, but as a cross-sector pattern worth watching before it has a name.",
-      "claim_kind": "predictive",
-      "confidence": 0.72,
-      "confidence_label": "medium_high",
+      "statement": "The thing that reprices the world never looks like a breakthrough.",
+      "claim_kind": "normative",
+      "as_of": "2026-06-24",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-24-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260624crosssectorbrief",
+      "object_slug": "convergence-2026-06-24-cross-sector-brief",
+      "object_title": "The Box Nobody Priced",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief@sha256-8dce5f8be853bf494efdcbf9e2dea42741e1275fe175d932ffc5774ef9748212.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "8dce5f8be853bf494efdcbf9e2dea42741e1275fe175d932ffc5774ef9748212",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-24-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
+      "statement": "The thing that reprices the world never looks like a breakthrough.",
+      "claim_kind": "normative",
       "as_of": "2026-06-23",
       "evidence_refs": [],
       "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-23-cross-sector-brief@v1",
@@ -19,16 +40,17 @@
       "cited_by": [],
       "object_id": "obj_convergence20260623crosssectorbrief",
       "object_slug": "convergence-2026-06-23-cross-sector-brief",
-      "object_title": "peptides: The Bottleneck the Market Hasn't Priced",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-23-cross-sector-brief@sha256-8fdae0c4fbef38d9003421d7b9624067c41a2283905d849529f98c8c658e5a3b.json",
+      "object_title": "The Box Nobody Priced",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-23-cross-sector-brief@sha256-b26b79bea5de756cf20dd0bc7d7a8589d199e07580eab14314efab561b1308a1.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "8fdae0c4fbef38d9003421d7b9624067c41a2283905d849529f98c8c658e5a3b",
+        "value": "b26b79bea5de756cf20dd0bc7d7a8589d199e07580eab14314efab561b1308a1",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-23-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
