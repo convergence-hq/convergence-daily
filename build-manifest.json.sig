@@ -9,12 +9,12 @@
     "byte_length": 48047,
     "content_digest": {
       "algorithm": "sha256",
-      "value": "535ba98747aa6bdca6acfa626982b33210488f46230a125914e36ae6b6168424",
+      "value": "6d7ea267d75909e71e0549c9c3ecf5f0c7764c5f4d8d5c1235d3022479b0ac1e",
       "canonicalization": "raw-bytes"
     }
   },
   "signature": {
     "encoding": "base64",
-    "value": "b4VpEjpMfl1PwBcsPiIF8njUh/izLYZ60PWu28XoDwrKjzEQeFsACzenLZ5SDdaqaUdAHc/eHPMc3L4G6MmBAg=="
+    "value": "Et38LWDLuIHk8AoVKYXdqmmY5NOOFONzC0I8UTvmfjpeenEH6t5y8rdbTt73QJD5Ljj4VVH4H8W8RfK46z8BDA=="
   }
 }

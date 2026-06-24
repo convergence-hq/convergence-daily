@@ -4,14 +4,14 @@
   "id": "obj_convergence20260624crosssectorbrief",
   "slug": "convergence-2026-06-24-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief@sha256-8dce5f8be853bf494efdcbf9e2dea42741e1275fe175d932ffc5774ef9748212.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief@sha256-183498247fed7e0066b76884a11c6cb33816711423e935ac5678d12adb5cc9f8.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-06-24T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "8dce5f8be853bf494efdcbf9e2dea42741e1275fe175d932ffc5774ef9748212",
+    "value": "183498247fed7e0066b76884a11c6cb33816711423e935ac5678d12adb5cc9f8",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -390,7 +390,7 @@
         ],
         "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
         "format": "timeless_tale",
-        "headline": "The Box Nobody Priced",
+        "headline": "The Camera They Locked in a Drawer",
         "human_action": "No trade today. Read the tale, keep the pattern in your pocket, and watch for the chore that looks too boring to matter.",
         "issue_id": "convergence-2026-06-24-cross-sector-brief",
         "legal_disclaimer": "Convergence Daily is published for informational and educational purposes only. Nothing in this issue is a recommendation to buy, sell, or hold any security. Consult a licensed financial advisor before acting on any information herein.",
@@ -471,7 +471,7 @@
           }
         ],
         "state": "reflecting",
-        "thesis": "The thing that reprices the world never looks like a breakthrough.",
+        "thesis": "The company most likely to see the future first is the one with the most to lose from it.",
         "trend_ids": [
           "ths_peptide_manufacturing_picks_and_shovels",
           "peptides",
@@ -482,8 +482,8 @@
       }
     }
   },
-  "title": "The Box Nobody Priced",
-  "summary": "The thing that reprices the world never looks like a breakthrough.",
+  "title": "The Camera They Locked in a Drawer",
+  "summary": "The company most likely to see the future first is the one with the most to lose from it.",
   "authors": [
     {
       "name": "Convergence Daily",
@@ -493,7 +493,7 @@
   "claims": [
     {
       "key": "thesis",
-      "statement": "The thing that reprices the world never looks like a breakthrough.",
+      "statement": "The company most likely to see the future first is the one with the most to lose from it.",
       "claim_kind": "normative",
       "as_of": "2026-06-24",
       "evidence_refs": [],
@@ -505,7 +505,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Box Nobody Priced",
+      "body": "The Camera They Locked in a Drawer",
       "claim_refs": [
         "thesis"
       ],
@@ -514,7 +514,7 @@
     {
       "type": "section",
       "heading": "Thesis",
-      "body": "The thing that reprices the world never looks like a breakthrough.",
+      "body": "The company most likely to see the future first is the one with the most to lose from it.",
       "claim_refs": [
         "thesis"
       ],
@@ -546,7 +546,7 @@
     "verbatim_citation": "permitted"
   },
   "citation": {
-    "preferred_text": "Convergence Daily. \"The Box Nobody Priced.\" Convergence Daily. 2026-06-24. Resolve signal://convergence-daily/claim/convergence-2026-06-24-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_text": "Convergence Daily. \"The Camera They Locked in a Drawer.\" Convergence Daily. 2026-06-24. Resolve signal://convergence-daily/claim/convergence-2026-06-24-cross-sector-brief@v1 for the immutable version_uri.",
     "preferred_url": "signal://convergence-daily/claim/convergence-2026-06-24-cross-sector-brief@v1",
     "attribution_required": [
       "author",

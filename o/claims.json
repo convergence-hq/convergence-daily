@@ -8,7 +8,7 @@
   "claims": [
     {
       "key": "thesis",
-      "statement": "The thing that reprices the world never looks like a breakthrough.",
+      "statement": "The company most likely to see the future first is the one with the most to lose from it.",
       "claim_kind": "normative",
       "as_of": "2026-06-24",
       "evidence_refs": [],
@@ -17,11 +17,11 @@
       "cited_by": [],
       "object_id": "obj_convergence20260624crosssectorbrief",
       "object_slug": "convergence-2026-06-24-cross-sector-brief",
-      "object_title": "The Box Nobody Priced",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief@sha256-8dce5f8be853bf494efdcbf9e2dea42741e1275fe175d932ffc5774ef9748212.json",
+      "object_title": "The Camera They Locked in a Drawer",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief@sha256-183498247fed7e0066b76884a11c6cb33816711423e935ac5678d12adb5cc9f8.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "8dce5f8be853bf494efdcbf9e2dea42741e1275fe175d932ffc5774ef9748212",
+        "value": "183498247fed7e0066b76884a11c6cb33816711423e935ac5678d12adb5cc9f8",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-24-cross-sector-brief/#claim=thesis",
