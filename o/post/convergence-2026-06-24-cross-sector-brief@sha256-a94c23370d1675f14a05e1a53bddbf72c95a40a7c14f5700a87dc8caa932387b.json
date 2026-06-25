@@ -4,14 +4,14 @@
   "id": "obj_convergence20260624crosssectorbrief",
   "slug": "convergence-2026-06-24-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief@sha256-183498247fed7e0066b76884a11c6cb33816711423e935ac5678d12adb5cc9f8.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-24-cross-sector-brief@sha256-a94c23370d1675f14a05e1a53bddbf72c95a40a7c14f5700a87dc8caa932387b.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-06-24T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "183498247fed7e0066b76884a11c6cb33816711423e935ac5678d12adb5cc9f8",
+    "value": "a94c23370d1675f14a05e1a53bddbf72c95a40a7c14f5700a87dc8caa932387b",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -505,38 +505,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Camera They Locked in a Drawer",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "The company most likely to see the future first is the one with the most to lose from it.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: peptides\n\nsig_6: cicadas\n\nsig_7: synthetic-biology",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Camera They Locked in a Drawer Thesis The company most likely to see the future first is the one with the most to lose from it. Signals sig_1: sector_corpus sig_2: decision_packets sig_3: options_scanner sig_4: mispricing_book sig_5: peptides sig_6: cicadas sig_7: synthetic-biology What would falsify it Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure"
     }
   ],
   "license": {
@@ -562,5 +531,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }
