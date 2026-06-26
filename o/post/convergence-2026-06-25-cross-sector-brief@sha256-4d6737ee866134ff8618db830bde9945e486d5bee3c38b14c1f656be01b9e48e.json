@@ -4,14 +4,14 @@
   "id": "obj_convergence20260625crosssectorbrief",
   "slug": "convergence-2026-06-25-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-25-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-25-cross-sector-brief@sha256-5faf639b9936f90abd186d68193ee4525a322adb75738b2d1dbd60c4b664dbe8.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-25-cross-sector-brief@sha256-4d6737ee866134ff8618db830bde9945e486d5bee3c38b14c1f656be01b9e48e.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-06-25T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "5faf639b9936f90abd186d68193ee4525a322adb75738b2d1dbd60c4b664dbe8",
+    "value": "4d6737ee866134ff8618db830bde9945e486d5bee3c38b14c1f656be01b9e48e",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -521,38 +521,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Future They Gave Away",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: ai-infrastructure\n\nsig_6: cicadas\n\nsig_7: synthetic-biology",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Future They Gave Away Thesis Inventing the future and capturing it are two completely different skills, and almost no one has both. Signals sig_1: sector_corpus sig_2: decision_packets sig_3: options_scanner sig_4: mispricing_book sig_5: ai-infrastructure sig_6: cicadas sig_7: synthetic-biology What would falsify it Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious"
     }
   ],
   "license": {
@@ -578,5 +547,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }
