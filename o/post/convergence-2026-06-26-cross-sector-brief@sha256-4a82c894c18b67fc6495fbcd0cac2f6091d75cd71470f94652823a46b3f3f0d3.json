@@ -4,14 +4,14 @@
   "id": "obj_convergence20260626crosssectorbrief",
   "slug": "convergence-2026-06-26-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-26-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-26-cross-sector-brief@sha256-64419221c3602d7daab6227328332e6a6be52f8a6f5530b72878de86d2e5ede0.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-26-cross-sector-brief@sha256-4a82c894c18b67fc6495fbcd0cac2f6091d75cd71470f94652823a46b3f3f0d3.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-06-26T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "64419221c3602d7daab6227328332e6a6be52f8a6f5530b72878de86d2e5ede0",
+    "value": "4a82c894c18b67fc6495fbcd0cac2f6091d75cd71470f94652823a46b3f3f0d3",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -453,38 +453,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Box Nobody Priced",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "The thing that reprices the world never looks like a breakthrough.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: robotics-humanoid\n\nsig_6: cicadas\n\nsig_7: synthetic-biology",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Box Nobody Priced Thesis The thing that reprices the world never looks like a breakthrough. Signals sig_1: sector_corpus sig_2: decision_packets sig_3: options_scanner sig_4: mispricing_book sig_5: robotics-humanoid sig_6: cicadas sig_7: synthetic-biology What would falsify it Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression."
     }
   ],
   "license": {
@@ -510,5 +479,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }
