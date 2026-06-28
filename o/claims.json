@@ -8,6 +8,29 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
+      "claim_kind": "normative",
+      "as_of": "2026-06-28",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-06-28-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260628crosssectorbrief",
+      "object_slug": "convergence-2026-06-28-cross-sector-brief",
+      "object_title": "The Future They Gave Away",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-28-cross-sector-brief@sha256-c82a1bd0f1370cd9d38370469bd0513b674f72b96929e4817460ca936d61e3cf.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "c82a1bd0f1370cd9d38370469bd0513b674f72b96929e4817460ca936d61e3cf",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-28-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "The company most likely to see the future first is the one with the most to lose from it.",
       "claim_kind": "normative",
       "as_of": "2026-06-27",
@@ -18,15 +41,16 @@
       "object_id": "obj_convergence20260627crosssectorbrief",
       "object_slug": "convergence-2026-06-27-cross-sector-brief",
       "object_title": "The Camera They Locked in a Drawer",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-27-cross-sector-brief@sha256-122df34f77078b664d2e0e8b3951f665cae6775719fcd612e7c0767f91964186.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-27-cross-sector-brief@sha256-5be49c93e21cd08dc393f500a00bf70f7c3e3bd8676d20652e267145ffff180b.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "122df34f77078b664d2e0e8b3951f665cae6775719fcd612e7c0767f91964186",
+        "value": "5be49c93e21cd08dc393f500a00bf70f7c3e3bd8676d20652e267145ffff180b",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-06-27-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
