@@ -6,6 +6,27 @@
   "description": "Real Convergence Daily episodes published through the dual-native engine.",
   "items": [
     {
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-29-cross-sector-brief@sha256-970dc08f6e5f553cd1f4c0c1dba7a30a88dcb93b1e94d153caef54e862359377.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-29-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-29-cross-sector-brief@sha256-970dc08f6e5f553cd1f4c0c1dba7a30a88dcb93b1e94d153caef54e862359377.json",
+      "title": "The Box Nobody Priced",
+      "summary": "The thing that reprices the world never looks like a breakthrough.",
+      "content_text": "The Box Nobody Priced\n\nThesis\nThe thing that reprices the world never looks like a breakthrough.\n\nSignals\nsig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: ai-infrastructure\n\nsig_6: cicadas\n\nsig_7: synthetic-biology\n\nWhat would falsify it\nReject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "date_published": "2026-06-29T00:00:00Z",
+      "authors": [
+        {
+          "name": "Convergence Daily",
+          "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ],
+      "_convergence_access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-28-cross-sector-brief@sha256-c82a1bd0f1370cd9d38370469bd0513b674f72b96929e4817460ca936d61e3cf.json",
       "url": "https://convergence.permanentupperclass.com/p/convergence-2026-06-28-cross-sector-brief/",
       "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-06-28-cross-sector-brief@sha256-c82a1bd0f1370cd9d38370469bd0513b674f72b96929e4817460ca936d61e3cf.json",
