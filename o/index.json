@@ -7,6 +7,30 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260706crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-07-06-cross-sector-brief",
+      "title": "The Camera They Locked in a Drawer",
+      "summary": "The company most likely to see the future first is the one with the most to lose from it.",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-06-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-06-cross-sector-brief@sha256-902dd71ff1c3b6e41ef3aa1c201d146d9be0887b76f4bfd0bdc5625faba5258c.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "902dd71ff1c3b6e41ef3aa1c201d146d9be0887b76f4bfd0bdc5625faba5258c",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-06T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-06T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-07-06-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "obj_convergence20260705crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-07-05-cross-sector-brief",
