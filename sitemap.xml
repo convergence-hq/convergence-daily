@@ -25,6 +25,18 @@
     <loc>https://convergence.permanentupperclass.com/feed.json</loc>
   </url>
   <url>
+    <loc>https://convergence.permanentupperclass.com/p/convergence-2026-07-13-cross-sector-brief/</loc>
+    <cv:access tier="free" />
+  </url>
+  <url>
+    <loc>https://convergence.permanentupperclass.com/o/post/convergence-2026-07-13-cross-sector-brief.json</loc>
+    <cv:access tier="free" />
+  </url>
+  <url>
+    <loc>https://convergence.permanentupperclass.com/o/post/convergence-2026-07-13-cross-sector-brief@sha256-6289c624eb50ed135c3b90554235a84d2da89b8e94c419ef0ff601e7551f030a.json</loc>
+    <cv:access tier="free" />
+  </url>
+  <url>
     <loc>https://convergence.permanentupperclass.com/p/convergence-2026-07-12-cross-sector-brief/</loc>
     <cv:access tier="free" />
   </url>

@@ -16,6 +16,7 @@ Real Convergence Daily episodes published through the dual-native engine.
 - Paid objects are signed and served as teaser canonical objects.
 
 ## Objects
+- [free] The Future They Gave Away: https://convergence.permanentupperclass.com/o/post/convergence-2026-07-13-cross-sector-brief@sha256-6289c624eb50ed135c3b90554235a84d2da89b8e94c419ef0ff601e7551f030a.json
 - [free] The Camera They Locked in a Drawer: https://convergence.permanentupperclass.com/o/post/convergence-2026-07-12-cross-sector-brief@sha256-4f0d27c70de47b46d923ef7bb93c61f5a7c8be2b6a64e3fb8ffdd86ab0f0c8cf.json
 - [paid] The Box Nobody Priced: https://convergence.permanentupperclass.com/o/post/convergence-2026-07-11-cross-sector-brief@sha256-6b1f8bf390dd1d8d1a11e8c05979fcbd0efaa3edf036a002cb32d0ecbd588d1d.json
 - [paid] The Future They Gave Away: https://convergence.permanentupperclass.com/o/post/convergence-2026-07-10-cross-sector-brief@sha256-a3fd4d94a9a2e8ff8f2d54d8598fe31f6f81368d11093bd39740ed7d9914b9c9.json

@@ -8,6 +8,29 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
+      "claim_kind": "normative",
+      "as_of": "2026-07-13",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-07-13-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260713crosssectorbrief",
+      "object_slug": "convergence-2026-07-13-cross-sector-brief",
+      "object_title": "The Future They Gave Away",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-13-cross-sector-brief@sha256-6289c624eb50ed135c3b90554235a84d2da89b8e94c419ef0ff601e7551f030a.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "6289c624eb50ed135c3b90554235a84d2da89b8e94c419ef0ff601e7551f030a",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-07-13-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "The company most likely to see the future first is the one with the most to lose from it.",
       "claim_kind": "normative",
       "as_of": "2026-07-12",

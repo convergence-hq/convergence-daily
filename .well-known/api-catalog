@@ -39,6 +39,22 @@
       ],
       "item": [
         {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-13-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Future They Gave Away latest object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-13-cross-sector-brief@sha256-6289c624eb50ed135c3b90554235a84d2da89b8e94c419ef0ff601e7551f030a.json",
+          "type": "application/json",
+          "title": "The Future They Gave Away immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-12-cross-sector-brief.json",
           "type": "application/json",
           "title": "The Camera They Locked in a Drawer latest object",
