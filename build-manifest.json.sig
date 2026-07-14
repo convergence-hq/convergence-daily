@@ -6,15 +6,15 @@
   "payload": {
     "type": "convergence.build-manifest.v1",
     "path": "/build-manifest.json",
-    "byte_length": 87054,
+    "byte_length": 89107,
     "content_digest": {
       "algorithm": "sha256",
-      "value": "e42c07e4c28afcd67f0c6b27c245292209abb6214d624f991dc17388348340f5",
+      "value": "d43e68150461b67768deb9e2068dcc1e8a5c3e588f6501fad054242f1b8ae188",
       "canonicalization": "raw-bytes"
     }
   },
   "signature": {
     "encoding": "base64",
-    "value": "CgQSs/osBsttnNyZRALUaJk1XmTG378Y/ybvtA+e29V+wMMhVWHaNfAHWhTKCWq2KUMSenNUs5gZBK+lEyaGAQ=="
+    "value": "SbntJ/tQFgBGDuq6TczqKzANr1tE0OG53mev0kwHKRQxyaqQLRosmNCGccG6TDh+OObUMgEsstmPLt8G6N73Bg=="
   }
 }
