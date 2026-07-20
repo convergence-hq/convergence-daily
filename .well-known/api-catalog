@@ -39,6 +39,22 @@
       ],
       "item": [
         {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-20-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Box Nobody Priced latest object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-20-cross-sector-brief@sha256-ee375976c47651987c03c24a9639673a0600c5d8f6ca72472b40dd2ce90a640e.json",
+          "type": "application/json",
+          "title": "The Box Nobody Priced immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-19-cross-sector-brief.json",
           "type": "application/json",
           "title": "The Future They Gave Away latest object",

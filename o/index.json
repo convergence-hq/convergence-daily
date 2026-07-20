@@ -7,6 +7,30 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260720crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-07-20-cross-sector-brief",
+      "title": "The Box Nobody Priced",
+      "summary": "The thing that reprices the world never looks like a breakthrough.",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-20-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-20-cross-sector-brief@sha256-ee375976c47651987c03c24a9639673a0600c5d8f6ca72472b40dd2ce90a640e.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "ee375976c47651987c03c24a9639673a0600c5d8f6ca72472b40dd2ce90a640e",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-07-20T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-07-20T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-07-20-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "obj_convergence20260719crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-07-19-cross-sector-brief",
