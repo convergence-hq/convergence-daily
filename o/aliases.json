@@ -47,7 +47,8 @@
     "signal://convergence-daily/claim/convergence-2026-07-18-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-18-cross-sector-brief@sha256-4466e1fcf6cd1f8d831a768bc31ce5108cff830f83b24c5ab2836df4b172b711.json",
     "signal://convergence-daily/claim/convergence-2026-07-19-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-19-cross-sector-brief@sha256-ee9b58cc0715358f212d2395df58e3445691419f9c295f81ebd1789af55b5406.json",
     "signal://convergence-daily/claim/convergence-2026-07-20-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-20-cross-sector-brief@sha256-c92144c3b1efcb26517891dd41ba80067ab5ace8917087969377a62ff4096454.json",
-    "signal://convergence-daily/claim/convergence-2026-07-21-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-21-cross-sector-brief@sha256-72263cf1a824dcfbdcd38fd143f5073d6fd8e67e753f7fae8738aa9c5c6b0521.json",
+    "signal://convergence-daily/claim/convergence-2026-07-21-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-21-cross-sector-brief@sha256-a6f11720571d15cab1f270187ce34f1cad29235896bf1a414f4a966cdbb4c5d0.json",
+    "signal://convergence-daily/claim/convergence-2026-07-22-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-22-cross-sector-brief@sha256-5ed360aad7e5ac0cd4faf250d04865d5d9ac98c3eb7f45d6438d0b06cee3792e.json",
     "signal://convergence-daily/claim/convergence-daily-2026-05-26-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-26-cross-sector-brief@sha256-a2e059fa18eef65205856875846e73c6462b70095bd083eb76190ea5c22ebe74.json",
     "signal://convergence-daily/claim/convergence-daily-2026-05-27-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-27-cross-sector-brief@sha256-f2b3ca9a21ebe6975be343f40eada0cd36cd7934e980372996079a0b300e3553.json",
     "signal://convergence-daily/claim/convergence-daily-2026-05-28-cross-sector-brief@v1": "https://convergence.permanentupperclass.com/o/post/convergence-daily-2026-05-28-cross-sector-brief@sha256-7f8e28cbbb11a49cf180e1e9a77b6cc6b5d0099d2df27c52bb7d8f7c70d0bdae.json",
@@ -387,10 +388,18 @@
     },
     {
       "alias": "signal://convergence-daily/claim/convergence-2026-07-21-cross-sector-brief@v1",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-21-cross-sector-brief@sha256-72263cf1a824dcfbdcd38fd143f5073d6fd8e67e753f7fae8738aa9c5c6b0521.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-21-cross-sector-brief@sha256-a6f11720571d15cab1f270187ce34f1cad29235896bf1a414f4a966cdbb4c5d0.json",
       "object_id": "obj_convergence20260721crosssectorbrief",
       "object_kind": "post",
       "object_slug": "convergence-2026-07-21-cross-sector-brief",
+      "claim_key": "thesis"
+    },
+    {
+      "alias": "signal://convergence-daily/claim/convergence-2026-07-22-cross-sector-brief@v1",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-22-cross-sector-brief@sha256-5ed360aad7e5ac0cd4faf250d04865d5d9ac98c3eb7f45d6438d0b06cee3792e.json",
+      "object_id": "obj_convergence20260722crosssectorbrief",
+      "object_kind": "post",
+      "object_slug": "convergence-2026-07-22-cross-sector-brief",
       "claim_key": "thesis"
     },
     {

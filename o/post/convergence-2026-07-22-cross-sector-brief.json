@@ -1,27 +1,27 @@
 {
   "schema_version": "1.0.0",
   "kind": "post",
-  "id": "obj_convergence20260721crosssectorbrief",
-  "slug": "convergence-2026-07-21-cross-sector-brief",
-  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-21-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-21-cross-sector-brief@sha256-72263cf1a824dcfbdcd38fd143f5073d6fd8e67e753f7fae8738aa9c5c6b0521.json",
+  "id": "obj_convergence20260722crosssectorbrief",
+  "slug": "convergence-2026-07-22-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-22-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-22-cross-sector-brief@sha256-5ed360aad7e5ac0cd4faf250d04865d5d9ac98c3eb7f45d6438d0b06cee3792e.json",
   "lifecycle": {
     "state": "active",
-    "published_at": "2026-07-21T00:00:00Z"
+    "published_at": "2026-07-22T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "72263cf1a824dcfbdcd38fd143f5073d6fd8e67e753f7fae8738aa9c5c6b0521",
+    "value": "5ed360aad7e5ac0cd4faf250d04865d5d9ac98c3eb7f45d6438d0b06cee3792e",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
     "created_by": "Convergence Daily Desk",
-    "created_at": "2026-07-21T00:00:00Z",
-    "modified_at": "2026-07-21T00:00:00Z",
+    "created_at": "2026-07-22T00:00:00Z",
+    "modified_at": "2026-07-22T00:00:00Z",
     "was_generated_by": "@convergence/from-editorial@0.1.0",
     "source_issue": {
       "source_format": "editorial.issue.json",
-      "signal_uri": "signal://convergence-daily/claim/convergence-2026-07-21-cross-sector-brief@v1",
+      "signal_uri": "signal://convergence-daily/claim/convergence-2026-07-22-cross-sector-brief@v1",
       "mapped_keys": [
         "issue_id",
         "headline",
@@ -33,53 +33,92 @@
       ],
       "unmapped": {
         "catalyst_ids": [
-          "dp_robotics_humanoid_pilot_supply_watchlist",
+          "dp_bitcoin_mining_hashprice_asic_hpc_watchlist",
           "cat_iri_plume_2026_06",
           "cat_bom_aus_winter_outlook",
           "cat_noaa_enso_2026_07",
+          "cat_noaa_enso_2026_08",
           "cat_crsp_q2_2026_earnings"
         ],
         "entity_ids": [
-          "TSLA",
+          "MARA",
           "FXA",
+          "CORN",
           "CRSP",
           "NTR",
           "CF",
-          "ent_tesla",
-          "ent_figure_ai",
-          "ent_apptronik",
-          "ent_abb",
-          "ent_teradyne",
-          "ent_symbotic",
-          "ent_serve_robotics"
+          "ent_core_scientific",
+          "ent_hut8",
+          "ent_iren",
+          "ent_bit_digital",
+          "ent_hive",
+          "ent_mara",
+          "ent_riot",
+          "ent_cleanspark",
+          "ent_bitmain",
+          "ent_microbt",
+          "ent_canaan",
+          "ent_cipher_mining"
         ],
         "evidence_map": [
           {
-            "event_date": "2026-07-21",
-            "evidence_quote": "watchlist_candidate: Should the metalayer maintain a watchlist of robotics and humanoid beneficiaries tied to Figure IPO timing, Optimus milestones, commercial pilot conversion, and actuator supply constraints? Figure AI postpones an IPO or primary financing catalyst past Q2 2026 while BMW deploymen",
+            "event_date": "2026-07-22",
+            "evidence_quote": "watchlist_candidate: Should the metalayer maintain a watchlist of pure-play versus AI-pivoted public miners gated by hashprice, ASIC supply, and hyperscaler-PPA flow? Hashprice stays below 40 dollars per PH per day for 4 consecutive weeks, compressing pure-play miner margins beyond cash-cost surviva",
             "interpretation": "Decision-packet verdict and invalidation conditions anchor the editorial read.",
-            "signal": "dp_robotics_humanoid_pilot_supply_watchlist",
+            "signal": "dp_bitcoin_mining_hashprice_asic_hpc_watchlist",
             "source_type": "sector_decision_packet",
-            "source_url": "/home/ubuntu/trend-corpus/trends/robotics-humanoid/decision-packets/dp_robotics_humanoid_pilot_supply_watchlist.yaml"
+            "source_url": "/home/ubuntu/trend-corpus/trends/bitcoin-mining/decision-packets/dp_bitcoin_mining_hashprice_asic_hpc_watchlist.yaml"
           },
           {
-            "event_date": "2026-07-21",
-            "evidence_quote": "Humanoid robotics is moving from demo videos into pilot deployments, but revenue inflection still depends on actuator cost, precision gearing, rare-earth magnet supply, and workplace safety acceptance. Private humanoid leaders set the catalyst clock, while public pure plays and automation incumbents",
+            "event_date": "2026-07-22",
+            "evidence_quote": "Bitcoin mining is a four-clock sector. The fastest clock is pricing: hashprice, BTC spot price, transaction fees, and network difficulty determine daily miner revenue per PH/s. The second clock is power access: ERCOT registration, Texas SB 6 interconnection rules, New York proof-of-work review, powe",
             "interpretation": "Corpus thesis supplies the cross-sector belief state behind the candidate.",
-            "signal": "ths_robotics_humanoid_pilot_supply_stack",
+            "signal": "ths_bitcoin_mining_hashprice_power_hpc",
             "source_type": "sector_thesis",
-            "source_url": "/home/ubuntu/trend-corpus/trends/robotics-humanoid/theses/ths_robotics_humanoid_pilot_supply_stack.yaml"
+            "source_url": "/home/ubuntu/trend-corpus/trends/bitcoin-mining/theses/ths_bitcoin_mining_hashprice_power_hpc.yaml"
           },
           {
-            "event_date": "2026-07-21",
-            "evidence_quote": "TSLA in Robotics / Humanoid: tier MEDIUM, asymmetry 6.13, expiry 20260529.",
+            "event_date": "2026-07-22",
+            "evidence_quote": "MARA in Bitcoin Mining: tier MEDIUM, asymmetry 4.63, expiry 20260618.",
             "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
-            "signal": "TSLA Robotics / Humanoid",
+            "signal": "MARA Bitcoin Mining",
             "source_type": "options_scanner",
             "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
+            "evidence_quote": "MARA in Bitcoin Mining: tier MEDIUM, asymmetry 4.29, expiry 20260618.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "MARA Bitcoin Mining",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-07-22",
+            "evidence_quote": "MARA in Bitcoin Mining: tier MEDIUM, asymmetry 2.66, expiry 20260605.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "MARA Bitcoin Mining",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-07-22",
+            "evidence_quote": "MARA in Bitcoin Mining: tier MEDIUM, asymmetry 2.26, expiry 20260529.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "MARA Bitcoin Mining",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-07-22",
+            "evidence_quote": "MARA in Bitcoin Mining: tier MEDIUM, asymmetry 2.21, expiry 20260529.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "MARA Bitcoin Mining",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.063 (ratio 1.75); data_release in 0d on 2026-06-20",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "FXA cicadas",
@@ -87,7 +126,7 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.033 (ratio 3.33); data_release in 38d on 2026-08-01",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "FXA cicadas",
@@ -95,7 +134,7 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.064 (ratio 1.72); data_release in 0d on 2026-07-10",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "FXA cicadas",
@@ -103,7 +142,15 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
+            "evidence_quote": "thesis-implied move 0.136 vs market-implied 0.090 (ratio 1.51); data_release in 24d on 2026-08-14",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "CORN cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.050 (ratio 2.19); earnings in 80d on 2026-08-06",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "CRSP synthetic-biology",
@@ -111,7 +158,7 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.084 vs market-implied 0.033 (ratio 2.54); data_release in 52d on 2026-07-10",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "NTR cicadas",
@@ -119,7 +166,7 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.119 vs market-implied 0.053 (ratio 2.24); data_release in 52d on 2026-07-10",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "CF cicadas",
@@ -127,18 +174,10 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.051 (ratio 2.13); earnings in 79d on 2026-08-06",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "CRSP synthetic-biology",
-            "source_type": "mispricing_book",
-            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
-          },
-          {
-            "event_date": "2026-07-21",
-            "evidence_quote": "thesis-implied move 0.119 vs market-implied 0.044 (ratio 2.71); data_release in 52d on 2026-07-10",
-            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
-            "signal": "CF cicadas",
             "source_type": "mispricing_book",
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           }
@@ -154,13 +193,13 @@
           "consecutive_failures": 0,
           "degradation_note": "No degraded Convergence source reported.",
           "degraded": false,
-          "last_successful_fetch_at": "2026-07-21",
+          "last_successful_fetch_at": "2026-07-22",
           "sources": [
             {
               "consecutive_failures": 0,
               "degraded": false,
               "last_failure_at": null,
-              "last_successful_fetch_at": "2026-07-21",
+              "last_successful_fetch_at": "2026-07-22",
               "notes": "Sector corpus read for Convergence synthesis.",
               "source_name": "sector corpus"
             },
@@ -168,7 +207,7 @@
               "consecutive_failures": 0,
               "degraded": false,
               "last_failure_at": null,
-              "last_successful_fetch_at": "2026-07-21",
+              "last_successful_fetch_at": "2026-07-22",
               "notes": "Scanner read for current pricing and book state.",
               "source_name": "options scanner"
             },
@@ -176,7 +215,7 @@
               "consecutive_failures": 0,
               "degraded": false,
               "last_failure_at": null,
-              "last_successful_fetch_at": "2026-07-21",
+              "last_successful_fetch_at": "2026-07-22",
               "notes": "Read during candidate rendering.",
               "source_name": "mispricing book"
             }
@@ -184,38 +223,38 @@
         },
         "source_objects": [
           {
-            "label": "dp_robotics_humanoid_pilot_supply_watchlist (robotics-humanoid)",
+            "label": "dp_bitcoin_mining_hashprice_asic_hpc_watchlist (bitcoin-mining)",
             "last_error": null,
-            "last_fetched_at": "2026-07-21",
+            "last_fetched_at": "2026-07-22",
             "source_type": "sector_decision_packet",
-            "url": "/home/ubuntu/trend-corpus/trends/robotics-humanoid/decision-packets/dp_robotics_humanoid_pilot_supply_watchlist.yaml"
+            "url": "/home/ubuntu/trend-corpus/trends/bitcoin-mining/decision-packets/dp_bitcoin_mining_hashprice_asic_hpc_watchlist.yaml"
           },
           {
-            "label": "ths_robotics_humanoid_pilot_supply_stack (robotics-humanoid)",
+            "label": "ths_bitcoin_mining_hashprice_power_hpc (bitcoin-mining)",
             "last_error": null,
-            "last_fetched_at": "2026-07-21",
+            "last_fetched_at": "2026-07-22",
             "source_type": "sector_thesis",
-            "url": "/home/ubuntu/trend-corpus/trends/robotics-humanoid/theses/ths_robotics_humanoid_pilot_supply_stack.yaml"
+            "url": "/home/ubuntu/trend-corpus/trends/bitcoin-mining/theses/ths_bitcoin_mining_hashprice_power_hpc.yaml"
           },
           {
             "label": "Options scanner snapshot",
             "last_error": null,
-            "last_fetched_at": "2026-07-21",
+            "last_fetched_at": "2026-07-22",
             "source_type": "options_scanner",
             "url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
           },
           {
             "label": "Paper mispricing book",
             "last_error": null,
-            "last_fetched_at": "2026-07-21",
+            "last_fetched_at": "2026-07-22",
             "source_type": "mispricing_book",
             "url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           }
         ],
         "state": "reflecting",
         "trend_ids": [
-          "ths_robotics_humanoid_pilot_supply_stack",
-          "robotics-humanoid",
+          "ths_bitcoin_mining_hashprice_power_hpc",
+          "bitcoin-mining",
           "cicadas",
           "synthetic-biology"
         ],
@@ -223,54 +262,93 @@
       },
       "original_issue": {
         "catalyst_ids": [
-          "dp_robotics_humanoid_pilot_supply_watchlist",
+          "dp_bitcoin_mining_hashprice_asic_hpc_watchlist",
           "cat_iri_plume_2026_06",
           "cat_bom_aus_winter_outlook",
           "cat_noaa_enso_2026_07",
+          "cat_noaa_enso_2026_08",
           "cat_crsp_q2_2026_earnings"
         ],
         "confidence": "essay",
         "entity_ids": [
-          "TSLA",
+          "MARA",
           "FXA",
+          "CORN",
           "CRSP",
           "NTR",
           "CF",
-          "ent_tesla",
-          "ent_figure_ai",
-          "ent_apptronik",
-          "ent_abb",
-          "ent_teradyne",
-          "ent_symbotic",
-          "ent_serve_robotics"
+          "ent_core_scientific",
+          "ent_hut8",
+          "ent_iren",
+          "ent_bit_digital",
+          "ent_hive",
+          "ent_mara",
+          "ent_riot",
+          "ent_cleanspark",
+          "ent_bitmain",
+          "ent_microbt",
+          "ent_canaan",
+          "ent_cipher_mining"
         ],
         "evidence_map": [
           {
-            "event_date": "2026-07-21",
-            "evidence_quote": "watchlist_candidate: Should the metalayer maintain a watchlist of robotics and humanoid beneficiaries tied to Figure IPO timing, Optimus milestones, commercial pilot conversion, and actuator supply constraints? Figure AI postpones an IPO or primary financing catalyst past Q2 2026 while BMW deploymen",
+            "event_date": "2026-07-22",
+            "evidence_quote": "watchlist_candidate: Should the metalayer maintain a watchlist of pure-play versus AI-pivoted public miners gated by hashprice, ASIC supply, and hyperscaler-PPA flow? Hashprice stays below 40 dollars per PH per day for 4 consecutive weeks, compressing pure-play miner margins beyond cash-cost surviva",
             "interpretation": "Decision-packet verdict and invalidation conditions anchor the editorial read.",
-            "signal": "dp_robotics_humanoid_pilot_supply_watchlist",
+            "signal": "dp_bitcoin_mining_hashprice_asic_hpc_watchlist",
             "source_type": "sector_decision_packet",
-            "source_url": "/home/ubuntu/trend-corpus/trends/robotics-humanoid/decision-packets/dp_robotics_humanoid_pilot_supply_watchlist.yaml"
+            "source_url": "/home/ubuntu/trend-corpus/trends/bitcoin-mining/decision-packets/dp_bitcoin_mining_hashprice_asic_hpc_watchlist.yaml"
           },
           {
-            "event_date": "2026-07-21",
-            "evidence_quote": "Humanoid robotics is moving from demo videos into pilot deployments, but revenue inflection still depends on actuator cost, precision gearing, rare-earth magnet supply, and workplace safety acceptance. Private humanoid leaders set the catalyst clock, while public pure plays and automation incumbents",
+            "event_date": "2026-07-22",
+            "evidence_quote": "Bitcoin mining is a four-clock sector. The fastest clock is pricing: hashprice, BTC spot price, transaction fees, and network difficulty determine daily miner revenue per PH/s. The second clock is power access: ERCOT registration, Texas SB 6 interconnection rules, New York proof-of-work review, powe",
             "interpretation": "Corpus thesis supplies the cross-sector belief state behind the candidate.",
-            "signal": "ths_robotics_humanoid_pilot_supply_stack",
+            "signal": "ths_bitcoin_mining_hashprice_power_hpc",
             "source_type": "sector_thesis",
-            "source_url": "/home/ubuntu/trend-corpus/trends/robotics-humanoid/theses/ths_robotics_humanoid_pilot_supply_stack.yaml"
+            "source_url": "/home/ubuntu/trend-corpus/trends/bitcoin-mining/theses/ths_bitcoin_mining_hashprice_power_hpc.yaml"
           },
           {
-            "event_date": "2026-07-21",
-            "evidence_quote": "TSLA in Robotics / Humanoid: tier MEDIUM, asymmetry 6.13, expiry 20260529.",
+            "event_date": "2026-07-22",
+            "evidence_quote": "MARA in Bitcoin Mining: tier MEDIUM, asymmetry 4.63, expiry 20260618.",
             "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
-            "signal": "TSLA Robotics / Humanoid",
+            "signal": "MARA Bitcoin Mining",
             "source_type": "options_scanner",
             "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
+            "evidence_quote": "MARA in Bitcoin Mining: tier MEDIUM, asymmetry 4.29, expiry 20260618.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "MARA Bitcoin Mining",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-07-22",
+            "evidence_quote": "MARA in Bitcoin Mining: tier MEDIUM, asymmetry 2.66, expiry 20260605.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "MARA Bitcoin Mining",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-07-22",
+            "evidence_quote": "MARA in Bitcoin Mining: tier MEDIUM, asymmetry 2.26, expiry 20260529.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "MARA Bitcoin Mining",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-07-22",
+            "evidence_quote": "MARA in Bitcoin Mining: tier MEDIUM, asymmetry 2.21, expiry 20260529.",
+            "interpretation": "Scanner row marks where current options pricing may still leave convexity.",
+            "signal": "MARA Bitcoin Mining",
+            "source_type": "options_scanner",
+            "source_url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
+          },
+          {
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.063 (ratio 1.75); data_release in 0d on 2026-06-20",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "FXA cicadas",
@@ -278,7 +356,7 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.033 (ratio 3.33); data_release in 38d on 2026-08-01",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "FXA cicadas",
@@ -286,7 +364,7 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.064 (ratio 1.72); data_release in 0d on 2026-07-10",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "FXA cicadas",
@@ -294,7 +372,15 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
+            "evidence_quote": "thesis-implied move 0.136 vs market-implied 0.090 (ratio 1.51); data_release in 24d on 2026-08-14",
+            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
+            "signal": "CORN cicadas",
+            "source_type": "mispricing_book",
+            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
+          },
+          {
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.050 (ratio 2.19); earnings in 80d on 2026-08-06",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "CRSP synthetic-biology",
@@ -302,7 +388,7 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.084 vs market-implied 0.033 (ratio 2.54); data_release in 52d on 2026-07-10",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "NTR cicadas",
@@ -310,7 +396,7 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.119 vs market-implied 0.053 (ratio 2.24); data_release in 52d on 2026-07-10",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "CF cicadas",
@@ -318,44 +404,36 @@
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           },
           {
-            "event_date": "2026-07-21",
+            "event_date": "2026-07-22",
             "evidence_quote": "thesis-implied move 0.110 vs market-implied 0.051 (ratio 2.13); earnings in 79d on 2026-08-06",
             "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
             "signal": "CRSP synthetic-biology",
-            "source_type": "mispricing_book",
-            "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
-          },
-          {
-            "event_date": "2026-07-21",
-            "evidence_quote": "thesis-implied move 0.119 vs market-implied 0.044 (ratio 2.71); data_release in 52d on 2026-07-10",
-            "interpretation": "Paper-book row shows existing tracked exposure, not a publishable recommendation by itself.",
-            "signal": "CF cicadas",
             "source_type": "mispricing_book",
             "source_url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           }
         ],
         "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
         "format": "timeless_tale",
-        "headline": "The Camera They Locked in a Drawer",
+        "headline": "The Future They Gave Away",
         "human_action": "No trade today. Read the tale, keep the pattern in your pocket, and watch for the chore that looks too boring to matter.",
-        "issue_id": "convergence-2026-07-21-cross-sector-brief",
+        "issue_id": "convergence-2026-07-22-cross-sector-brief",
         "legal_disclaimer": "Convergence Daily is published for informational and educational purposes only. Nothing in this issue is a recommendation to buy, sell, or hold any security. Consult a licensed financial advisor before acting on any information herein.",
         "machine_action": "Mark the tale used; resume brief mode when alpha returns above threshold.",
         "methodology_footer": "On low-signal days Convergence publishes a timeless tale rather than a forced brief. The story is historically true and sourced; it is not market advice.",
         "position_conflict_disclosure": "Scanner and paper-book rows may overlap with tracked paper positions. This candidate is operator-review material, not a live recommendation.",
         "product": "convergence_daily",
-        "publication_date": "2026-07-21",
+        "publication_date": "2026-07-22",
         "signal_health": {
           "consecutive_failures": 0,
           "degradation_note": "No degraded Convergence source reported.",
           "degraded": false,
-          "last_successful_fetch_at": "2026-07-21",
+          "last_successful_fetch_at": "2026-07-22",
           "sources": [
             {
               "consecutive_failures": 0,
               "degraded": false,
               "last_failure_at": null,
-              "last_successful_fetch_at": "2026-07-21",
+              "last_successful_fetch_at": "2026-07-22",
               "notes": "Sector corpus read for Convergence synthesis.",
               "source_name": "sector corpus"
             },
@@ -363,7 +441,7 @@
               "consecutive_failures": 0,
               "degraded": false,
               "last_failure_at": null,
-              "last_successful_fetch_at": "2026-07-21",
+              "last_successful_fetch_at": "2026-07-22",
               "notes": "Scanner read for current pricing and book state.",
               "source_name": "options scanner"
             },
@@ -371,7 +449,7 @@
               "consecutive_failures": 0,
               "degraded": false,
               "last_failure_at": null,
-              "last_successful_fetch_at": "2026-07-21",
+              "last_successful_fetch_at": "2026-07-22",
               "notes": "Read during candidate rendering.",
               "source_name": "mispricing book"
             }
@@ -382,45 +460,45 @@
           "decision_packets",
           "options_scanner",
           "mispricing_book",
-          "robotics-humanoid",
+          "bitcoin-mining",
           "cicadas",
           "synthetic-biology"
         ],
         "source_objects": [
           {
-            "label": "dp_robotics_humanoid_pilot_supply_watchlist (robotics-humanoid)",
+            "label": "dp_bitcoin_mining_hashprice_asic_hpc_watchlist (bitcoin-mining)",
             "last_error": null,
-            "last_fetched_at": "2026-07-21",
+            "last_fetched_at": "2026-07-22",
             "source_type": "sector_decision_packet",
-            "url": "/home/ubuntu/trend-corpus/trends/robotics-humanoid/decision-packets/dp_robotics_humanoid_pilot_supply_watchlist.yaml"
+            "url": "/home/ubuntu/trend-corpus/trends/bitcoin-mining/decision-packets/dp_bitcoin_mining_hashprice_asic_hpc_watchlist.yaml"
           },
           {
-            "label": "ths_robotics_humanoid_pilot_supply_stack (robotics-humanoid)",
+            "label": "ths_bitcoin_mining_hashprice_power_hpc (bitcoin-mining)",
             "last_error": null,
-            "last_fetched_at": "2026-07-21",
+            "last_fetched_at": "2026-07-22",
             "source_type": "sector_thesis",
-            "url": "/home/ubuntu/trend-corpus/trends/robotics-humanoid/theses/ths_robotics_humanoid_pilot_supply_stack.yaml"
+            "url": "/home/ubuntu/trend-corpus/trends/bitcoin-mining/theses/ths_bitcoin_mining_hashprice_power_hpc.yaml"
           },
           {
             "label": "Options scanner snapshot",
             "last_error": null,
-            "last_fetched_at": "2026-07-21",
+            "last_fetched_at": "2026-07-22",
             "source_type": "options_scanner",
             "url": "/home/ubuntu/pft-validator/scanner/scan-results.json"
           },
           {
             "label": "Paper mispricing book",
             "last_error": null,
-            "last_fetched_at": "2026-07-21",
+            "last_fetched_at": "2026-07-22",
             "source_type": "mispricing_book",
             "url": "/home/ubuntu/puc-trading/paper-journal/mispricing/positions.json"
           }
         ],
         "state": "reflecting",
-        "thesis": "The company most likely to see the future first is the one with the most to lose from it.",
+        "thesis": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
         "trend_ids": [
-          "ths_robotics_humanoid_pilot_supply_stack",
-          "robotics-humanoid",
+          "ths_bitcoin_mining_hashprice_power_hpc",
+          "bitcoin-mining",
           "cicadas",
           "synthetic-biology"
         ],
@@ -428,8 +506,8 @@
       }
     }
   },
-  "title": "The Camera They Locked in a Drawer",
-  "summary": "The company most likely to see the future first is the one with the most to lose from it.",
+  "title": "The Future They Gave Away",
+  "summary": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
   "authors": [
     {
       "name": "Convergence Daily",
@@ -439,11 +517,11 @@
   "claims": [
     {
       "key": "thesis",
-      "statement": "The company most likely to see the future first is the one with the most to lose from it.",
+      "statement": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
       "claim_kind": "normative",
-      "as_of": "2026-07-21",
+      "as_of": "2026-07-22",
       "evidence_refs": [],
-      "citation_uri": "signal://convergence-daily/claim/convergence-2026-07-21-cross-sector-brief@v1",
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-07-22-cross-sector-brief@v1",
       "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression."
     }
   ],
@@ -451,7 +529,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Camera They Locked in a Drawer",
+      "body": "The Future They Gave Away",
       "claim_refs": [
         "thesis"
       ],
@@ -460,7 +538,7 @@
     {
       "type": "section",
       "heading": "Thesis",
-      "body": "The company most likely to see the future first is the one with the most to lose from it.",
+      "body": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
       "claim_refs": [
         "thesis"
       ],
@@ -469,7 +547,7 @@
     {
       "type": "section",
       "heading": "Signals",
-      "body": "sig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: robotics-humanoid\n\nsig_6: cicadas\n\nsig_7: synthetic-biology",
+      "body": "sig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: bitcoin-mining\n\nsig_6: cicadas\n\nsig_7: synthetic-biology",
       "claim_refs": [
         "thesis"
       ],
@@ -492,8 +570,8 @@
     "verbatim_citation": "permitted"
   },
   "citation": {
-    "preferred_text": "Convergence Daily. \"The Camera They Locked in a Drawer.\" Convergence Daily. 2026-07-21. Resolve signal://convergence-daily/claim/convergence-2026-07-21-cross-sector-brief@v1 for the immutable version_uri.",
-    "preferred_url": "signal://convergence-daily/claim/convergence-2026-07-21-cross-sector-brief@v1",
+    "preferred_text": "Convergence Daily. \"The Future They Gave Away.\" Convergence Daily. 2026-07-22. Resolve signal://convergence-daily/claim/convergence-2026-07-22-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-2026-07-22-cross-sector-brief@v1",
     "attribution_required": [
       "author",
       "title",
@@ -503,8 +581,8 @@
   },
   "history": [
     {
-      "version": "editorial-2026-07-21",
-      "published_at": "2026-07-21T00:00:00Z",
+      "version": "editorial-2026-07-22",
+      "published_at": "2026-07-22T00:00:00Z",
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
