@@ -6,13 +6,13 @@
   "description": "Real Convergence Daily episodes published through the dual-native engine.",
   "items": [
     {
-      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-22-cross-sector-brief@sha256-5ed360aad7e5ac0cd4faf250d04865d5d9ac98c3eb7f45d6438d0b06cee3792e.json",
-      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-07-22-cross-sector-brief/",
-      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-22-cross-sector-brief@sha256-5ed360aad7e5ac0cd4faf250d04865d5d9ac98c3eb7f45d6438d0b06cee3792e.json",
-      "title": "The Future They Gave Away",
-      "summary": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
-      "content_text": "The Future They Gave Away\n\nThesis\nInventing the future and capturing it are two completely different skills, and almost no one has both.\n\nSignals\nsig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: bitcoin-mining\n\nsig_6: cicadas\n\nsig_7: synthetic-biology\n\nWhat would falsify it\nReject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
-      "date_published": "2026-07-22T00:00:00Z",
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-23-cross-sector-brief@sha256-0d3399a978fa74b5285e164b519e1988265ebb7c5d2da4bb6f88b694c9d14b34.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-07-23-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-23-cross-sector-brief@sha256-0d3399a978fa74b5285e164b519e1988265ebb7c5d2da4bb6f88b694c9d14b34.json",
+      "title": "The Box Nobody Priced",
+      "summary": "The thing that reprices the world never looks like a breakthrough.",
+      "content_text": "The Box Nobody Priced\n\nThesis\nThe thing that reprices the world never looks like a breakthrough.\n\nSignals\nsig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: ai-infrastructure\n\nsig_6: cicadas\n\nsig_7: synthetic-biology\n\nWhat would falsify it\nReject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "date_published": "2026-07-23T00:00:00Z",
       "authors": [
         {
           "name": "Convergence Daily",
@@ -24,6 +24,28 @@
       ],
       "_convergence_access": {
         "tier": "free"
+      }
+    },
+    {
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-22-cross-sector-brief@sha256-cd29ab0fe3f0b72b54d9b525afac2198351fecf574003758ba9e7d85df069bc0.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-07-22-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-22-cross-sector-brief@sha256-cd29ab0fe3f0b72b54d9b525afac2198351fecf574003758ba9e7d85df069bc0.json",
+      "title": "The Future They Gave Away",
+      "summary": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
+      "content_text": "The Future They Gave Away Thesis Inventing the future and capturing it are two completely different skills, and almost no one has both. Signals sig_1: sector_corpus sig_2: decision_packets sig_3: options_scanner sig_4: mispricing_book sig_5: bitcoin-mining sig_6: cicadas sig_7: synthetic-biology What would falsify it Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious",
+      "date_published": "2026-07-22T00:00:00Z",
+      "authors": [
+        {
+          "name": "Convergence Daily",
+          "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ],
+      "_convergence_access": {
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
