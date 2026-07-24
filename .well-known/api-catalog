@@ -39,19 +39,37 @@
       ],
       "item": [
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-23-cross-sector-brief.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-24-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Box Nobody Priced latest object",
+          "title": "The Camera They Locked in a Drawer latest object",
           "access": {
             "tier": "free"
           }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-23-cross-sector-brief@sha256-0d3399a978fa74b5285e164b519e1988265ebb7c5d2da4bb6f88b694c9d14b34.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-24-cross-sector-brief@sha256-fc58edf0c87639c97e34658d246f7f7aaedbe18cffa4cfd7ccf3c4a9735cb704.json",
+          "type": "application/json",
+          "title": "The Camera They Locked in a Drawer immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-23-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Box Nobody Priced latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-23-cross-sector-brief@sha256-217ea4a62cdc1ab2af5276de02b4132d7ef67ef6579b295ccb4d92e9c20e4b43.json",
           "type": "application/json",
           "title": "The Box Nobody Priced immutable object",
           "access": {
-            "tier": "free"
+            "tier": "paid",
+            "teaser": true
           }
         },
         {
