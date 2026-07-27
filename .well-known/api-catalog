@@ -39,6 +39,22 @@
       ],
       "item": [
         {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-27-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Camera They Locked in a Drawer latest object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-27-cross-sector-brief@sha256-a9ab3974c252e6cb1a3f23fa1d8f538d8ab6fa1a4364759c74085489b5c636f5.json",
+          "type": "application/json",
+          "title": "The Camera They Locked in a Drawer immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-07-26-cross-sector-brief.json",
           "type": "application/json",
           "title": "The Box Nobody Priced latest object",
