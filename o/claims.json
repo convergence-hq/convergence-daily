@@ -8,6 +8,29 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "The company most likely to see the future first is the one with the most to lose from it.",
+      "claim_kind": "normative",
+      "as_of": "2026-08-05",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-08-05-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260805crosssectorbrief",
+      "object_slug": "convergence-2026-08-05-cross-sector-brief",
+      "object_title": "The Camera They Locked in a Drawer",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-05-cross-sector-brief@sha256-f60b4ade9e6080ddd7ec57e5fb02fa25a363232eb411bac9c09328705be918f9.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "f60b4ade9e6080ddd7ec57e5fb02fa25a363232eb411bac9c09328705be918f9",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-05-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "The thing that reprices the world never looks like a breakthrough.",
       "claim_kind": "normative",
       "as_of": "2026-08-04",
@@ -18,15 +41,16 @@
       "object_id": "obj_convergence20260804crosssectorbrief",
       "object_slug": "convergence-2026-08-04-cross-sector-brief",
       "object_title": "The Box Nobody Priced",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-04-cross-sector-brief@sha256-d7cda8bd7ff228ee8ec1dc068dba6cde6f935f44af266544a4d0d3e2d6782ee1.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-04-cross-sector-brief@sha256-c6ca54410be505987eecc8ddf837e05e70870a1d8f8f36d20ff1cbaf42ad1205.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "d7cda8bd7ff228ee8ec1dc068dba6cde6f935f44af266544a4d0d3e2d6782ee1",
+        "value": "c6ca54410be505987eecc8ddf837e05e70870a1d8f8f36d20ff1cbaf42ad1205",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-04-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
