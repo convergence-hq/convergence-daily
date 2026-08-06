@@ -39,19 +39,37 @@
       ],
       "item": [
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-05-cross-sector-brief.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-06-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Camera They Locked in a Drawer latest object",
+          "title": "The Future They Gave Away latest object",
           "access": {
             "tier": "free"
           }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-05-cross-sector-brief@sha256-f60b4ade9e6080ddd7ec57e5fb02fa25a363232eb411bac9c09328705be918f9.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-06-cross-sector-brief@sha256-7c80d7dca92fc6593e3bb664a2d2b0844558b0c98e1bc7db2fac239568d83792.json",
+          "type": "application/json",
+          "title": "The Future They Gave Away immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-05-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Camera They Locked in a Drawer latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-05-cross-sector-brief@sha256-b7696515664546b18e65c95905455f29f402907ebe28efbea9de56b67f642088.json",
           "type": "application/json",
           "title": "The Camera They Locked in a Drawer immutable object",
           "access": {
-            "tier": "free"
+            "tier": "paid",
+            "teaser": true
           }
         },
         {
