@@ -39,19 +39,37 @@
       ],
       "item": [
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-06-cross-sector-brief.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-07-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Future They Gave Away latest object",
+          "title": "The Box Nobody Priced latest object",
           "access": {
             "tier": "free"
           }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-06-cross-sector-brief@sha256-7c80d7dca92fc6593e3bb664a2d2b0844558b0c98e1bc7db2fac239568d83792.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-07-cross-sector-brief@sha256-4579357338a11fea2d84a0d0980eb0e308b118eb842147314d88e71c8de514cd.json",
+          "type": "application/json",
+          "title": "The Box Nobody Priced immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-06-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Future They Gave Away latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-06-cross-sector-brief@sha256-7143fe29681bfed6e9bb7cb45f8ad3d20f8a5faf7f42a9c73b34b19b548424ed.json",
           "type": "application/json",
           "title": "The Future They Gave Away immutable object",
           "access": {
-            "tier": "free"
+            "tier": "paid",
+            "teaser": true
           }
         },
         {
