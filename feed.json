@@ -6,13 +6,13 @@
   "description": "Real Convergence Daily episodes published through the dual-native engine.",
   "items": [
     {
-      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-11-cross-sector-brief@sha256-4fee912d21d6b6983c556bfafca5f63884291a02381f213453b4e02ec8a55db4.json",
-      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-11-cross-sector-brief/",
-      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-11-cross-sector-brief@sha256-4fee912d21d6b6983c556bfafca5f63884291a02381f213453b4e02ec8a55db4.json",
-      "title": "The Camera They Locked in a Drawer",
-      "summary": "The company most likely to see the future first is the one with the most to lose from it.",
-      "content_text": "The Camera They Locked in a Drawer\n\nThesis\nThe company most likely to see the future first is the one with the most to lose from it.\n\nSignals\nsig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: defense-ai\n\nsig_6: cicadas\n\nsig_7: synthetic-biology\n\nWhat would falsify it\nReject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
-      "date_published": "2026-08-11T00:00:00Z",
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-12-cross-sector-brief@sha256-ae9aaf94dc8ee1e7ce900a39de550659009a388fe52681b3c29d13c6c2245edc.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-12-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-12-cross-sector-brief@sha256-ae9aaf94dc8ee1e7ce900a39de550659009a388fe52681b3c29d13c6c2245edc.json",
+      "title": "The Future They Gave Away",
+      "summary": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
+      "content_text": "The Future They Gave Away\n\nThesis\nInventing the future and capturing it are two completely different skills, and almost no one has both.\n\nSignals\nsig_1: sector_corpus\n\nsig_2: decision_packets\n\nsig_3: options_scanner\n\nsig_4: mispricing_book\n\nsig_5: ai-infrastructure\n\nsig_6: cicadas\n\nsig_7: synthetic-biology\n\nWhat would falsify it\nReject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "date_published": "2026-08-12T00:00:00Z",
       "authors": [
         {
           "name": "Convergence Daily",
@@ -24,6 +24,28 @@
       ],
       "_convergence_access": {
         "tier": "free"
+      }
+    },
+    {
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-11-cross-sector-brief@sha256-edb02bb0e6f8f3764a96c8a166a7f93f9eb6d781bef8a792b53a8b62ad457fea.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-11-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-11-cross-sector-brief@sha256-edb02bb0e6f8f3764a96c8a166a7f93f9eb6d781bef8a792b53a8b62ad457fea.json",
+      "title": "The Camera They Locked in a Drawer",
+      "summary": "The company most likely to see the future first is the one with the most to lose from it.",
+      "content_text": "The Camera They Locked in a Drawer Thesis The company most likely to see the future first is the one with the most to lose from it. Signals sig_1: sector_corpus sig_2: decision_packets sig_3: options_scanner sig_4: mispricing_book sig_5: defense-ai sig_6: cicadas sig_7: synthetic-biology What would falsify it Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure",
+      "date_published": "2026-08-11T00:00:00Z",
+      "authors": [
+        {
+          "name": "Convergence Daily",
+          "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ],
+      "_convergence_access": {
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
