@@ -7,16 +7,40 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260815crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-08-15-cross-sector-brief",
+      "title": "The Future They Gave Away",
+      "summary": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-15-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-15-cross-sector-brief@sha256-6d70549e54fa95b812654114754268c4b9e9a514ba6c6975b15163bf0567d568.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "6d70549e54fa95b812654114754268c4b9e9a514ba6c6975b15163bf0567d568",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-08-15T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-08-15T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-15-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "obj_convergence20260814crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-08-14-cross-sector-brief",
       "title": "The Camera They Locked in a Drawer",
       "summary": "The company most likely to see the future first is the one with the most to lose from it.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-14-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-14-cross-sector-brief@sha256-1b2d074492185b1638d0583a7806e646d6276a7d439a1e10d71a8d4e28df2aff.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-14-cross-sector-brief@sha256-fbcbc7a9531d79667f4bb84271365e3b5a53a7fa8d0614a7b75f852a6b7619ba.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "1b2d074492185b1638d0583a7806e646d6276a7d439a1e10d71a8d4e28df2aff",
+        "value": "fbcbc7a9531d79667f4bb84271365e3b5a53a7fa8d0614a7b75f852a6b7619ba",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-08-14T00:00:00Z",
@@ -27,7 +51,8 @@
       "claim_count": 1,
       "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-14-cross-sector-brief/",
       "access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

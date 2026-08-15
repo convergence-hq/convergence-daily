@@ -16,7 +16,8 @@ Real Convergence Daily episodes published through the dual-native engine.
 - Paid objects are signed and served as teaser canonical objects.
 
 ## Objects
-- [free] The Camera They Locked in a Drawer: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-14-cross-sector-brief@sha256-1b2d074492185b1638d0583a7806e646d6276a7d439a1e10d71a8d4e28df2aff.json
+- [free] The Future They Gave Away: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-15-cross-sector-brief@sha256-6d70549e54fa95b812654114754268c4b9e9a514ba6c6975b15163bf0567d568.json
+- [paid] The Camera They Locked in a Drawer: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-14-cross-sector-brief@sha256-fbcbc7a9531d79667f4bb84271365e3b5a53a7fa8d0614a7b75f852a6b7619ba.json
 - [paid] The Box Nobody Priced: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-13-cross-sector-brief@sha256-7caac0f89758b44bfd7106ad2b036ea39f35b0f5ea867743d891abfe84b653bb.json
 - [paid] The Future They Gave Away: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-12-cross-sector-brief@sha256-bc43a3ceabb1a234c979a8e2a549793451355ee637ebaf4508f2d6fe0433fe6c.json
 - [paid] The Camera They Locked in a Drawer: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-11-cross-sector-brief@sha256-edb02bb0e6f8f3764a96c8a166a7f93f9eb6d781bef8a792b53a8b62ad457fea.json
