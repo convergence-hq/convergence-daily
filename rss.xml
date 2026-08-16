@@ -5,12 +5,20 @@
   <link>https://convergence.permanentupperclass.com</link>
   <description>Real Convergence Daily episodes published through the dual-native engine.</description>
 <item>
+  <title>The Box Nobody Priced</title>
+  <link>https://convergence.permanentupperclass.com/p/convergence-2026-08-16-cross-sector-brief/</link>
+  <guid isPermaLink="false">https://convergence.permanentupperclass.com/o/post/convergence-2026-08-16-cross-sector-brief@sha256-bd936ac2692a7438b86dc0e4e9649b81d79de706aca072bfcb8b31711959649b.json</guid>
+  <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+  <description>The thing that reprices the world never looks like a breakthrough.</description>
+  <category domain="https://schemas.convergence-hq.org/access/tier">free</category>
+</item>
+<item>
   <title>The Future They Gave Away</title>
   <link>https://convergence.permanentupperclass.com/p/convergence-2026-08-15-cross-sector-brief/</link>
-  <guid isPermaLink="false">https://convergence.permanentupperclass.com/o/post/convergence-2026-08-15-cross-sector-brief@sha256-6d70549e54fa95b812654114754268c4b9e9a514ba6c6975b15163bf0567d568.json</guid>
+  <guid isPermaLink="false">https://convergence.permanentupperclass.com/o/post/convergence-2026-08-15-cross-sector-brief@sha256-1bdab6c2f396b5cf2ab1738b7b2a6dc99b1cba72c0866a56246de8c3192c43eb.json</guid>
   <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-  <description>Inventing the future and capturing it are two completely different skills, and almost no one has both.</description>
-  <category domain="https://schemas.convergence-hq.org/access/tier">free</category>
+  <description>The Future They Gave Away Thesis Inventing the future and capturing it are two completely different skills, and almost no one has both. Signals sig_1: sector_corpus sig_2: decision_packets sig_3: options_scanner sig_4: mispricing_book sig_5: bitcoin-mining sig_6: cicadas sig_7: synthetic-biology What would falsify it Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious</description>
+  <category domain="https://schemas.convergence-hq.org/access/tier">paid</category>
 </item>
 <item>
   <title>The Camera They Locked in a Drawer</title>
