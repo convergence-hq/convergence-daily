@@ -16,7 +16,8 @@ Real Convergence Daily episodes published through the dual-native engine.
 - Paid objects are signed and served as teaser canonical objects.
 
 ## Objects
-- [free] The Future They Gave Away: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-21-cross-sector-brief@sha256-7953ad17bea918b4f85fc648d65fb5f63c77b2ecff982260848fa1c810e50b67.json
+- [free] The Box Nobody Priced: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-22-cross-sector-brief@sha256-56d6a9c98d5ff17d337c0c806b0fda1f85d5d1cb3908bc0b5f40acf2046a1e70.json
+- [paid] The Future They Gave Away: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-21-cross-sector-brief@sha256-0aa6bbf09218e3d0d6fff8b03ee136e25225dbb69b79ce62c18235a667b6be5c.json
 - [paid] The Camera They Locked in a Drawer: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-20-cross-sector-brief@sha256-a1ae50572f047f3083da6afb9ad1429b15f0c58011c039dfb194d06320ad2de2.json
 - [paid] The Box Nobody Priced: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-19-cross-sector-brief@sha256-e17f80fca8f828c4101ee476a2c1dd9b288aa2c542ca7d4ed3f2b9091052d88b.json
 - [paid] The Future They Gave Away: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-18-cross-sector-brief@sha256-bcb2b340972d499359634373ec4710690b6a2c45cf3ca04c01a60a284b2b47da.json
