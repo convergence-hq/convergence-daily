@@ -7,16 +7,40 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260825crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-08-25-cross-sector-brief",
+      "title": "peptides: The Bottleneck the Market Hasn't Priced",
+      "summary": "Several industries are hitting the same wall at once: demand is real, but the supply of the one thing that matters is tight.",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief@sha256-2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-08-25T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-08-25T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-25-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "obj_convergence20260824crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-08-24-cross-sector-brief",
       "title": "The Future They Gave Away",
       "summary": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-24-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-24-cross-sector-brief@sha256-71cb212cc314045b4de0e9223f1c090f27a1ab4df574771593b0241a44fd2f2a.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-24-cross-sector-brief@sha256-858c5f098b5da4576885abfe8f317d9f8c4760b19bdfd50ace3c7aa8f602a563.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "71cb212cc314045b4de0e9223f1c090f27a1ab4df574771593b0241a44fd2f2a",
+        "value": "858c5f098b5da4576885abfe8f317d9f8c4760b19bdfd50ace3c7aa8f602a563",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-08-24T00:00:00Z",
@@ -27,7 +51,8 @@
       "claim_count": 1,
       "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-24-cross-sector-brief/",
       "access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

@@ -25,16 +25,28 @@
     <loc>https://convergence.permanentupperclass.com/feed.json</loc>
   </url>
   <url>
-    <loc>https://convergence.permanentupperclass.com/p/convergence-2026-08-24-cross-sector-brief/</loc>
+    <loc>https://convergence.permanentupperclass.com/p/convergence-2026-08-25-cross-sector-brief/</loc>
     <cv:access tier="free" />
+  </url>
+  <url>
+    <loc>https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief.json</loc>
+    <cv:access tier="free" />
+  </url>
+  <url>
+    <loc>https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief@sha256-2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683.json</loc>
+    <cv:access tier="free" />
+  </url>
+  <url>
+    <loc>https://convergence.permanentupperclass.com/p/convergence-2026-08-24-cross-sector-brief/</loc>
+    <cv:access tier="paid" teaser="true" />
   </url>
   <url>
     <loc>https://convergence.permanentupperclass.com/o/post/convergence-2026-08-24-cross-sector-brief.json</loc>
-    <cv:access tier="free" />
+    <cv:access tier="paid" teaser="true" />
   </url>
   <url>
-    <loc>https://convergence.permanentupperclass.com/o/post/convergence-2026-08-24-cross-sector-brief@sha256-71cb212cc314045b4de0e9223f1c090f27a1ab4df574771593b0241a44fd2f2a.json</loc>
-    <cv:access tier="free" />
+    <loc>https://convergence.permanentupperclass.com/o/post/convergence-2026-08-24-cross-sector-brief@sha256-858c5f098b5da4576885abfe8f317d9f8c4760b19bdfd50ace3c7aa8f602a563.json</loc>
+    <cv:access tier="paid" teaser="true" />
   </url>
   <url>
     <loc>https://convergence.permanentupperclass.com/p/convergence-2026-08-23-cross-sector-brief/</loc>

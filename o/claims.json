@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Several industries are hitting the same wall at once: demand is real, but the supply of the one thing that matters is tight. The market keeps pricing these one company at a time. Eli Lilly (LLY) and Novo Nordisk (NVO) are where that squeeze is easiest to see right now — a pattern worth watching before it has a name.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-08-25",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-08-25-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260825crosssectorbrief",
+      "object_slug": "convergence-2026-08-25-cross-sector-brief",
+      "object_title": "peptides: The Bottleneck the Market Hasn't Priced",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief@sha256-2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-25-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "Inventing the future and capturing it are two completely different skills, and almost no one has both.",
       "claim_kind": "normative",
       "as_of": "2026-08-24",
@@ -18,15 +43,16 @@
       "object_id": "obj_convergence20260824crosssectorbrief",
       "object_slug": "convergence-2026-08-24-cross-sector-brief",
       "object_title": "The Future They Gave Away",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-24-cross-sector-brief@sha256-71cb212cc314045b4de0e9223f1c090f27a1ab4df574771593b0241a44fd2f2a.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-24-cross-sector-brief@sha256-858c5f098b5da4576885abfe8f317d9f8c4760b19bdfd50ace3c7aa8f602a563.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "71cb212cc314045b4de0e9223f1c090f27a1ab4df574771593b0241a44fd2f2a",
+        "value": "858c5f098b5da4576885abfe8f317d9f8c4760b19bdfd50ace3c7aa8f602a563",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-24-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
