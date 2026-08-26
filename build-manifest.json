@@ -15,13 +15,22 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260826crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-08-26-cross-sector-brief",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief@sha256-e800ce4b09ae7435740cebdfa62839c25f45d6e2f61e2d8f0172a08e50db74e6.json",
+      "digest": "e800ce4b09ae7435740cebdfa62839c25f45d6e2f61e2d8f0172a08e50db74e6",
+      "signature_path": "/o/post/convergence-2026-08-26-cross-sector-brief@sha256-e800ce4b09ae7435740cebdfa62839c25f45d6e2f61e2d8f0172a08e50db74e6.json.sig"
+    },
+    {
       "id": "obj_convergence20260825crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-08-25-cross-sector-brief",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief@sha256-2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683.json",
-      "digest": "2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683",
-      "signature_path": "/o/post/convergence-2026-08-25-cross-sector-brief@sha256-2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683.json.sig"
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief@sha256-837d62b8e20b3e895b64a70f46fd5d82f3fbcb9f0afb9b43875a6c6a409090b7.json",
+      "digest": "837d62b8e20b3e895b64a70f46fd5d82f3fbcb9f0afb9b43875a6c6a409090b7",
+      "signature_path": "/o/post/convergence-2026-08-25-cross-sector-brief@sha256-837d62b8e20b3e895b64a70f46fd5d82f3fbcb9f0afb9b43875a6c6a409090b7.json.sig"
     },
     {
       "id": "obj_convergence20260824crosssectorbrief",
@@ -775,14 +784,14 @@
     {
       "path": "/.well-known/api-catalog",
       "media_type": "application/linkset+json",
-      "sha256": "4196ce564d025c5dc9c33e702dc9af2397519144fb8035376115586816421405",
-      "byte_length": 63723
+      "sha256": "de183c66f76d0aef643ea33716273f015c8a30b275a316d1c5396de7843353a0",
+      "byte_length": 64474
     },
     {
       "path": "/feed.json",
       "media_type": "application/json",
-      "sha256": "8fd7c40523aad36b2d8fdd70da17bd2f20ed75258fca513644289d128f014583",
-      "byte_length": 135346
+      "sha256": "47e9328b64599abecf27fa59341eb5fadd6d396684aa8584429f2d27cfe4cd43",
+      "byte_length": 136918
     },
     {
       "path": "/history/convergence-2026-06-03-cross-sector-brief/index.html",
@@ -1243,8 +1252,14 @@
     {
       "path": "/history/convergence-2026-08-25-cross-sector-brief/index.html",
       "media_type": "text/html",
-      "sha256": "9256db332fda80a09319b7ad5c5e6ed3cb8a84fbefb4fdf8d2556e1d296d1ce6",
-      "byte_length": 6734
+      "sha256": "6d06d07a637a5eb9a7ab71920acb4bc520dd811d155008a2bf75de425d73822f",
+      "byte_length": 6668
+    },
+    {
+      "path": "/history/convergence-2026-08-26-cross-sector-brief/index.html",
+      "media_type": "text/html",
+      "sha256": "575c4af3904c4222103d796a8c261e4688c6c246958589106cebb8796e2ab586",
+      "byte_length": 6740
     },
     {
       "path": "/history/convergence-daily-2026-05-26-cross-sector-brief/index.html",
@@ -1291,32 +1306,32 @@
     {
       "path": "/index.html",
       "media_type": "text/html",
-      "sha256": "5bb1b7c0c55ca9d799912a596029b5c018aee8e07de9e19dd2dcae7bb9a03363",
-      "byte_length": 60109
+      "sha256": "4f84ba70c881a83b7f9d8b67080cbfe7b78cb14366664ce5c0edb6e19c3296e1",
+      "byte_length": 60928
     },
     {
       "path": "/llms.txt",
       "media_type": "text/plain",
-      "sha256": "6009065065987cb23ee81b3d7e53572db1a0997b810b7c686a13b4844129d72e",
-      "byte_length": 18548
+      "sha256": "0710eac1bf3a5cc1c458924e1bc4d4d03f98a92aef418f0a4bd751ce9e2d06a4",
+      "byte_length": 18763
     },
     {
       "path": "/o/aliases.json",
       "media_type": "application/json",
-      "sha256": "e67421f626b3e1b779a844e095d53c81500e21808824e977142659f7fc495ae1",
-      "byte_length": 63129
+      "sha256": "5cab74264824f7b0e48e2644c26bda9d1bb0f6c8055fe4df36f3835f2e5dae98",
+      "byte_length": 63875
     },
     {
       "path": "/o/claims.json",
       "media_type": "application/json",
-      "sha256": "e9b151ac232e25c21f3630271b10d34b048cbdffa00b9f3fffbfa0f161674e33",
-      "byte_length": 129435
+      "sha256": "76a7e9e6d35179dc88f8eb06e023b9d4681ba82e32625484392a0ee521095842",
+      "byte_length": 131300
     },
     {
       "path": "/o/index.json",
       "media_type": "application/json",
-      "sha256": "5795b7324a526da8def50cb75122f3741563e682503836441518cb87ea9caec1",
-      "byte_length": 102767
+      "sha256": "f07dc293b4dfdb8c83060cfacd01246b68e03d0375496d8e97c0664f0b673912",
+      "byte_length": 104103
     },
     {
       "path": "/o/post/convergence-2026-06-03-cross-sector-brief.json",
@@ -2689,19 +2704,37 @@
     {
       "path": "/o/post/convergence-2026-08-25-cross-sector-brief.json",
       "media_type": "application/json",
-      "sha256": "ac919ae69ad202b329614f9c19e2d1073684022e22d294f9a50e491c82a78877",
-      "byte_length": 29499
+      "sha256": "d3a193e9719ffd228bc8659ef7466535ef871d3865a2019929f63fdf781e699c",
+      "byte_length": 11041
     },
     {
-      "path": "/o/post/convergence-2026-08-25-cross-sector-brief@sha256-2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683.json",
+      "path": "/o/post/convergence-2026-08-25-cross-sector-brief@sha256-837d62b8e20b3e895b64a70f46fd5d82f3fbcb9f0afb9b43875a6c6a409090b7.json",
       "media_type": "application/json",
-      "sha256": "ac919ae69ad202b329614f9c19e2d1073684022e22d294f9a50e491c82a78877",
-      "byte_length": 29499
+      "sha256": "d3a193e9719ffd228bc8659ef7466535ef871d3865a2019929f63fdf781e699c",
+      "byte_length": 11041
     },
     {
-      "path": "/o/post/convergence-2026-08-25-cross-sector-brief@sha256-2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683.json.sig",
+      "path": "/o/post/convergence-2026-08-25-cross-sector-brief@sha256-837d62b8e20b3e895b64a70f46fd5d82f3fbcb9f0afb9b43875a6c6a409090b7.json.sig",
       "media_type": "application/vnd.convergence.signature+json",
-      "sha256": "61adde57aa0d895dad87c6cfb9065c26fdb105eb940093358ddd2cb541fb3b8f",
+      "sha256": "cfbd916d32a71fbeee9c109308c6371a3111a1304183fd12598889734f182ece",
+      "byte_length": 986
+    },
+    {
+      "path": "/o/post/convergence-2026-08-26-cross-sector-brief.json",
+      "media_type": "application/json",
+      "sha256": "b52ee01d571c5a79bf112b6a30ee3c468c9ddecf165814b8825a5401f7545170",
+      "byte_length": 26185
+    },
+    {
+      "path": "/o/post/convergence-2026-08-26-cross-sector-brief@sha256-e800ce4b09ae7435740cebdfa62839c25f45d6e2f61e2d8f0172a08e50db74e6.json",
+      "media_type": "application/json",
+      "sha256": "b52ee01d571c5a79bf112b6a30ee3c468c9ddecf165814b8825a5401f7545170",
+      "byte_length": 26185
+    },
+    {
+      "path": "/o/post/convergence-2026-08-26-cross-sector-brief@sha256-e800ce4b09ae7435740cebdfa62839c25f45d6e2f61e2d8f0172a08e50db74e6.json.sig",
+      "media_type": "application/vnd.convergence.signature+json",
+      "sha256": "166d342e63965a11ca3e7b803c072709b57e9357f255fc692cce6db4c61513d4",
       "byte_length": 986
     },
     {
@@ -3295,8 +3328,14 @@
     {
       "path": "/p/convergence-2026-08-25-cross-sector-brief/index.html",
       "media_type": "text/html",
-      "sha256": "0c0425e22fef75bd61e3dc0ea28b7ebec906a370dac76789840979d8a2478310",
-      "byte_length": 49806
+      "sha256": "07957b305d5b69879018cc5e42f3f5d64e54592775ce6f8a08fcd432ecb76cf3",
+      "byte_length": 23319
+    },
+    {
+      "path": "/p/convergence-2026-08-26-cross-sector-brief/index.html",
+      "media_type": "text/html",
+      "sha256": "fba745ce64d79e863ac6a84a01a47556ca9b68fc58264dc101996d24eee5c671",
+      "byte_length": 45458
     },
     {
       "path": "/p/convergence-daily-2026-05-26-cross-sector-brief/index.html",
@@ -3343,14 +3382,14 @@
     {
       "path": "/rss.xml",
       "media_type": "application/rss+xml",
-      "sha256": "d574de8ebe77414e3d99f01b7f049466a0a996561920ee28e72a8e387cca1b27",
-      "byte_length": 77104
+      "sha256": "0123e6aa1c0c47c2f557cb619d91a75057d3caa3c3ed26054aec04e4b1c07747",
+      "byte_length": 78057
     },
     {
       "path": "/sitemap.xml",
       "media_type": "application/xml",
-      "sha256": "7bc0fd53d6fdd1452bc5615357ad4879525894ee13980d33b4318231613a5c4f",
-      "byte_length": 49535
+      "sha256": "23ba5919553bcbd72534349748aef0cc91ace184e0ee353793f3d8b492550acc",
+      "byte_length": 50120
     }
   ]
 }

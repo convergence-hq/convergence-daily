@@ -39,19 +39,37 @@
       ],
       "item": [
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief.json",
           "type": "application/json",
-          "title": "peptides: The Bottleneck the Market Hasn't Priced latest object",
+          "title": "defense AI: The Bottleneck the Market Hasn't Priced latest object",
           "access": {
             "tier": "free"
           }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief@sha256-2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief@sha256-e800ce4b09ae7435740cebdfa62839c25f45d6e2f61e2d8f0172a08e50db74e6.json",
           "type": "application/json",
-          "title": "peptides: The Bottleneck the Market Hasn't Priced immutable object",
+          "title": "defense AI: The Bottleneck the Market Hasn't Priced immutable object",
           "access": {
             "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Shot Everyone Already Bought latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief@sha256-837d62b8e20b3e895b64a70f46fd5d82f3fbcb9f0afb9b43875a6c6a409090b7.json",
+          "type": "application/json",
+          "title": "The Shot Everyone Already Bought immutable object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
           }
         },
         {

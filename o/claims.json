@@ -8,27 +8,53 @@
   "claims": [
     {
       "key": "thesis",
-      "statement": "Several industries are hitting the same wall at once: demand is real, but the supply of the one thing that matters is tight. The market keeps pricing these one company at a time. Eli Lilly (LLY) and Novo Nordisk (NVO) are where that squeeze is easiest to see right now — a pattern worth watching before it has a name.",
+      "statement": "Several industries are hitting the same wall at once: demand is real, but the supply of the one thing that matters is tight. The market keeps pricing these one company at a time. PLTR are where that squeeze is easiest to see right now — a pattern worth watching before it has a name.",
       "claim_kind": "predictive",
       "confidence": 0.72,
       "confidence_label": "medium_high",
+      "as_of": "2026-08-26",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-08-26-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260826crosssectorbrief",
+      "object_slug": "convergence-2026-08-26-cross-sector-brief",
+      "object_title": "defense AI: The Bottleneck the Market Hasn't Priced",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief@sha256-e800ce4b09ae7435740cebdfa62839c25f45d6e2f61e2d8f0172a08e50db74e6.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "e800ce4b09ae7435740cebdfa62839c25f45d6e2f61e2d8f0172a08e50db74e6",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-26-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
+      "statement": "The obesity-drug narrative is now common knowledge, and LLY/NVO options are already priced and thinned out for it, while the corpus's cleaner supply-side thesis - peptide-API manufacturing capacity - sits on a watchlist with zero book exposure.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
       "as_of": "2026-08-25",
       "evidence_refs": [],
       "citation_uri": "signal://convergence-daily/claim/convergence-2026-08-25-cross-sector-brief@v1",
-      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "falsification": "Capacity announcements indicate material oversupply within two quarters and CDMO order books soften. Originator pharma vertically integrates peptide-API capacity and reduces external CDMO dependence. FDA enforcement removes compounded-GLP-1 from the market in a way that collapses the downstream-volume signal without a compensating originator-supply shock. The CDMO names trade with sustained originator-pharma franchise correlation that eliminates the picks-and-shovels diversification benefit.",
       "cited_by": [],
       "object_id": "obj_convergence20260825crosssectorbrief",
       "object_slug": "convergence-2026-08-25-cross-sector-brief",
-      "object_title": "peptides: The Bottleneck the Market Hasn't Priced",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief@sha256-2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683.json",
+      "object_title": "The Shot Everyone Already Bought",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief@sha256-837d62b8e20b3e895b64a70f46fd5d82f3fbcb9f0afb9b43875a6c6a409090b7.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "2df876ef0c22c3b719261bf59738640d11bc21230675e3a7fa6eee86e3a7d683",
+        "value": "837d62b8e20b3e895b64a70f46fd5d82f3fbcb9f0afb9b43875a6c6a409090b7",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-25-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
