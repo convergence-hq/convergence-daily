@@ -4,14 +4,14 @@
   "id": "obj_convergence20260826crosssectorbrief",
   "slug": "convergence-2026-08-26-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief@sha256-d044acb1642d4d81fdbcb47c748558553e882a9959e2a57fcf8e16953fc4972f.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief@sha256-8bbdfe2279acbc10a4c92827345059b026e2a07dde285000cebb1ecb957564b1.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-08-26T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "d044acb1642d4d81fdbcb47c748558553e882a9959e2a57fcf8e16953fc4972f",
+    "value": "8bbdfe2279acbc10a4c92827345059b026e2a07dde285000cebb1ecb957564b1",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -148,38 +148,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Quiet Rebuild Behind the Obesity Boom",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "The peptide narrative everyone can see is the FDA compounding fight and Lilly's lawsuits, already priced into thinned-out LLY/NVO options; the narrative almost no one is watching is a string of CDMO capacity and capital-flow events - Bachem's Sisslerfeld build, CordenPharma's AmbioPharm close, PolyPeptide's 42% growth, and CDT's fresh equity stake in Pep'd - that keep confirming the same manufacturing-bottleneck thesis outside the headline cycle.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: CDT disclosed an equity investment in Pep'd on 2026-08-25, marking new institutional capital entering the US peptide market via a platform play - a fresh, single-source catalyst landed the same day as the corpus's prior peptide coverage.\n\nsig_2: Bachem announced plans on 2026-07-21 to build a large-scale peptide production facility in Sisslerfeld, Switzerland.\n\nsig_3: CordenPharma closed its acquisition of peptide CDMO AmbioPharm on 2026-08-03.\n\nsig_4: PolyPeptide Group disclosed H1 2026 revenue growth of +42% year-over-year with an improved EBITDA margin and raised full-year guidance on 2026-08-13.\n\nsig_5: The options scanner shows every surviving LLY/NVO contract tagged theme_status peak_hype, with asymmetry scores compressing from 11.5 to 3.78 as strikes move further out of the money and volume collapses from 478 to single digits - the originator-pharma trade is already stale.\n\nsig_6: Decision packet dp_peptide_manufacturing_watchlist remains a watchlist_candidate under human_review_required, with zero peptide-sector tickers currently held in the paper or live book.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "This setup breaks if capacity announcements from Bachem, CordenPharma, or PolyPeptide start signaling oversupply within two quarters and CDMO order books soften; if an originator (Lilly, Novo) vertically integrates peptide-API capacity and reduces reliance on external CDMOs; if FDA enforcement removes compounded GLP-1 from the market in a way that collapses downstream volume without a compensating originator-supply shock; or if the CDMO names begin trading with sustained correlation to originator-pharma franchise headlines, which would erase the diversification benefit this issue is built on. It also breaks narrowly if the CDT/Pep'd investment turns out to be immaterial in size or scope once more detail is disclosed.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Quiet Rebuild Behind the Obesity Boom Thesis The peptide narrative everyone can see is the FDA compounding fight and Lilly's lawsuits, already priced into thinned-out LLY/NVO options; the narrative almost no one is watching is a string of CDMO capacity and capital-flow events - Bachem's Sisslerfeld build, CordenPharma's AmbioPharm close, PolyPeptide's 42% growth, and CDT's fresh equity stake in"
     }
   ],
   "license": {
@@ -205,5 +174,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }

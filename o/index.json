@@ -7,16 +7,40 @@
   },
   "objects": [
     {
+      "id": "obj_convergence20260827crosssectorbrief",
+      "kind": "post",
+      "slug": "convergence-2026-08-27-cross-sector-brief",
+      "title": "The War Budget Is Becoming a Startup Index",
+      "summary": "Defense AI is shifting from a prime-contractor budget story into a two-clock revaluation story: private autonomous-systems velocity is setting the mark, while public adjacents such as PLTR, AVAV, KTOS, LDOS, and BAH inherit the repricing only after contract, acquisition, and budget evidence becomes too concrete to ignore.",
+      "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-5505981d77a6ef6653dd4526467d814856f465c9487c6918f5125fde92951cf9.json",
+      "content_digest": {
+        "algorithm": "sha256",
+        "value": "5505981d77a6ef6653dd4526467d814856f465c9487c6918f5125fde92951cf9",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "published_at": "2026-08-27T00:00:00Z",
+      "lifecycle": {
+        "state": "active",
+        "published_at": "2026-08-27T00:00:00Z"
+      },
+      "claim_count": 1,
+      "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-27-cross-sector-brief/",
+      "access": {
+        "tier": "free"
+      }
+    },
+    {
       "id": "obj_convergence20260826crosssectorbrief",
       "kind": "post",
       "slug": "convergence-2026-08-26-cross-sector-brief",
       "title": "The Quiet Rebuild Behind the Obesity Boom",
       "summary": "The peptide narrative everyone can see is the FDA compounding fight and Lilly's lawsuits, already priced into thinned-out LLY/NVO options; the narrative almost no one is watching is a string of CDMO capacity and capital-flow events - Bachem's Sisslerfeld build, CordenPharma's AmbioPharm close, PolyPeptide's 42% growth, and CDT's fresh equity stake in Pep'd - that keep confirming the same manufacturing-bottleneck thesis outside the headline cycle.",
       "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief.json",
-      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief@sha256-d044acb1642d4d81fdbcb47c748558553e882a9959e2a57fcf8e16953fc4972f.json",
+      "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief@sha256-8bbdfe2279acbc10a4c92827345059b026e2a07dde285000cebb1ecb957564b1.json",
       "content_digest": {
         "algorithm": "sha256",
-        "value": "d044acb1642d4d81fdbcb47c748558553e882a9959e2a57fcf8e16953fc4972f",
+        "value": "8bbdfe2279acbc10a4c92827345059b026e2a07dde285000cebb1ecb957564b1",
         "canonicalization": "RFC8785-JCS"
       },
       "published_at": "2026-08-26T00:00:00Z",
@@ -27,7 +51,8 @@
       "claim_count": 1,
       "human_url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-26-cross-sector-brief/",
       "access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

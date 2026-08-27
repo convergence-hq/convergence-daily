@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Defense AI is shifting from a prime-contractor budget story into a two-clock revaluation story: private autonomous-systems velocity is setting the mark, while public adjacents such as PLTR, AVAV, KTOS, LDOS, and BAH inherit the repricing only after contract, acquisition, and budget evidence becomes too concrete to ignore.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-08-27",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-08-27-cross-sector-brief@v1",
+      "falsification": "Replicator program funding is cancelled or reduced by more than 50 percent in the next NDAA appropriations cycle with no clear successor autonomous-systems acquisition vehicle. AUKUS Pillar II export agreement collapses or is suspended for two consecutive quarters, weakening the international addressable-market tailwind. Anduril postpones an IPO or primary financing event past 2026 with no replacement private valuation mark. DoD acquisition reform reverses Mid-Tier Acquisition Authority and Other Transaction Authority pathways, shifting award flow back toward legacy primes and away from nontraditional autonomous-systems vendors. Fresh options scan fails to find live defense-AI contracts with acceptable liquidity and asymmetry after removing expired contracts.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260827crosssectorbrief",
+      "object_slug": "convergence-2026-08-27-cross-sector-brief",
+      "object_title": "The War Budget Is Becoming a Startup Index",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-5505981d77a6ef6653dd4526467d814856f465c9487c6918f5125fde92951cf9.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "5505981d77a6ef6653dd4526467d814856f465c9487c6918f5125fde92951cf9",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-27-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "The peptide narrative everyone can see is the FDA compounding fight and Lilly's lawsuits, already priced into thinned-out LLY/NVO options; the narrative almost no one is watching is a string of CDMO capacity and capital-flow events - Bachem's Sisslerfeld build, CordenPharma's AmbioPharm close, PolyPeptide's 42% growth, and CDT's fresh equity stake in Pep'd - that keep confirming the same manufacturing-bottleneck thesis outside the headline cycle.",
       "claim_kind": "predictive",
       "confidence": 0.55,
@@ -20,15 +45,16 @@
       "object_id": "obj_convergence20260826crosssectorbrief",
       "object_slug": "convergence-2026-08-26-cross-sector-brief",
       "object_title": "The Quiet Rebuild Behind the Obesity Boom",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief@sha256-d044acb1642d4d81fdbcb47c748558553e882a9959e2a57fcf8e16953fc4972f.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief@sha256-8bbdfe2279acbc10a4c92827345059b026e2a07dde285000cebb1ecb957564b1.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "d044acb1642d4d81fdbcb47c748558553e882a9959e2a57fcf8e16953fc4972f",
+        "value": "8bbdfe2279acbc10a4c92827345059b026e2a07dde285000cebb1ecb957564b1",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-26-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
