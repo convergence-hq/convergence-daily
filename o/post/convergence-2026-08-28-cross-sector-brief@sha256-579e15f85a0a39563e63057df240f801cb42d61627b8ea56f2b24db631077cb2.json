@@ -1,0 +1,229 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_convergence20260828crosssectorbrief",
+  "slug": "convergence-2026-08-28-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-28-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-28-cross-sector-brief@sha256-579e15f85a0a39563e63057df240f801cb42d61627b8ea56f2b24db631077cb2.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-08-28T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "579e15f85a0a39563e63057df240f801cb42d61627b8ea56f2b24db631077cb2",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Convergence Daily Desk",
+    "created_at": "2026-08-28T00:00:00Z",
+    "modified_at": "2026-08-28T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://convergence-daily/claim/convergence-2026-08-28-cross-sector-brief@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "catalyst_ids": [
+          "dp_ai_infra_bottleneck_watchlist"
+        ],
+        "entity_ids": [
+          "AVGO",
+          "MRVL",
+          "NVDA",
+          "MU",
+          "AMD",
+          "TSM",
+          "ANET",
+          "VRT",
+          "DELL",
+          "GEV",
+          "CSCO",
+          "SMCI"
+        ],
+        "format": "narrative_loud_trade_bad",
+        "human_action": "Review AI infrastructure as an observing/watchlist candidate, with emphasis on non-obvious bottleneck beneficiaries rather than adding generic long exposure to the peak-hype accelerator basket.",
+        "legal_disclaimer": "For operator review only; not investment advice.",
+        "machine_action": "Refresh scanner expiries before any proposed execution; monitor AVGO, MRVL, MU, TSM, ANET, VRT, DELL, GEV-adjacent power equipment, and liquid-cooling supply chain names against the decision-packet invalidation conditions.",
+        "methodology_footer": "Synthesized from the selected AI infrastructure sector corpus, decision packet dp_ai_infra_bottleneck_watchlist, supplied options scanner, and supplied paper/live book context.",
+        "position_conflict_disclosure": "The supplied paper/live book shows no open AI infrastructure positions; visible open exposure is in FXA and CORN under the cicadas theme.",
+        "product": "convergence_daily",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-08-28",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "ai-infrastructure",
+          "ths_ai_infra_bottleneck_stack"
+        ],
+        "uncertainty": "The fresh evidence is real but uneven: Marvell has company-reported results and SEC-disclosed Google linkage, while several supporting infrastructure signals are vendor announcements or single-source industry claims. The option scanner is stale for execution."
+      },
+      "original_issue": {
+        "catalyst_ids": [
+          "dp_ai_infra_bottleneck_watchlist"
+        ],
+        "confidence": "medium_high",
+        "entity_ids": [
+          "AVGO",
+          "MRVL",
+          "NVDA",
+          "MU",
+          "AMD",
+          "TSM",
+          "ANET",
+          "VRT",
+          "DELL",
+          "GEV",
+          "CSCO",
+          "SMCI"
+        ],
+        "falsification": "Microsoft, Alphabet, Amazon, Meta, and Oracle each guide AI infrastructure capex lower for two consecutive reporting cycles while NVIDIA, Broadcom, Dell, Arista, and Vertiv all report decelerating AI backlog or order commentary. Micron, Samsung, SK Hynix, or TSMC disclose HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes. BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods. Hyperscaler cluster architectures shift away from the public-vendor bottleneck stack, reducing attach rates for NVDA, AVGO, ANET, MRVL, MU, or VRT.",
+        "format": "narrative_loud_trade_bad",
+        "headline": "The AI Factory Trade Has Moved Down the Rack",
+        "human_action": "Review AI infrastructure as an observing/watchlist candidate, with emphasis on non-obvious bottleneck beneficiaries rather than adding generic long exposure to the peak-hype accelerator basket.",
+        "issue_id": "convergence-2026-08-28-cross-sector-brief",
+        "legal_disclaimer": "For operator review only; not investment advice.",
+        "machine_action": "Refresh scanner expiries before any proposed execution; monitor AVGO, MRVL, MU, TSM, ANET, VRT, DELL, GEV-adjacent power equipment, and liquid-cooling supply chain names against the decision-packet invalidation conditions.",
+        "methodology_footer": "Synthesized from the selected AI infrastructure sector corpus, decision packet dp_ai_infra_bottleneck_watchlist, supplied options scanner, and supplied paper/live book context.",
+        "position_conflict_disclosure": "The supplied paper/live book shows no open AI infrastructure positions; visible open exposure is in FXA and CORN under the cicadas theme.",
+        "product": "convergence_daily",
+        "publication_date": "2026-08-28",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-08-28",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'type': 'fresh_evidence', 'date': '2026-08-27', 'summary': 'Marvell reported Q2 fiscal 2027 revenue up 37% year over year and said data center revenue grew 46%, while raising fiscal 2027 and 2028 revenue outlooks.'}",
+          "{'type': 'fresh_evidence', 'date': '2026-08-19', 'summary': 'Marvell disclosed a Google custom-silicon agreement tied to the TPU ecosystem, with warrant vesting linked to purchases through fiscal 2033.'}",
+          "{'type': 'fresh_evidence', 'date': '2026-08-25', 'summary': 'Cisco expanded its Secure AI Factory with NVIDIA and Supermicro rack-scale systems, adding liquid- and air-cooled compute to an enterprise, neocloud, and sovereign cloud infrastructure offer.'}",
+          "{'type': 'fresh_evidence', 'date': '2026-08-24', 'summary': 'GE Vernova introduced a medium-voltage UPS for data centers and AI factories, with shipments expected in mid-2027 and first energization in late 2027.'}",
+          "{'type': 'scanner', 'summary': 'Scanner still tags AI Infrastructure as peak hype, with the strongest visible asymmetry in AVGO and lower-tier TSM rows, but listed option expiries are stale as of publication and should not be used for live execution.'}",
+          "{'type': 'book', 'summary': 'Visible open book has no direct AI infrastructure exposure; current open mispricing exposure is concentrated in FXA and CORN.'}"
+        ],
+        "state": "observing",
+        "thesis": "AI infrastructure remains a valid bottleneck-stack watchlist, but the clean trade has shifted away from the obvious accelerator narrative toward second-order constraints in custom silicon, packaging, memory, networking, cooling, and power reliability.",
+        "trend_ids": [
+          "ai-infrastructure",
+          "ths_ai_infra_bottleneck_stack"
+        ],
+        "uncertainty": "The fresh evidence is real but uneven: Marvell has company-reported results and SEC-disclosed Google linkage, while several supporting infrastructure signals are vendor announcements or single-source industry claims. The option scanner is stale for execution."
+      }
+    }
+  },
+  "title": "The AI Factory Trade Has Moved Down the Rack",
+  "summary": "AI infrastructure remains a valid bottleneck-stack watchlist, but the clean trade has shifted away from the obvious accelerator narrative toward second-order constraints in custom silicon, packaging, memory, networking, cooling, and power reliability.",
+  "authors": [
+    {
+      "name": "Convergence Daily",
+      "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "AI infrastructure remains a valid bottleneck-stack watchlist, but the clean trade has shifted away from the obvious accelerator narrative toward second-order constraints in custom silicon, packaging, memory, networking, cooling, and power reliability.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-08-28",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-08-28-cross-sector-brief@v1",
+      "falsification": "Microsoft, Alphabet, Amazon, Meta, and Oracle each guide AI infrastructure capex lower for two consecutive reporting cycles while NVIDIA, Broadcom, Dell, Arista, and Vertiv all report decelerating AI backlog or order commentary. Micron, Samsung, SK Hynix, or TSMC disclose HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes. BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods. Hyperscaler cluster architectures shift away from the public-vendor bottleneck stack, reducing attach rates for NVDA, AVGO, ANET, MRVL, MU, or VRT."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The AI Factory Trade Has Moved Down the Rack",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "AI infrastructure remains a valid bottleneck-stack watchlist, but the clean trade has shifted away from the obvious accelerator narrative toward second-order constraints in custom silicon, packaging, memory, networking, cooling, and power reliability.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'type': 'fresh_evidence', 'date': '2026-08-27', 'summary': 'Marvell reported Q2 fiscal 2027 revenue up 37% year over year and said data center revenue grew 46%, while raising fiscal 2027 and 2028 revenue outlooks.'}\n\nsig_2: {'type': 'fresh_evidence', 'date': '2026-08-19', 'summary': 'Marvell disclosed a Google custom-silicon agreement tied to the TPU ecosystem, with warrant vesting linked to purchases through fiscal 2033.'}\n\nsig_3: {'type': 'fresh_evidence', 'date': '2026-08-25', 'summary': 'Cisco expanded its Secure AI Factory with NVIDIA and Supermicro rack-scale systems, adding liquid- and air-cooled compute to an enterprise, neocloud, and sovereign cloud infrastructure offer.'}\n\nsig_4: {'type': 'fresh_evidence', 'date': '2026-08-24', 'summary': 'GE Vernova introduced a medium-voltage UPS for data centers and AI factories, with shipments expected in mid-2027 and first energization in late 2027.'}\n\nsig_5: {'type': 'scanner', 'summary': 'Scanner still tags AI Infrastructure as peak hype, with the strongest visible asymmetry in AVGO and lower-tier TSM rows, but listed option expiries are stale as of publication and should not be used for live execution.'}\n\nsig_6: {'type': 'book', 'summary': 'Visible open book has no direct AI infrastructure exposure; current open mispricing exposure is concentrated in FXA and CORN.'}",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Microsoft, Alphabet, Amazon, Meta, and Oracle each guide AI infrastructure capex lower for two consecutive reporting cycles while NVIDIA, Broadcom, Dell, Arista, and Vertiv all report decelerating AI backlog or order commentary. Micron, Samsung, SK Hynix, or TSMC disclose HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes. BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods. Hyperscaler cluster architectures shift away from the public-vendor bottleneck stack, reducing attach rates for NVDA, AVGO, ANET, MRVL, MU, or VRT.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Convergence Daily. \"The AI Factory Trade Has Moved Down the Rack.\" Convergence Daily. 2026-08-28. Resolve signal://convergence-daily/claim/convergence-2026-08-28-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-2026-08-28-cross-sector-brief@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-08-28",
+      "published_at": "2026-08-28T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

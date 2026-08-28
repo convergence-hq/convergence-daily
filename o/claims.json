@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "AI infrastructure remains a valid bottleneck-stack watchlist, but the clean trade has shifted away from the obvious accelerator narrative toward second-order constraints in custom silicon, packaging, memory, networking, cooling, and power reliability.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-08-28",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-08-28-cross-sector-brief@v1",
+      "falsification": "Microsoft, Alphabet, Amazon, Meta, and Oracle each guide AI infrastructure capex lower for two consecutive reporting cycles while NVIDIA, Broadcom, Dell, Arista, and Vertiv all report decelerating AI backlog or order commentary. Micron, Samsung, SK Hynix, or TSMC disclose HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes. BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods. Hyperscaler cluster architectures shift away from the public-vendor bottleneck stack, reducing attach rates for NVDA, AVGO, ANET, MRVL, MU, or VRT.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260828crosssectorbrief",
+      "object_slug": "convergence-2026-08-28-cross-sector-brief",
+      "object_title": "The AI Factory Trade Has Moved Down the Rack",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-28-cross-sector-brief@sha256-579e15f85a0a39563e63057df240f801cb42d61627b8ea56f2b24db631077cb2.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "579e15f85a0a39563e63057df240f801cb42d61627b8ea56f2b24db631077cb2",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-28-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "Defense AI is shifting from a prime-contractor budget story into a two-clock revaluation story: private autonomous-systems velocity is setting the mark, while public adjacents such as PLTR, AVAV, KTOS, LDOS, and BAH inherit the repricing only after contract, acquisition, and budget evidence becomes too concrete to ignore.",
       "claim_kind": "predictive",
       "confidence": 0.55,
@@ -20,15 +45,16 @@
       "object_id": "obj_convergence20260827crosssectorbrief",
       "object_slug": "convergence-2026-08-27-cross-sector-brief",
       "object_title": "The War Budget Is Becoming a Startup Index",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-5505981d77a6ef6653dd4526467d814856f465c9487c6918f5125fde92951cf9.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-9a4f830e14462c6f3b62a0e60d83143a9930add3ea47b398c04dc9c82acc47ce.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "5505981d77a6ef6653dd4526467d814856f465c9487c6918f5125fde92951cf9",
+        "value": "9a4f830e14462c6f3b62a0e60d83143a9930add3ea47b398c04dc9c82acc47ce",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-27-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

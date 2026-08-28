@@ -6,13 +6,13 @@
   "description": "Real Convergence Daily episodes published through the dual-native engine.",
   "items": [
     {
-      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-5505981d77a6ef6653dd4526467d814856f465c9487c6918f5125fde92951cf9.json",
-      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-27-cross-sector-brief/",
-      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-5505981d77a6ef6653dd4526467d814856f465c9487c6918f5125fde92951cf9.json",
-      "title": "The War Budget Is Becoming a Startup Index",
-      "summary": "Defense AI is shifting from a prime-contractor budget story into a two-clock revaluation story: private autonomous-systems velocity is setting the mark, while public adjacents such as PLTR, AVAV, KTOS, LDOS, and BAH inherit the repricing only after contract, acquisition, and budget evidence becomes too concrete to ignore.",
-      "content_text": "The War Budget Is Becoming a Startup Index\n\nThesis\nDefense AI is shifting from a prime-contractor budget story into a two-clock revaluation story: private autonomous-systems velocity is setting the mark, while public adjacents such as PLTR, AVAV, KTOS, LDOS, and BAH inherit the repricing only after contract, acquisition, and budget evidence becomes too concrete to ignore.\n\nSignals\nsig_1: {'type': 'sector_selection', 'value': 'defense-ai', 'detail': 'Selected as the diversity-scored primary sector despite recent coverage because fresh post-coverage evidence landed after the 2026-08-18 issue.'}\n\nsig_2: {'type': 'decision_packet', 'value': 'dp_defense_ai_velocity_visibility_watchlist', 'detail': 'Verdict remains watchlist_candidate with human_review_required execution state.'}\n\nsig_3: {'type': 'fresh_evidence', 'value': 'AeroVironment Greece industrial presence', 'detail': 'AeroVironment announced on 2026-08-20 that it will establish an industrial presence in Greece through the AV Eagle program.'}\n\nsig_4: {'type': 'fresh_evidence', 'value': 'Booz Allen Ultra Mission Solutions close', 'detail': 'Booz Allen closed its $720 million acquisition of Ultra Mission Solutions on 2026-08-24.'}\n\nsig_5: {'type': 'corpus_evidence', 'value': 'Kratos C-UAS and Valkyrie activity', 'detail': 'Kratos received a roughly $156 million mobile counter-UAS award and reported Q2 2026 revenue growth, Valkyrie-driven unmanned systems revenue, and $2.084 billion backlog.'}\n\nsig_6: {'type': 'scanner', 'value': 'PLTR defense-ai contract', 'detail': 'Scanner shows one high-tier PLTR defense-AI row with asymmetry_score 5.36, but the option expiry is 2026-05-29 and must be treated as stale for execution.'}\n\nsig_7: {'type': 'book', 'value': 'no direct defense-ai exposure', 'detail': 'Paper/live book sample shows open exposure concentrated in FXA/cicadas; no current defense-AI ticker exposure is visible in the supplied book context.'}\n\nWhat would falsify it\nReplicator program funding is cancelled or reduced by more than 50 percent in the next NDAA appropriations cycle with no clear successor autonomous-systems acquisition vehicle. AUKUS Pillar II export agreement collapses or is suspended for two consecutive quarters, weakening the international addressable-market tailwind. Anduril postpones an IPO or primary financing event past 2026 with no replacement private valuation mark. DoD acquisition reform reverses Mid-Tier Acquisition Authority and Other Transaction Authority pathways, shifting award flow back toward legacy primes and away from nontraditional autonomous-systems vendors. Fresh options scan fails to find live defense-AI contracts with acceptable liquidity and asymmetry after removing expired contracts.",
-      "date_published": "2026-08-27T00:00:00Z",
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-28-cross-sector-brief@sha256-579e15f85a0a39563e63057df240f801cb42d61627b8ea56f2b24db631077cb2.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-28-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-28-cross-sector-brief@sha256-579e15f85a0a39563e63057df240f801cb42d61627b8ea56f2b24db631077cb2.json",
+      "title": "The AI Factory Trade Has Moved Down the Rack",
+      "summary": "AI infrastructure remains a valid bottleneck-stack watchlist, but the clean trade has shifted away from the obvious accelerator narrative toward second-order constraints in custom silicon, packaging, memory, networking, cooling, and power reliability.",
+      "content_text": "The AI Factory Trade Has Moved Down the Rack\n\nThesis\nAI infrastructure remains a valid bottleneck-stack watchlist, but the clean trade has shifted away from the obvious accelerator narrative toward second-order constraints in custom silicon, packaging, memory, networking, cooling, and power reliability.\n\nSignals\nsig_1: {'type': 'fresh_evidence', 'date': '2026-08-27', 'summary': 'Marvell reported Q2 fiscal 2027 revenue up 37% year over year and said data center revenue grew 46%, while raising fiscal 2027 and 2028 revenue outlooks.'}\n\nsig_2: {'type': 'fresh_evidence', 'date': '2026-08-19', 'summary': 'Marvell disclosed a Google custom-silicon agreement tied to the TPU ecosystem, with warrant vesting linked to purchases through fiscal 2033.'}\n\nsig_3: {'type': 'fresh_evidence', 'date': '2026-08-25', 'summary': 'Cisco expanded its Secure AI Factory with NVIDIA and Supermicro rack-scale systems, adding liquid- and air-cooled compute to an enterprise, neocloud, and sovereign cloud infrastructure offer.'}\n\nsig_4: {'type': 'fresh_evidence', 'date': '2026-08-24', 'summary': 'GE Vernova introduced a medium-voltage UPS for data centers and AI factories, with shipments expected in mid-2027 and first energization in late 2027.'}\n\nsig_5: {'type': 'scanner', 'summary': 'Scanner still tags AI Infrastructure as peak hype, with the strongest visible asymmetry in AVGO and lower-tier TSM rows, but listed option expiries are stale as of publication and should not be used for live execution.'}\n\nsig_6: {'type': 'book', 'summary': 'Visible open book has no direct AI infrastructure exposure; current open mispricing exposure is concentrated in FXA and CORN.'}\n\nWhat would falsify it\nMicrosoft, Alphabet, Amazon, Meta, and Oracle each guide AI infrastructure capex lower for two consecutive reporting cycles while NVIDIA, Broadcom, Dell, Arista, and Vertiv all report decelerating AI backlog or order commentary. Micron, Samsung, SK Hynix, or TSMC disclose HBM or advanced-packaging lead times falling below normal procurement windows while gross margin guidance normalizes. BIS materially relaxes advanced-computing or HBM controls for China, or major accelerator and memory suppliers report no China-control impact for two consecutive reporting periods. Hyperscaler cluster architectures shift away from the public-vendor bottleneck stack, reducing attach rates for NVDA, AVGO, ANET, MRVL, MU, or VRT.",
+      "date_published": "2026-08-28T00:00:00Z",
       "authors": [
         {
           "name": "Convergence Daily",
@@ -24,6 +24,28 @@
       ],
       "_convergence_access": {
         "tier": "free"
+      }
+    },
+    {
+      "id": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-9a4f830e14462c6f3b62a0e60d83143a9930add3ea47b398c04dc9c82acc47ce.json",
+      "url": "https://convergence.permanentupperclass.com/p/convergence-2026-08-27-cross-sector-brief/",
+      "external_url": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-9a4f830e14462c6f3b62a0e60d83143a9930add3ea47b398c04dc9c82acc47ce.json",
+      "title": "The War Budget Is Becoming a Startup Index",
+      "summary": "Defense AI is shifting from a prime-contractor budget story into a two-clock revaluation story: private autonomous-systems velocity is setting the mark, while public adjacents such as PLTR, AVAV, KTOS, LDOS, and BAH inherit the repricing only after contract, acquisition, and budget evidence becomes too concrete to ignore.",
+      "content_text": "The War Budget Is Becoming a Startup Index Thesis Defense AI is shifting from a prime-contractor budget story into a two-clock revaluation story: private autonomous-systems velocity is setting the mark, while public adjacents such as PLTR, AVAV, KTOS, LDOS, and BAH inherit the repricing only after contract, acquisition, and budget evidence becomes too concrete to ignore. Signals sig_1: {'type': 'sector_selection',",
+      "date_published": "2026-08-27T00:00:00Z",
+      "authors": [
+        {
+          "name": "Convergence Daily",
+          "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+        }
+      ],
+      "tags": [
+        "thesis"
+      ],
+      "_convergence_access": {
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

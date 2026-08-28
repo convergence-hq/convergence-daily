@@ -4,14 +4,14 @@
   "id": "obj_convergence20260827crosssectorbrief",
   "slug": "convergence-2026-08-27-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-5505981d77a6ef6653dd4526467d814856f465c9487c6918f5125fde92951cf9.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-9a4f830e14462c6f3b62a0e60d83143a9930add3ea47b398c04dc9c82acc47ce.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-08-27T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "5505981d77a6ef6653dd4526467d814856f465c9487c6918f5125fde92951cf9",
+    "value": "9a4f830e14462c6f3b62a0e60d83143a9930add3ea47b398c04dc9c82acc47ce",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -171,38 +171,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The War Budget Is Becoming a Startup Index",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "Defense AI is shifting from a prime-contractor budget story into a two-clock revaluation story: private autonomous-systems velocity is setting the mark, while public adjacents such as PLTR, AVAV, KTOS, LDOS, and BAH inherit the repricing only after contract, acquisition, and budget evidence becomes too concrete to ignore.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: {'type': 'sector_selection', 'value': 'defense-ai', 'detail': 'Selected as the diversity-scored primary sector despite recent coverage because fresh post-coverage evidence landed after the 2026-08-18 issue.'}\n\nsig_2: {'type': 'decision_packet', 'value': 'dp_defense_ai_velocity_visibility_watchlist', 'detail': 'Verdict remains watchlist_candidate with human_review_required execution state.'}\n\nsig_3: {'type': 'fresh_evidence', 'value': 'AeroVironment Greece industrial presence', 'detail': 'AeroVironment announced on 2026-08-20 that it will establish an industrial presence in Greece through the AV Eagle program.'}\n\nsig_4: {'type': 'fresh_evidence', 'value': 'Booz Allen Ultra Mission Solutions close', 'detail': 'Booz Allen closed its $720 million acquisition of Ultra Mission Solutions on 2026-08-24.'}\n\nsig_5: {'type': 'corpus_evidence', 'value': 'Kratos C-UAS and Valkyrie activity', 'detail': 'Kratos received a roughly $156 million mobile counter-UAS award and reported Q2 2026 revenue growth, Valkyrie-driven unmanned systems revenue, and $2.084 billion backlog.'}\n\nsig_6: {'type': 'scanner', 'value': 'PLTR defense-ai contract', 'detail': 'Scanner shows one high-tier PLTR defense-AI row with asymmetry_score 5.36, but the option expiry is 2026-05-29 and must be treated as stale for execution.'}\n\nsig_7: {'type': 'book', 'value': 'no direct defense-ai exposure', 'detail': 'Paper/live book sample shows open exposure concentrated in FXA/cicadas; no current defense-AI ticker exposure is visible in the supplied book context.'}",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Replicator program funding is cancelled or reduced by more than 50 percent in the next NDAA appropriations cycle with no clear successor autonomous-systems acquisition vehicle. AUKUS Pillar II export agreement collapses or is suspended for two consecutive quarters, weakening the international addressable-market tailwind. Anduril postpones an IPO or primary financing event past 2026 with no replacement private valuation mark. DoD acquisition reform reverses Mid-Tier Acquisition Authority and Other Transaction Authority pathways, shifting award flow back toward legacy primes and away from nontraditional autonomous-systems vendors. Fresh options scan fails to find live defense-AI contracts with acceptable liquidity and asymmetry after removing expired contracts.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The War Budget Is Becoming a Startup Index Thesis Defense AI is shifting from a prime-contractor budget story into a two-clock revaluation story: private autonomous-systems velocity is setting the mark, while public adjacents such as PLTR, AVAV, KTOS, LDOS, and BAH inherit the repricing only after contract, acquisition, and budget evidence becomes too concrete to ignore. Signals sig_1: {'type': 'sector_selection',"
     }
   ],
   "license": {
@@ -228,5 +197,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }
