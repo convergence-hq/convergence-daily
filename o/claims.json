@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Humanoid robotics' visible narrative this cycle is unveilings and IPO pricing out of China, but the harder evidence of the sector moving from demo to production is sitting one layer down, in lidar shipment volumes, connector and embedded-silicon production ramps, and new factory openings, none of which the current options coverage or the book's existing TSLA exposure has caught up to yet.",
+      "claim_kind": "predictive",
+      "confidence": 0.4,
+      "confidence_label": "medium_low",
+      "as_of": "2026-08-29",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-08-29-cross-sector-brief@v1",
+      "falsification": "Figure AI postpones an IPO or primary financing catalyst past Q2 2026 while BMW deployment remains limited to non-revenue pilots. Tesla shelves Optimus production beyond internal-use scope through 2027 or removes Optimus production milestones from quarterly disclosure. Harmonic-drive, actuator, and rare-earth magnet suppliers disclose broad lead-time normalization while humanoid developers stop citing component cost or supply as a scaling constraint. A top-ten auto OEM cancels a humanoid pilot and cites unit economics, safety acceptance, or reliability as the primary reason. Hesai's robotics-lidar shipment growth reverses or its named customers stop citing humanoid deployment as the demand driver.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260829crosssectorbrief",
+      "object_slug": "convergence-2026-08-29-cross-sector-brief",
+      "object_title": "The Factory Floor Got There Before the Ticker",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-29-cross-sector-brief@sha256-2790369aa7113f82205a02ea82e3546507ca7627429a61240bef6c7ad645369e.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "2790369aa7113f82205a02ea82e3546507ca7627429a61240bef6c7ad645369e",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-29-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "AI infrastructure remains a valid bottleneck-stack watchlist, but the clean trade has shifted away from the obvious accelerator narrative toward second-order constraints in custom silicon, packaging, memory, networking, cooling, and power reliability.",
       "claim_kind": "predictive",
       "confidence": 0.72,
@@ -20,15 +45,16 @@
       "object_id": "obj_convergence20260828crosssectorbrief",
       "object_slug": "convergence-2026-08-28-cross-sector-brief",
       "object_title": "The AI Factory Trade Has Moved Down the Rack",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-28-cross-sector-brief@sha256-579e15f85a0a39563e63057df240f801cb42d61627b8ea56f2b24db631077cb2.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-28-cross-sector-brief@sha256-057bff3bd562d3b1fdc47d8922412193abf8d3706d10906f1e1f599cc4f1784c.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "579e15f85a0a39563e63057df240f801cb42d61627b8ea56f2b24db631077cb2",
+        "value": "057bff3bd562d3b1fdc47d8922412193abf8d3706d10906f1e1f599cc4f1784c",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-28-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {

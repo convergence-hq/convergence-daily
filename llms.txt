@@ -16,7 +16,8 @@ Real Convergence Daily episodes published through the dual-native engine.
 - Paid objects are signed and served as teaser canonical objects.
 
 ## Objects
-- [free] The AI Factory Trade Has Moved Down the Rack: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-28-cross-sector-brief@sha256-579e15f85a0a39563e63057df240f801cb42d61627b8ea56f2b24db631077cb2.json
+- [free] The Factory Floor Got There Before the Ticker: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-29-cross-sector-brief@sha256-2790369aa7113f82205a02ea82e3546507ca7627429a61240bef6c7ad645369e.json
+- [paid] The AI Factory Trade Has Moved Down the Rack: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-28-cross-sector-brief@sha256-057bff3bd562d3b1fdc47d8922412193abf8d3706d10906f1e1f599cc4f1784c.json
 - [paid] The War Budget Is Becoming a Startup Index: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-27-cross-sector-brief@sha256-9a4f830e14462c6f3b62a0e60d83143a9930add3ea47b398c04dc9c82acc47ce.json
 - [paid] The Quiet Rebuild Behind the Obesity Boom: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-26-cross-sector-brief@sha256-8bbdfe2279acbc10a4c92827345059b026e2a07dde285000cebb1ecb957564b1.json
 - [paid] The Shot Everyone Already Bought: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-25-cross-sector-brief@sha256-837d62b8e20b3e895b64a70f46fd5d82f3fbcb9f0afb9b43875a6c6a409090b7.json
