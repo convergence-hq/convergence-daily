@@ -4,14 +4,14 @@
   "id": "obj_convergence20260829crosssectorbrief",
   "slug": "convergence-2026-08-29-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-29-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-29-cross-sector-brief@sha256-2790369aa7113f82205a02ea82e3546507ca7627429a61240bef6c7ad645369e.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-29-cross-sector-brief@sha256-0a39fb8e8342951d778d44c793d5cd2be2051f3fc5b34e511562d899f56f3c17.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-08-29T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "2790369aa7113f82205a02ea82e3546507ca7627429a61240bef6c7ad645369e",
+    "value": "0a39fb8e8342951d778d44c793d5cd2be2051f3fc5b34e511562d899f56f3c17",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -118,38 +118,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Factory Floor Got There Before the Ticker",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "Humanoid robotics' visible narrative this cycle is unveilings and IPO pricing out of China, but the harder evidence of the sector moving from demo to production is sitting one layer down, in lidar shipment volumes, connector and embedded-silicon production ramps, and new factory openings, none of which the current options coverage or the book's existing TSLA exposure has caught up to yet.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: {'sector': 'robotics-humanoid', 'tickers': ['HSAI'], 'summary': 'Hesai reported Q2 2026 robotics-lidar shipments of 142,371 units, up 193.4% year over year, naming Unitree, Robbyant, Galbot, Galaxea, and Dexmal as customers or collaborators, which is actual disclosed revenue tied to humanoid and robotics unit volume rather than a demo.', 'strength': 'single_source_disclosure'} (sector: robotics-humanoid; strength: single_source_disclosure)\n\nsig_2: {'sector': 'robotics-humanoid', 'tickers': ['TSLA'], 'summary': 'Options scanner shows only one surviving robotics-humanoid contract (TSLA, 455 strike, asymmetry score 6.13, MEDIUM tier) and the scan itself is dated 2026-04-28, well before the events in this brief, so it cannot be treated as a live execution signal.', 'strength': 'stale_scanner_data'} (sector: robotics-humanoid; strength: stale_scanner_data)\n\nsig_3: {'sector': 'robotics-humanoid', 'tickers': ['TSLA'], 'summary': 'The paper book already carries a long TSLA position opened 2026-06-12 on a robotics-humanoid convergence basket rationale; it is currently marked down roughly 14% against entry, meaning existing exposure has not benefited from the recent run of supply-chain evidence.', 'strength': 'book_position_underwater'} (sector: robotics-humanoid; strength: book_position_underwater)\n\nsig_4: {'sector': 'robotics-humanoid', 'tickers': [], 'summary': \"BYD's confirmed August unveiling, Zoomlion's multi-product showcase at the World Robot Conference, and Unitree's $9 billion IPO pricing are the loud, already-public parts of the story; LG's next-generation humanoid with NVIDIA is not due to be unveiled until Q1 2027, extending the visible catalyst calendar well past this window.\", 'strength': 'public_narrative'} (sector: robotics-humanoid; strength: public_narrative)\n\nsig_5: {'sector': 'robotics-humanoid', 'tickers': [], 'summary': \"The FCC's addition of foreign-made advanced robotic devices, including humanoid robots, to an import-restriction list in July 2026 creates friction specifically for the Chinese suppliers generating the loudest headlines, while U.S.-side component suppliers (AMD embedded silicon for Q4 2026 production, Molex connectors ramping to full commercial scale in late 2026, MP Materials' magnet capacity reservation program) sit on the other side of that friction with comparatively little coverage.\", 'strength': 'policy_catalyst'} (sector: robotics-humanoid; strength: policy_catalyst)\n\nsig_6: {'sector': 'robotics-humanoid', 'tickers': [], 'summary': \"Not every pilot-adjacent name is scaling: AMC Robotics' Q2 2026 revenue fell year over year even as it leased Vietnam production capacity, and Nauticus Robotics' revenue also declined despite a new ToolKITT product release, so the production-ramp evidence is real but uneven across the supply chain.\", 'strength': 'mixed_evidence'} (sector: robotics-humanoid; strength: mixed_evidence)",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Figure AI postpones an IPO or primary financing catalyst past Q2 2026 while BMW deployment remains limited to non-revenue pilots. Tesla shelves Optimus production beyond internal-use scope through 2027 or removes Optimus production milestones from quarterly disclosure. Harmonic-drive, actuator, and rare-earth magnet suppliers disclose broad lead-time normalization while humanoid developers stop citing component cost or supply as a scaling constraint. A top-ten auto OEM cancels a humanoid pilot and cites unit economics, safety acceptance, or reliability as the primary reason. Hesai's robotics-lidar shipment growth reverses or its named customers stop citing humanoid deployment as the demand driver.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Factory Floor Got There Before the Ticker Thesis Humanoid robotics' visible narrative this cycle is unveilings and IPO pricing out of China, but the harder evidence of the sector moving from demo to production is sitting one layer down, in lidar shipment volumes, connector and embedded-silicon production ramps, and new factory openings, none of which the current options coverage"
     }
   ],
   "license": {
@@ -175,5 +144,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }

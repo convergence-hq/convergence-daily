@@ -39,19 +39,37 @@
       ],
       "item": [
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-29-cross-sector-brief.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-30-cross-sector-brief.json",
           "type": "application/json",
-          "title": "The Factory Floor Got There Before the Ticker latest object",
+          "title": "The Line Behind Lilly Just Got Longer latest object",
           "access": {
             "tier": "free"
           }
         },
         {
-          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-29-cross-sector-brief@sha256-2790369aa7113f82205a02ea82e3546507ca7627429a61240bef6c7ad645369e.json",
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-30-cross-sector-brief@sha256-4eb8a006ae253e7a67e390c2b2e96ac8d1702e8f77e480e304568272fe937845.json",
+          "type": "application/json",
+          "title": "The Line Behind Lilly Just Got Longer immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-29-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Factory Floor Got There Before the Ticker latest object",
+          "access": {
+            "tier": "paid",
+            "teaser": true
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-29-cross-sector-brief@sha256-0a39fb8e8342951d778d44c793d5cd2be2051f3fc5b34e511562d899f56f3c17.json",
           "type": "application/json",
           "title": "The Factory Floor Got There Before the Ticker immutable object",
           "access": {
-            "tier": "free"
+            "tier": "paid",
+            "teaser": true
           }
         },
         {
