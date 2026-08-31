@@ -39,6 +39,22 @@
       ],
       "item": [
         {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief.json",
+          "type": "application/json",
+          "title": "The Army Just Put a Buyer Under the Reactor Trade latest object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
+          "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief@sha256-043e2ea70505f9af5b6b5f04f03e7f07128298b53f76e152ddaf4dff23d5452f.json",
+          "type": "application/json",
+          "title": "The Army Just Put a Buyer Under the Reactor Trade immutable object",
+          "access": {
+            "tier": "free"
+          }
+        },
+        {
           "href": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-30-cross-sector-brief.json",
           "type": "application/json",
           "title": "The Line Behind Lilly Just Got Longer latest object",

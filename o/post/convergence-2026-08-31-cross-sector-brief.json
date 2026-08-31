@@ -1,0 +1,234 @@
+{
+  "schema_version": "1.0.0",
+  "kind": "post",
+  "id": "obj_convergence20260831crosssectorbrief",
+  "slug": "convergence-2026-08-31-cross-sector-brief",
+  "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief@sha256-043e2ea70505f9af5b6b5f04f03e7f07128298b53f76e152ddaf4dff23d5452f.json",
+  "lifecycle": {
+    "state": "active",
+    "published_at": "2026-08-31T00:00:00Z"
+  },
+  "content_digest": {
+    "algorithm": "sha256",
+    "value": "043e2ea70505f9af5b6b5f04f03e7f07128298b53f76e152ddaf4dff23d5452f",
+    "canonicalization": "RFC8785-JCS"
+  },
+  "provenance": {
+    "created_by": "Convergence Daily Desk",
+    "created_at": "2026-08-31T00:00:00Z",
+    "modified_at": "2026-08-31T00:00:00Z",
+    "was_generated_by": "@convergence/from-editorial@0.1.0",
+    "source_issue": {
+      "source_format": "editorial.issue.json",
+      "signal_uri": "signal://convergence-daily/claim/convergence-2026-08-31-cross-sector-brief@v1",
+      "mapped_keys": [
+        "issue_id",
+        "headline",
+        "thesis",
+        "confidence",
+        "falsification",
+        "publication_date",
+        "signals"
+      ],
+      "unmapped": {
+        "catalyst_ids": [
+          "dp_nuclear_smr_fuel_ppa_watchlist"
+        ],
+        "entity_ids": [
+          "OKLO",
+          "SMR",
+          "GEV",
+          "LEU",
+          "BWXT",
+          "CEG",
+          "CCJ",
+          "ent_centrus",
+          "ent_cameco",
+          "ent_oklo",
+          "ent_x_energy",
+          "ent_constellation",
+          "ent_kairos_power",
+          "ent_nuscale",
+          "ent_ge_vernova",
+          "ent_terrapower"
+        ],
+        "format": "quiet_setup",
+        "human_action": "Operator should review nuclear-SMR as a refreshed watchlist candidate, not an immediate options execution, and require a current chain refresh before selecting any OKLO or SMR structure.",
+        "legal_disclaimer": "For operator review only; not investment advice.",
+        "machine_action": "Refresh nuclear-SMR scanner rows for OKLO, SMR, LEU, GEV, BWXT, CEG, and CCJ; add Army Janus Program and HALEU contract milestones to the catalyst map; flag no-current-book-exposure for position sizing review.",
+        "methodology_footer": "Synthesized from supplied convergence context, sector corpus claims, decision-packet verdicts and invalidation conditions, scanner snapshot, and paper/live book samples.",
+        "position_conflict_disclosure": "No direct nuclear-SMR exposure is visible in the supplied open book; current open exposure is concentrated in FXA and CORN positions tied to the cicadas/weather thesis.",
+        "product": "convergence_daily",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-08-31",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "state": "observing",
+        "trend_ids": [
+          "nuclear-smr",
+          "ths_nuclear_smr_fuel_ppa_stack"
+        ]
+      },
+      "original_issue": {
+        "catalyst_ids": [
+          "dp_nuclear_smr_fuel_ppa_watchlist"
+        ],
+        "confidence": "medium",
+        "entity_ids": [
+          "OKLO",
+          "SMR",
+          "GEV",
+          "LEU",
+          "BWXT",
+          "CEG",
+          "CCJ",
+          "ent_centrus",
+          "ent_cameco",
+          "ent_oklo",
+          "ent_x_energy",
+          "ent_constellation",
+          "ent_kairos_power",
+          "ent_nuscale",
+          "ent_ge_vernova",
+          "ent_terrapower"
+        ],
+        "falsification": "Hyperscaler nuclear PPA flow falls below 1 GW of newly announced contracted or development-stage capacity for two consecutive quarters. DOE HALEU funding, allocation, or procurement programs are cancelled or delayed past 2027 without a credible replacement supply path. NRC denies or materially delays a first-wave SMR or advanced-reactor construction permit, combined license, or operating license without a credible 24-month resubmission path. Uranium spot pricing remains below USD 60 per pound for four consecutive quarters while Cameco, Centrus, and uranium developers all guide to softer contracting demand. Army Janus Program awards fail to convert into funded milestones, named site work, or credible deployment schedules during FY2027.",
+        "format": "quiet_setup",
+        "headline": "The Army Just Put a Buyer Under the Reactor Trade",
+        "human_action": "Operator should review nuclear-SMR as a refreshed watchlist candidate, not an immediate options execution, and require a current chain refresh before selecting any OKLO or SMR structure.",
+        "issue_id": "convergence-2026-08-31-cross-sector-brief",
+        "legal_disclaimer": "For operator review only; not investment advice.",
+        "machine_action": "Refresh nuclear-SMR scanner rows for OKLO, SMR, LEU, GEV, BWXT, CEG, and CCJ; add Army Janus Program and HALEU contract milestones to the catalyst map; flag no-current-book-exposure for position sizing review.",
+        "methodology_footer": "Synthesized from supplied convergence context, sector corpus claims, decision-packet verdicts and invalidation conditions, scanner snapshot, and paper/live book samples.",
+        "position_conflict_disclosure": "No direct nuclear-SMR exposure is visible in the supplied open book; current open exposure is concentrated in FXA and CORN positions tied to the cicadas/weather thesis.",
+        "product": "convergence_daily",
+        "publication_date": "2026-08-31",
+        "signal_health": {
+          "consecutive_failures": 0,
+          "degradation_note": "No degraded source reported.",
+          "degraded": false,
+          "last_successful_fetch_at": null,
+          "sources": [
+            {
+              "consecutive_failures": 0,
+              "degraded": false,
+              "last_failure_at": null,
+              "last_successful_fetch_at": "2026-08-31",
+              "notes": "Read during candidate rendering.",
+              "source_name": "candidate renderer"
+            }
+          ]
+        },
+        "signals": [
+          "{'type': 'fresh_catalyst', 'summary': 'The U.S. Army selected Antares Nuclear, BWXT Advanced Technologies, General Atomics Electromagnetic Systems, Radiant Industries, and Westinghouse Government Services for Janus Program microreactor agreements, with up to $2.2B across FY2027-2031 and initial sites at five Army bases.', 'date': '2026-08-26', 'sector': 'nuclear-smr'}",
+          "{'type': 'fresh_catalyst', 'summary': 'AP reported on 2026-08-27 that the U.S. Army plans to add nuclear microreactors to five bases for reliable power.', 'date': '2026-08-27', 'sector': 'nuclear-smr'}",
+          "{'type': 'fuel_cycle', 'summary': 'Centrus signed a definitive LEU and HALEU enrichment contract with X-energy, with deliveries expected to begin in 2030 from the American Centrifuge Plant.', 'date': '2026-08-06', 'sector': 'nuclear-smr', 'tickers': ['LEU']}",
+          "{'type': 'scanner', 'summary': 'Scanner shows nuclear-SMR convergence as HIGH across SMR, OKLO, GEV, and LEU, with top option asymmetry in OKLO and SMR rows, but listed expiries are stale relative to the 2026-08-31 publication date.', 'sector': 'nuclear-smr', 'tickers': ['OKLO', 'SMR', 'GEV', 'LEU']}",
+          "{'type': 'book', 'summary': 'Visible open paper/live book exposure is concentrated in FXA and CORN weather-linked trades; no direct nuclear-SMR exposure is visible in the supplied book context.', 'sector': 'nuclear-smr'}"
+        ],
+        "state": "observing",
+        "thesis": "Fresh U.S. Army microreactor procurement evidence changes the nuclear-SMR setup from a speculative data-center power story into a three-part watchlist: military demand, HALEU/fuel scarcity, and licensing progress. The scanner previously found OKLO and SMR optionality, but the scan is stale as of publication, and the book has no direct nuclear exposure.",
+        "trend_ids": [
+          "nuclear-smr",
+          "ths_nuclear_smr_fuel_ppa_stack"
+        ]
+      }
+    }
+  },
+  "title": "The Army Just Put a Buyer Under the Reactor Trade",
+  "summary": "Fresh U.S.",
+  "authors": [
+    {
+      "name": "Convergence Daily",
+      "url": "https://convergence.permanentupperclass.com/authors/convergence-daily/"
+    }
+  ],
+  "claims": [
+    {
+      "key": "thesis",
+      "statement": "Fresh U.S. Army microreactor procurement evidence changes the nuclear-SMR setup from a speculative data-center power story into a three-part watchlist: military demand, HALEU/fuel scarcity, and licensing progress. The scanner previously found OKLO and SMR optionality, but the scan is stale as of publication, and the book has no direct nuclear exposure.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-08-31",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-08-31-cross-sector-brief@v1",
+      "falsification": "Hyperscaler nuclear PPA flow falls below 1 GW of newly announced contracted or development-stage capacity for two consecutive quarters. DOE HALEU funding, allocation, or procurement programs are cancelled or delayed past 2027 without a credible replacement supply path. NRC denies or materially delays a first-wave SMR or advanced-reactor construction permit, combined license, or operating license without a credible 24-month resubmission path. Uranium spot pricing remains below USD 60 per pound for four consecutive quarters while Cameco, Centrus, and uranium developers all guide to softer contracting demand. Army Janus Program awards fail to convert into funded milestones, named site work, or credible deployment schedules during FY2027."
+    }
+  ],
+  "evidence": [],
+  "render": [
+    {
+      "type": "lede",
+      "body": "The Army Just Put a Buyer Under the Reactor Trade",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Thesis",
+      "body": "Fresh U.S. Army microreactor procurement evidence changes the nuclear-SMR setup from a speculative data-center power story into a three-part watchlist: military demand, HALEU/fuel scarcity, and licensing progress. The scanner previously found OKLO and SMR optionality, but the scan is stale as of publication, and the book has no direct nuclear exposure.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "Signals",
+      "body": "sig_1: {'type': 'fresh_catalyst', 'summary': 'The U.S. Army selected Antares Nuclear, BWXT Advanced Technologies, General Atomics Electromagnetic Systems, Radiant Industries, and Westinghouse Government Services for Janus Program microreactor agreements, with up to $2.2B across FY2027-2031 and initial sites at five Army bases.', 'date': '2026-08-26', 'sector': 'nuclear-smr'} (sector: nuclear-smr)\n\nsig_2: {'type': 'fresh_catalyst', 'summary': 'AP reported on 2026-08-27 that the U.S. Army plans to add nuclear microreactors to five bases for reliable power.', 'date': '2026-08-27', 'sector': 'nuclear-smr'} (sector: nuclear-smr)\n\nsig_3: {'type': 'fuel_cycle', 'summary': 'Centrus signed a definitive LEU and HALEU enrichment contract with X-energy, with deliveries expected to begin in 2030 from the American Centrifuge Plant.', 'date': '2026-08-06', 'sector': 'nuclear-smr', 'tickers': ['LEU']} (sector: nuclear-smr)\n\nsig_4: {'type': 'scanner', 'summary': 'Scanner shows nuclear-SMR convergence as HIGH across SMR, OKLO, GEV, and LEU, with top option asymmetry in OKLO and SMR rows, but listed expiries are stale relative to the 2026-08-31 publication date.', 'sector': 'nuclear-smr', 'tickers': ['OKLO', 'SMR', 'GEV', 'LEU']} (sector: nuclear-smr)\n\nsig_5: {'type': 'book', 'summary': 'Visible open paper/live book exposure is concentrated in FXA and CORN weather-linked trades; no direct nuclear-SMR exposure is visible in the supplied book context.', 'sector': 'nuclear-smr'} (sector: nuclear-smr)",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    },
+    {
+      "type": "section",
+      "heading": "What would falsify it",
+      "body": "Hyperscaler nuclear PPA flow falls below 1 GW of newly announced contracted or development-stage capacity for two consecutive quarters. DOE HALEU funding, allocation, or procurement programs are cancelled or delayed past 2027 without a credible replacement supply path. NRC denies or materially delays a first-wave SMR or advanced-reactor construction permit, combined license, or operating license without a credible 24-month resubmission path. Uranium spot pricing remains below USD 60 per pound for four consecutive quarters while Cameco, Centrus, and uranium developers all guide to softer contracting demand. Army Janus Program awards fail to convert into funded milestones, named site work, or credible deployment schedules during FY2027.",
+      "claim_refs": [
+        "thesis"
+      ],
+      "evidence_refs": []
+    }
+  ],
+  "license": {
+    "id": "CC-BY-4.0",
+    "url": "https://creativecommons.org/licenses/by/4.0/",
+    "attribution_required": true,
+    "verbatim_citation": "permitted"
+  },
+  "citation": {
+    "preferred_text": "Convergence Daily. \"The Army Just Put a Buyer Under the Reactor Trade.\" Convergence Daily. 2026-08-31. Resolve signal://convergence-daily/claim/convergence-2026-08-31-cross-sector-brief@v1 for the immutable version_uri.",
+    "preferred_url": "signal://convergence-daily/claim/convergence-2026-08-31-cross-sector-brief@v1",
+    "attribution_required": [
+      "author",
+      "title",
+      "publication",
+      "version_uri"
+    ]
+  },
+  "history": [
+    {
+      "version": "editorial-2026-08-31",
+      "published_at": "2026-08-31T00:00:00Z",
+      "change": "created",
+      "note": "Mapped from editorial issue.json by @convergence/from-editorial."
+    }
+  ]
+}

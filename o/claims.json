@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Fresh U.S. Army microreactor procurement evidence changes the nuclear-SMR setup from a speculative data-center power story into a three-part watchlist: military demand, HALEU/fuel scarcity, and licensing progress. The scanner previously found OKLO and SMR optionality, but the scan is stale as of publication, and the book has no direct nuclear exposure.",
+      "claim_kind": "predictive",
+      "confidence": 0.55,
+      "confidence_label": "medium",
+      "as_of": "2026-08-31",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-08-31-cross-sector-brief@v1",
+      "falsification": "Hyperscaler nuclear PPA flow falls below 1 GW of newly announced contracted or development-stage capacity for two consecutive quarters. DOE HALEU funding, allocation, or procurement programs are cancelled or delayed past 2027 without a credible replacement supply path. NRC denies or materially delays a first-wave SMR or advanced-reactor construction permit, combined license, or operating license without a credible 24-month resubmission path. Uranium spot pricing remains below USD 60 per pound for four consecutive quarters while Cameco, Centrus, and uranium developers all guide to softer contracting demand. Army Janus Program awards fail to convert into funded milestones, named site work, or credible deployment schedules during FY2027.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260831crosssectorbrief",
+      "object_slug": "convergence-2026-08-31-cross-sector-brief",
+      "object_title": "The Army Just Put a Buyer Under the Reactor Trade",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief@sha256-043e2ea70505f9af5b6b5f04f03e7f07128298b53f76e152ddaf4dff23d5452f.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "043e2ea70505f9af5b6b5f04f03e7f07128298b53f76e152ddaf4dff23d5452f",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-31-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "New pipeline entrants in obesity peptides (Ascletis's oral GLP-1 and amylin-combo programs, Hanmi's $2.3B UCN2 licensing deal with Genentech) expand rather than relieve demand on the peptide-API manufacturing base, reinforcing the CDMO capacity-bottleneck thesis, while the visible options market (LLY/NVO, peak-hype, thinning) and the paper book (zero peptide exposure) are still priced for last month's compounding-enforcement story, not this one.",
       "claim_kind": "predictive",
       "confidence": 0.55,

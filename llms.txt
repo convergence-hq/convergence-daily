@@ -16,6 +16,7 @@ Real Convergence Daily episodes published through the dual-native engine.
 - Paid objects are signed and served as teaser canonical objects.
 
 ## Objects
+- [free] The Army Just Put a Buyer Under the Reactor Trade: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief@sha256-043e2ea70505f9af5b6b5f04f03e7f07128298b53f76e152ddaf4dff23d5452f.json
 - [free] The Line Behind Lilly Just Got Longer: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-30-cross-sector-brief@sha256-4eb8a006ae253e7a67e390c2b2e96ac8d1702e8f77e480e304568272fe937845.json
 - [paid] The Factory Floor Got There Before the Ticker: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-29-cross-sector-brief@sha256-0a39fb8e8342951d778d44c793d5cd2be2051f3fc5b34e511562d899f56f3c17.json
 - [paid] The AI Factory Trade Has Moved Down the Rack: https://convergence.permanentupperclass.com/o/post/convergence-2026-08-28-cross-sector-brief@sha256-057bff3bd562d3b1fdc47d8922412193abf8d3706d10906f1e1f599cc4f1784c.json
