@@ -4,14 +4,14 @@
   "id": "obj_convergence20260831crosssectorbrief",
   "slug": "convergence-2026-08-31-cross-sector-brief",
   "canonical_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief.json",
-  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief@sha256-043e2ea70505f9af5b6b5f04f03e7f07128298b53f76e152ddaf4dff23d5452f.json",
+  "version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief@sha256-3dd3ec5ca0acfce21395c8abdb0ba25c1b14ce85518c498a6669a9d055c5aa41.json",
   "lifecycle": {
     "state": "active",
     "published_at": "2026-08-31T00:00:00Z"
   },
   "content_digest": {
     "algorithm": "sha256",
-    "value": "043e2ea70505f9af5b6b5f04f03e7f07128298b53f76e152ddaf4dff23d5452f",
+    "value": "3dd3ec5ca0acfce21395c8abdb0ba25c1b14ce85518c498a6669a9d055c5aa41",
     "canonicalization": "RFC8785-JCS"
   },
   "provenance": {
@@ -173,38 +173,7 @@
   "render": [
     {
       "type": "lede",
-      "body": "The Army Just Put a Buyer Under the Reactor Trade",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Thesis",
-      "body": "Fresh U.S. Army microreactor procurement evidence changes the nuclear-SMR setup from a speculative data-center power story into a three-part watchlist: military demand, HALEU/fuel scarcity, and licensing progress. The scanner previously found OKLO and SMR optionality, but the scan is stale as of publication, and the book has no direct nuclear exposure.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "Signals",
-      "body": "sig_1: {'type': 'fresh_catalyst', 'summary': 'The U.S. Army selected Antares Nuclear, BWXT Advanced Technologies, General Atomics Electromagnetic Systems, Radiant Industries, and Westinghouse Government Services for Janus Program microreactor agreements, with up to $2.2B across FY2027-2031 and initial sites at five Army bases.', 'date': '2026-08-26', 'sector': 'nuclear-smr'} (sector: nuclear-smr)\n\nsig_2: {'type': 'fresh_catalyst', 'summary': 'AP reported on 2026-08-27 that the U.S. Army plans to add nuclear microreactors to five bases for reliable power.', 'date': '2026-08-27', 'sector': 'nuclear-smr'} (sector: nuclear-smr)\n\nsig_3: {'type': 'fuel_cycle', 'summary': 'Centrus signed a definitive LEU and HALEU enrichment contract with X-energy, with deliveries expected to begin in 2030 from the American Centrifuge Plant.', 'date': '2026-08-06', 'sector': 'nuclear-smr', 'tickers': ['LEU']} (sector: nuclear-smr)\n\nsig_4: {'type': 'scanner', 'summary': 'Scanner shows nuclear-SMR convergence as HIGH across SMR, OKLO, GEV, and LEU, with top option asymmetry in OKLO and SMR rows, but listed expiries are stale relative to the 2026-08-31 publication date.', 'sector': 'nuclear-smr', 'tickers': ['OKLO', 'SMR', 'GEV', 'LEU']} (sector: nuclear-smr)\n\nsig_5: {'type': 'book', 'summary': 'Visible open paper/live book exposure is concentrated in FXA and CORN weather-linked trades; no direct nuclear-SMR exposure is visible in the supplied book context.', 'sector': 'nuclear-smr'} (sector: nuclear-smr)",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
-    },
-    {
-      "type": "section",
-      "heading": "What would falsify it",
-      "body": "Hyperscaler nuclear PPA flow falls below 1 GW of newly announced contracted or development-stage capacity for two consecutive quarters. DOE HALEU funding, allocation, or procurement programs are cancelled or delayed past 2027 without a credible replacement supply path. NRC denies or materially delays a first-wave SMR or advanced-reactor construction permit, combined license, or operating license without a credible 24-month resubmission path. Uranium spot pricing remains below USD 60 per pound for four consecutive quarters while Cameco, Centrus, and uranium developers all guide to softer contracting demand. Army Janus Program awards fail to convert into funded milestones, named site work, or credible deployment schedules during FY2027.",
-      "claim_refs": [
-        "thesis"
-      ],
-      "evidence_refs": []
+      "body": "The Army Just Put a Buyer Under the Reactor Trade Thesis Fresh U.S. Army microreactor procurement evidence changes the nuclear-SMR setup from a speculative data-center power story into a three-part watchlist: military demand, HALEU/fuel scarcity, and licensing progress. The scanner previously found OKLO and SMR optionality, but the scan is stale as of publication, and the book has no direct"
     }
   ],
   "license": {
@@ -230,5 +199,9 @@
       "change": "created",
       "note": "Mapped from editorial issue.json by @convergence/from-editorial."
     }
-  ]
+  ],
+  "access": {
+    "tier": "paid",
+    "teaser": true
+  }
 }

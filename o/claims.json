@@ -8,6 +8,31 @@
   "claims": [
     {
       "key": "thesis",
+      "statement": "Several industries are hitting the same wall at once: demand is real, but the supply of the one thing that matters is tight. The market keeps pricing these one company at a time. AVGO and TSM are where that squeeze is easiest to see right now — a pattern worth watching before it has a name.",
+      "claim_kind": "predictive",
+      "confidence": 0.72,
+      "confidence_label": "medium_high",
+      "as_of": "2026-09-01",
+      "evidence_refs": [],
+      "citation_uri": "signal://convergence-daily/claim/convergence-2026-09-01-cross-sector-brief@v1",
+      "falsification": "Reject the setup if packet invalidations fire, scanner asymmetry disappears, or the book exposure already prices the obvious expression.",
+      "cited_by": [],
+      "object_id": "obj_convergence20260901crosssectorbrief",
+      "object_slug": "convergence-2026-09-01-cross-sector-brief",
+      "object_title": "AI infrastructure: The Bottleneck the Market Hasn't Priced",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-09-01-cross-sector-brief@sha256-1da1577a927fb4ddffc5b760142cafaa802a938358f5513c2eab89913a1482aa.json",
+      "object_content_digest": {
+        "algorithm": "sha256",
+        "value": "1da1577a927fb4ddffc5b760142cafaa802a938358f5513c2eab89913a1482aa",
+        "canonicalization": "RFC8785-JCS"
+      },
+      "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-09-01-cross-sector-brief/#claim=thesis",
+      "object_access": {
+        "tier": "free"
+      }
+    },
+    {
+      "key": "thesis",
       "statement": "Fresh U.S. Army microreactor procurement evidence changes the nuclear-SMR setup from a speculative data-center power story into a three-part watchlist: military demand, HALEU/fuel scarcity, and licensing progress. The scanner previously found OKLO and SMR optionality, but the scan is stale as of publication, and the book has no direct nuclear exposure.",
       "claim_kind": "predictive",
       "confidence": 0.55,
@@ -20,15 +45,16 @@
       "object_id": "obj_convergence20260831crosssectorbrief",
       "object_slug": "convergence-2026-08-31-cross-sector-brief",
       "object_title": "The Army Just Put a Buyer Under the Reactor Trade",
-      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief@sha256-043e2ea70505f9af5b6b5f04f03e7f07128298b53f76e152ddaf4dff23d5452f.json",
+      "object_version_uri": "https://convergence.permanentupperclass.com/o/post/convergence-2026-08-31-cross-sector-brief@sha256-3dd3ec5ca0acfce21395c8abdb0ba25c1b14ce85518c498a6669a9d055c5aa41.json",
       "object_content_digest": {
         "algorithm": "sha256",
-        "value": "043e2ea70505f9af5b6b5f04f03e7f07128298b53f76e152ddaf4dff23d5452f",
+        "value": "3dd3ec5ca0acfce21395c8abdb0ba25c1b14ce85518c498a6669a9d055c5aa41",
         "canonicalization": "RFC8785-JCS"
       },
       "human_anchor": "https://convergence.permanentupperclass.com/p/convergence-2026-08-31-cross-sector-brief/#claim=thesis",
       "object_access": {
-        "tier": "free"
+        "tier": "paid",
+        "teaser": true
       }
     },
     {
